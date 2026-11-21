@@ -33,6 +33,8 @@ STATUS_PATH = SITE / "status.json"
 JST = timezone(timedelta(hours=9))
 MIN_ENTRIES = 3
 MAX_SUMMARY_CHARS = 220
+MEDIA_NS = "http://search.yahoo.com/mrss/"
+ET.register_namespace("media", MEDIA_NS)
 
 
 @dataclass(frozen=True)
@@ -58,6 +60,7 @@ class Entry:
     url: str
     count: str = ""
     summary: str = ""
+    image_url: str = ""
 
     @property
     def guid(self) -> str:
@@ -66,6 +69,50 @@ class Entry:
 
 def compact_text(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
+
+
+def extract_thumbnail(card, source_url: str) -> str:
+    """Find an article thumbnail in Hatena's card without fetching article pages.
+
+    Hatena often uses a CSS background-image rather than an <img> tag.
+    Some layouts instead use lazy-loaded img attributes.
+    """
+    thumb = card.select_one(".entrylist-contents-thumb")
+    if thumb is None:
+        return ""
+
+    def valid_url(value: str) -> str:
+        value = html.unescape(str(value).strip())
+        if not value or value.startswith(("data:", "javascript:", "#")):
+            return ""
+        absolute = urljoin(source_url, value)
+        parsed = urlparse(absolute)
+        return absolute if parsed.scheme in ("https", "http") and parsed.netloc else ""
+
+    # The common Hatena markup is:
+    # <p class="entrylist-contents-thumb"><span style="background-image:url(...)"></span></p>
+    for element in [thumb, *thumb.select("[style]")]:
+        style = element.get("style", "")
+        for match in re.finditer(r"""url\(\s*(?:"([^"]+)"|'([^']+)'|([^)]*))\s*\)""", style, re.I):
+            candidate = next((group for group in match.groups() if group is not None), "")
+            image_url = valid_url(candidate)
+            if image_url:
+                return image_url
+
+    # Fallback for layouts using regular/lazy-loaded images.
+    for element in [thumb, *thumb.select("img, [data-background-image], [data-src], [data-original]")]:
+        for attr in ("data-background-image", "data-src", "data-original", "data-lazy-src", "src"):
+            candidate = element.get(attr)
+            if candidate:
+                image_url = valid_url(candidate)
+                if image_url:
+                    return image_url
+        srcset = element.get("data-srcset") or element.get("srcset")
+        if srcset:
+            image_url = valid_url(srcset.split(",", 1)[0].strip().split()[0])
+            if image_url:
+                return image_url
+    return ""
 
 
 def parse_entries(html_text: str, source_url: str) -> list[Entry]:
@@ -95,7 +142,7 @@ def parse_entries(html_text: str, source_url: str) -> list[Entry]:
         count = count_match.group(0).replace(",", "") if count_match else ""
         summary_node = card.select_one(".entrylist-contents-description")
         summary = compact_text(summary_node.get_text(" ", strip=True))[:MAX_SUMMARY_CHARS] if summary_node else ""
-        entries.append(Entry(title=title, url=url, count=count, summary=summary))
+        entries.append(Entry(title=title, url=url, count=count, summary=summary, image_url=extract_thumbnail(card, source_url)))
 
     if len(entries) < MIN_ENTRIES:
         raise ValueError(
@@ -159,6 +206,8 @@ def make_rss(feed: Feed, entries: list[Entry], state: dict[str, str], now: datet
             details.append(entry.summary)
         ET.SubElement(item, "description").text = " / ".join(details) or "はてなブックマークの人気記事"
         ET.SubElement(item, "category").text = feed.name
+        if entry.image_url:
+            ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail", {"url": entry.image_url})
     ET.indent(rss, space="  ")
     return ET.tostring(rss, encoding="utf-8", xml_declaration=True)
 
@@ -207,7 +256,8 @@ def main() -> int:
             response.raise_for_status()
             entries = parse_entries(response.text, feed.source_url)
             path.write_bytes(make_rss(feed, entries, state, now))
-            logging.info("取得成功 %s: %d件", feed.name, len(entries))
+            images = sum(bool(entry.image_url) for entry in entries)
+            logging.info("取得成功 %s: %d件 (サムネイル %d件)", feed.name, len(entries), images)
             new_status[feed.slug] = {"ok": True, "last_success_jst": today_jst, "items": len(entries)}
         except (requests.RequestException, ValueError) as exc:
             failures.append(feed.name)
