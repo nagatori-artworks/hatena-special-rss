@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>はてなブックマーク 人気エントリー - AI・機械学習（非公式RSS）</title>
     <link>https://b.hatena.ne.jp/hotentry/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
@@ -11,39 +11,52 @@
       <link>https://www.yomiuri.co.jp/science/20261121-GYT1T00089/</link>
       <guid isPermaLink="false">urn:sha256:93cfcbaaf0e45895311d5d18753c33332f0478822788f62e36864e3b9b04da5e</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>131ブックマーク / 【読売新聞】 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学</description>
+      <description>172ブックマーク / 【読売新聞】 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e78c1bc61ebce224cc1e3a8521570ddff57eeca9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261121-GYT1I00091-1.jpg%3Ftype%3Dogp" />
     </item>
     <item>
       <title>1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン</title>
       <link>https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/</link>
       <guid isPermaLink="false">urn:sha256:12b2f31c2ea8681d7000b1ed5d38aa4e2a225bc108e5320bc2816ba2b34b0840</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>64ブックマーク / 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプルな構成です。 今年の夏ごろから有志がこのFM-1の内部プログラムの解析を始め、秋になってAIコーディングツールを活用</description>
+      <description>85ブックマーク / 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプルな構成です。 今年の夏ごろから有志がこのFM-1の内部プログラムの解析を始め、秋になってAIコーディングツールを活用</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/81fa9e1b77884c8ce3fccd76f382ee05b876d976/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fmedia.loom-app.com%2Floom%2F2026%2F11%2F15%2F446209eb-71a2-4960-99d0-9ea590f89a78%2Foriginal.jpg%3Fw%3D1200%26h%3D630" />
     </item>
     <item>
       <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
       <link>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</link>
       <guid isPermaLink="false">urn:sha256:ae1629186bbb6c7f562f1911a50883bf63701753a64188e217ee24bb0db96e59</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>35ブックマーク / 評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本時間11月20日、Xで開発者のKun Chen氏の投稿に「12月2日、我々</description>
+      <description>58ブックマーク / 評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本時間11月20日、Xで開発者のKun Chen氏の投稿に「12月2日、我々</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e2582ee7f2f2fdbb646e6120c454d0ae4b7a467e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsmhn.info%2Fwp-content%2Fuploads%2F2026%2F11%2Fgoogle-antigravity-key-visual.webp" />
     </item>
     <item>
       <title>Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ</title>
       <link>https://japan.cnet.com/article/35255245/</link>
       <guid isPermaLink="false">urn:sha256:f41af8adcdf362223a96d888123aa2b743e95a6b9f40b219f57b826be64345e1</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>33ブックマーク / 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</description>
+      <description>41ブックマーク / 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/480cd88b992008e1e34f2605ec07bf2be4a1f3b1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F07%2F01%2Fb95d57450e1a0a14633bad7058b56d76%2Fanthropic-claude-logo-gettyimages-2269811684__1_.jpg" />
     </item>
     <item>
       <title>モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス</title>
       <link>https://note.com/kajinari/n/n19c73d819b14</link>
       <guid isPermaLink="false">urn:sha256:0ba0be763c07055f8cd8f2e30465f767c823fad95138fdcd8f59f6bfa72d5c39</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>38ブックマーク / おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone の払い出し、各種台帳の更新まで、AI が作業して依頼者への報告まで行いま</description>
+      <description>44ブックマーク / おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone の払い出し、各種台帳の更新まで、AI が作業して依頼者への報告まで行いま</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a9df316904c6e29cb68c5368a24e8388e37849ba/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338447690%2Frectangle_large_type_2_ab3f0ac9ae2bd946de352b3d7e97654c.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>https://alpo.ge/remark.pdf</title>
+      <link>https://alpo.ge/remark.pdf</link>
+      <guid isPermaLink="false">urn:sha256:3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>15ブックマーク</description>
       <category>AI・機械学習</category>
     </item>
     <item>
@@ -51,48 +64,54 @@
       <link>https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/</link>
       <guid isPermaLink="false">urn:sha256:db6f158a8f7130b869b4fe860478ccd2b10ebcbe99c516ac9b12d4cb79dfb18f</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>15ブックマーク</description>
+      <description>16ブックマーク</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/db97a5150f6b33d0f214384a05560b3ad72eb7e8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2Fwp-thumbnail-7bf2dfb6b7a0dd9b7561e87b396ccdc3%2F018019c86ac567eceba7268550750d9f%2Faws-iam" />
     </item>
     <item>
-      <title>https://alpo.ge/remark.pdf</title>
-      <link>https://alpo.ge/remark.pdf</link>
-      <guid isPermaLink="false">urn:sha256:3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>11ブックマーク</description>
+      <title>アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:e96349cc6dcb6a832cc546522f95cc978d7d86b2cd7d018df8ab0b10e7623124</guid>
+      <pubDate>Sat, 21 Nov 2026 03:43:12 +0000</pubDate>
+      <description>5ブックマーク / 人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外では割り切れない自然数で、小さい順から2、3、5、7、11と続く。無限に存在し、並び方は一見</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a17c702caf68ee1755762eb4d40457758c57035a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3916592020112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3D4e1c5719d4e9dbc92542864a631f2ca9" />
     </item>
     <item>
       <title>MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か</title>
       <link>https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/</link>
       <guid isPermaLink="false">urn:sha256:daba9e0443f71fd7130509f54775daa62ddcffa8090b235040c41e955b5a1b32</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>14ブックマーク / 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Information http</description>
+      <description>16ブックマーク / 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Information http</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/eda466cd173eca4afa535a4d7ef1bc6db75f11f6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F20%2Fmuse-charm-may-cost-300-usd%2F00.jpg" />
     </item>
     <item>
       <title>斜め上からやってきた「SaaSの死」｜ninoya 古越</title>
       <link>https://note.com/aatoku/n/n129df4db50ba</link>
       <guid isPermaLink="false">urn:sha256:5aaf79ebbea51bcf7854dedd7ed17517b754f0fd1fe0e0bd88bc17748c7a8b60</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>104ブックマーク / 先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全というわけでもないんですが、外部サービスで起きた事故に自社の顧客が巻き込まれるとなると、経営判断としてはかなり重いですよね。 で、この流れ</description>
+      <description>106ブックマーク / 先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全というわけでもないんですが、外部サービスで起きた事故に自社の顧客が巻き込まれるとなると、経営判断としてはかなり重いですよね。 で、この流れ</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0391e6fba027dc3e8038ff50d9f5e9b17f5c292b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338324468%2Frectangle_large_type_2_e36de96de2bd792d86bddac85931ddd6.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
       <title>はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog</title>
       <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
       <guid isPermaLink="false">urn:sha256:20d263a4bd29d739da07f0229120ec17711da7032d4000ecc101304a3198f39c</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>210ブックマーク / はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹介 id:yset0 職種: ウェブアプリケーションエンジニア フィード解析 github.com/mmcdole/gofeed XM</description>
+      <description>211ブックマーク / はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹介 id:yset0 職種: ウェブアプリケーションエンジニア フィード解析 github.com/mmcdole/gofeed XM</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/04cd69a4fd296676215f03822ab1e3c21ba36b0c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704346814673975483%2F14729835035341063398%2F1795163619" />
     </item>
     <item>
       <title>「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type</title>
       <link>https://type.jp/et/feature/32219/</link>
       <guid isPermaLink="false">urn:sha256:ac4679973434e95d3fd9ddd2141bf91611aa03cc2ee40aa5c5fc6e5b88015b77</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>490ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
+      <description>496ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1908588dfb6533e391b392aff7cabfad47c46460/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftype.jp%2Fet%2Ffeature%2Fwp-content%2Fuploads%2F2026%2F11%2Fmatsumoto_yukihiro_OSS.jpg" />
     </item>
     <item>
       <title>TSMCやサムスン、対中半導体出荷を一部停止 AIチップの米輸出規制で - 日本経済新聞</title>
@@ -101,14 +120,16 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>8ブックマーク / 【シリコンバレー=山田航平】台湾積体電路製造（TSMC）や韓国サムスン電子が中国向けの半導体出荷を一部停止したことが19日までに分かった。米政府が人工知能（AI）半導体の対中輸出を厳しくする方針を示したことを受けて対応を変えた。中国ではAI開発への影響を警戒する声が出始めた。英紙フィナンシャル・タイムズは同日、半導体製造受託のTSMCと韓国サムスン電子が、中国顧客への一部半導体出荷を停止したと</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2d1bde3c0bb0eac7e670a1b06a23be37994d465c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3910051020112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3D51fda5ce2450aa32ee616bb1a3f477d4" />
     </item>
     <item>
       <title>AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
       <link>https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</link>
       <guid isPermaLink="false">urn:sha256:b310a066df7d57ccfb28318a7dcd8c72150a50d3b4d99b6450458cff6fa6ed9d</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>26ブックマーク / 大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。 [2611.21885] Language Models Can Rewri</description>
+      <description>27ブックマーク / 大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。 [2611.21885] Language Models Can Rewri</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/56e8e02e7c51f539281e9140fe18dc7e83ed3a9b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F20%2Flarge-language-model-can-rewrite-itself%2F00_m.png" />
     </item>
     <item>
       <title>Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析 - AUTOMATON</title>
@@ -117,14 +138,16 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>5ブックマーク / Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析 Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。 ゲーム市場分析サイトGame Oracleの創設者Ross Burton氏は11月18日、Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によって</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/54cb2ba8bf5df7bb8f9c142b87d6ed6e6aeba54e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fautomaton-media.com%2Fwp-content%2Fuploads%2F2026%2F11%2F20261120-480176-header.jpg" />
     </item>
     <item>
       <title>ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」</title>
       <link>https://www.itmedia.co.jp/news/article/2611/20/2000003369/</link>
       <guid isPermaLink="false">urn:sha256:18824b9ce02dea037ce683b0363c6fb796024a25a09d12b240e10c8cdf0bb07a</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>111ブックマーク / ドン・キホーテを運営するパン・パシフィック・インターナショナルホールディングス（PPIH）は11月19日、生成AIで制作したAI社員「近藤あい」を23日に正式デビューさせると発表した。同日に東京・品川で開催した新商品展示会では、入り口のディスプレイに近藤あいが登場し、来場者を出迎えた。担当者にAI社員を打ち出した狙いを聞いた。 近藤あいは、ドン・キホーテの公式キャラクター「ドンコ」をイメージした、ピンク色の髪とポニーテールが特徴のAIキ</description>
+      <description>112ブックマーク / ドン・キホーテを運営するパン・パシフィック・インターナショナルホールディングス（PPIH）は11月19日、生成AIで制作したAI社員「近藤あい」を23日に正式デビューさせると発表した。同日に東京・品川で開催した新商品展示会では、入り口のディスプレイに近藤あいが登場し、来場者を出迎えた。担当者にAI社員を打ち出した狙いを聞いた。 近藤あいは、ドン・キホーテの公式キャラクター「ドンコ」をイメージした、ピンク色の髪とポニーテールが特徴のAIキ</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2783d95d647d40db4e238e9a2d031a74dc209808/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F20%2F2000003369%2F10012682%2F2048" />
     </item>
     <item>
       <title>先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」</title>
@@ -133,6 +156,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>178ブックマーク / イカヤキ @ikayaki_aiafi ①専門家モード 「あなたはこの分野で20年以上の実務経験を持つ専門家として、一次情報に基づき回答してください」 汎用回答が、一気に専門家インタビュー級に変わる ②結論ファースト 「結論を1行で示し、その後に根拠を3つ箇条書きで。最後に例外があれば添えて」 長文でダラダラ返してくる問題、これで解決 2026-11-15 11:26:25 イカヤキ @ikayaki_aiafi ③3行要約モード 「小</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f34c84ccf763388b9e6d6ec540d326e864725dcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Ff48cd934c0b45b15d34a59e77c14aa33-1200x630.jpeg" />
     </item>
     <item>
       <title>GeminiがMacを代わりに操作可能に アプリやファイルをまたぐ作業も自動化</title>
@@ -141,14 +165,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>21ブックマーク / どのアプリへのアクセスを許可するかはユーザーが選択する。実行中の作業はいつでも一時停止でき、重要な操作に移る前にはユーザーに承認が求められる。アプリをまたぐ作業を任せたい場合は、使うアプリや参照するファイル、成果物を指示に含められる。 使い方の例として、Googleは複数地域のダッシュボードから数値やスクリーンショットを集め、「Googleスライド」にまとめる作業を挙げた。また、Mac内のフォルダーにある衣類の写真を調べ、ウェブで価格の</description>
       <category>AI・機械学習</category>
-    </item>
-    <item>
-      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
-      <guid isPermaLink="false">urn:sha256:2ea792b8120531894d4a62269ab610624ec85c4cc70fa7091275e73d478e7574</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>296ブックマーク / 自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Envi</description>
-      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c3f8473a9e2736950d197122aa0279e150256311/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F04%2F16%2F2902dfdaf54ec0b0034b0119ae2c9843%2Fgemini-logo-gettyimages-2246856729_1280x960.jpg" />
     </item>
     <item>
       <title>Mac版Geminiに「Computer use」 PC作業をAIが代行</title>
@@ -157,6 +174,16 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>27ブックマーク</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ed0fb5f305a8a055668f703c990e6cec4504bef4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F164%2F01.jpg" />
+    </item>
+    <item>
+      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
+      <guid isPermaLink="false">urn:sha256:2ea792b8120531894d4a62269ab610624ec85c4cc70fa7091275e73d478e7574</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>297ブックマーク / 自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Envi</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a181cf08e4e1fdc96168b9a47ff4a18de9d2b61a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--vYXJzE2N--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E8%252587%2525AA%2525E5%252588%252586%2525E3%252581%2525AE%2525E4%2525BB%2525A3%2525E3%252582%25258F%2525E3%252582%25258A%2525E3%252581%2525AB%2525E5%25258B%252595%2525E3%252581%25258FAgent%2525E3%252581%2525B8%2525E3%252580%252582Claude%252520Code%2525E3%252581%2525A8Codex%2525E3%252581%2525A7%2525E4%2525BD%25259C%2525E3%252582%25258B%2525E8%252587%2525AA%2525E5%2525BE%25258B%2525E6%252594%2525B9%2525E5%252596%252584%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3AKazuma%252520Yoshimoto%252520%25257C...%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANTT%252520DATA%252520TECH%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNjYzOTM4ZWIuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>アンソロピック巨額上場でも拭えぬAI不安 中国勢台頭は止められるか - 日本経済新聞</title>
@@ -165,6 +192,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>4ブックマーク / 【シリコンバレー=伴正春、上海=若杉朋子】米アンソロピックが19日上場した。初値は公開価格を上回ったが、米国市場の主要指数は大きく下落した。人工知能（AI）リスクに対する市場の懸念が影を落とす。同社は中国AIの規制強化を求めているが、中国勢の台頭を止めるのは容易ではない。IPOでは中国・香港の投資家を排除「私たちの顧客はAIを、経済成長や貧困撲滅、民主主義や自由な社会を守るために活用してい</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3d8f7e05b79ffc3febf5fb7307e0d04958b26b2e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3911389020112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26fp-x%3D0.82%26fp-y%3D0.35%26h%3D630%26w%3D1200%26s%3D212ac175eaece8e58f32c8b9f5a61071" />
     </item>
     <item>
       <title>生成AIの普及によるWebサイトのトラフィック激減と当社での対策 | 社長ブログ | 才流</title>
@@ -173,14 +201,16 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>25ブックマーク / ChatGPTやGoogleのAI Overviews（AIによる概要）が普及し、BtoBの買い手の情報収集行動が変わっている。たとえば、サービスサイトや営業資料に掲載された情報から比較表を作る作業を、AIに聞いて済ませる人が増えている。 当社のWebサイトの数字にも、その影響が出ている。 本記事では、才流のGA4とGoogle Search Console（以下、サーチコンソール） のデータから、何が変わったのかを見ていく。最後に、才</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8c54c83ef14dbd1fa5af4a180db30118fa5b87b8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsairu.co.jp%2Fwp-content%2Fuploads%2F2026%2F11%2FOGP.png" />
     </item>
     <item>
       <title>Claude CodeにProfile機能を導入する</title>
       <link>https://zenn.dev/explaza/articles/8ce3ed2bbec7c7</link>
       <guid isPermaLink="false">urn:sha256:96fe317dbe18a398bea055d229d3b8b9642213a331cb2c6b9a301467deaa88da</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>17ブックマーク / こんにちは、@_mkazutakaです。 「役割ごとに Claude Code の設定をまるごと入れ替えたい」と思ったことはないでしょうか？ 例えば、開発で使うスキルと、相談用の資料を作るスキル、面談のときに使うスキルは、それぞれまったくの別物です。もっというと本業で使うスキルとプライベートで使うスキルも別かもしれませんね。 ところが今のコーディングエージェント、ここでは Claude Code ですが、プロファイルが実質ひとつしかあり</description>
+      <description>18ブックマーク / こんにちは、@_mkazutakaです。 「役割ごとに Claude Code の設定をまるごと入れ替えたい」と思ったことはないでしょうか？ 例えば、開発で使うスキルと、相談用の資料を作るスキル、面談のときに使うスキルは、それぞれまったくの別物です。もっというと本業で使うスキルとプライベートで使うスキルも別かもしれませんね。 ところが今のコーディングエージェント、ここでは Claude Code ですが、プロファイルが実質ひとつしかあり</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f0a4cb95dd7e3aa95236a90555293f95db60113b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--Jtn0i617--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AClaude%252520Code%2525E3%252581%2525ABProfile%2525E6%2525A9%25259F%2525E8%252583%2525BD%2525E3%252582%252592%2525E5%2525B0%25258E%2525E5%252585%2525A5%2525E3%252581%252599%2525E3%252582%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3A_mkazutaka%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzOWQzZGM0MGMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E6%2525A0%2525AA%2525E5%2525BC%25258F%2525E4%2525BC%25259A%2525E7%2525A4%2525BE%2525E3%252582%2525A8%2525E3%252582%2525AF%2525E3%252582%2525B9%2525E3%252583%252597%2525E3%252583%2525A9%2525E3%252582%2525B6%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhN2E3MjYzNDkuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>わが社はChatGPTでどう紹介されている？ OpenAIが企業向けの確認機能を提供開始</title>
@@ -189,6 +219,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>7ブックマーク / OpenAIは2026年11月10日（現地時間）、企業が「ChatGPT」に自社のプロフィールを登録し、認証を受けられる「Business Hub」と、自社のエージェントを公開してユーザーと直接対話できる「Business Agent」を、「Businesses in ChatGPT」のβ版として発表した。 OpenAIは、Businesses in ChatGPTを、毎週ChatGPTを利用する約12億人と企業をつなぐ新たな手段と位置</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1b56211dea06a1b41196410d698cbd2fd0d523f7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fenterprise%2Farticles%2F2611%2F18%2Fcover_news022.jpg" />
     </item>
     <item>
       <title>AIに悩みを相談する際に気をつけて欲しいこと｜SSC</title>
@@ -197,6 +228,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>669ブックマーク / Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的な生成AIを日常的に活用していることと思います。学業や研究だけでなく、学生生活上のさまざまな悩みについてもまた、AIに相談している人はたくさ</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/181c241c263a99bb6af857399b456e3cb422c6fb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.assdr.kyoto-u.ac.jp%2Fssc%2Fwp-content%2Fthemes%2Fssc%2Fimages%2Fog_image.png" />
     </item>
     <item>
       <title>さよなら「Claude Code」 人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap</title>
@@ -205,6 +237,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>13ブックマーク / AnthropicのAIコーディングツール「Claude Code」は、コードを書くだけでなく、ファイルの編集やコマンドの実行までこなす。今や開発者にとって、手放せない仕事道具の一つになりつつある。 ところが、長年Claude Codeを愛用してきたソフトウェアエンジニアは、ある日、別のAIコーディングツールへの乗り換えを決断した。必要な機能がそろい、多くの開発者に支持されているClaude Codeを離れ、あえて知名度の低いツールを選</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5fe00f2c72f3eb78ddf6070fa6d61936c33244df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkn.itmedia.co.jp%2Fkn%2Farticle%2Fogp%2F2611%2F20%2F2000003337%2F10006895%2F2048" />
     </item>
     <item>
       <title>弱者男性グレーゾーンとしか表せられない人生を歩んできた｜shigeria</title>
@@ -213,6 +246,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>14ブックマーク / 失恋をしてとても辛く、何をしても空虚に感じる。それならばいっそこの機会に自分の半生を振り返ろうと思ってこの記事の筆を執った次第である。 生成AIは推敲を含めて一切使用していない。 1. 高校卒業まで私は小学校三年生まで東京都大田区蒲田に住んでいた。漠然と日能研に通い、中学受験をするものだと考えていたが、両親の離婚を機に母親の実家があった岩手県へ引っ越した。 中学校や高校では周囲に馴染めずにいたせいか友達が一人もできず、苦しい思いをしてい</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9184208899043f48b2464a5a96aebbe4dfdf355/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2l930y2yx77uc.cloudfront.net%2Fproduction%2Fsocial_images%2Fcb04d98bacc5124d7858c3740b8632439eb4aca1.png" />
     </item>
     <item>
       <title>Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達</title>
@@ -221,6 +255,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>22ブックマーク / 南アフリカの開発者がCとアセンブリでOSをゼロから書いている。UEFIブートローダーからSMPカーネル、コンポジットデスクトップまで。Win32がネイティブAPI。初回リリース目標は2028年8月8日。 Impossible OS LinuxでもWindowsでもないWindowsの対抗馬を名乗るOSは珍しくない。ReactOSはWindows NTのバイナリ互換を目指して30年にわたり開発が続いているし、Zorin OSやAtlasO</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3cb4921c7002817c6503351ccf1fa029789debd1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjoho-todai.com%2Fcontent%2Fimages%2Fsize%2Fw1200%2Fformat%2Fjpeg%2F2026%2F11%2F347e0e1618b8a927cf8b0cbc9.avif" />
     </item>
     <item>
       <title>Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携 2029年に衛星打ち上げへ</title>
@@ -229,14 +264,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>16ブックマーク / Project Suncatcherは2025年11月に発表された長期の研究プロジェクト。TPUを搭載した太陽光発電衛星をネットワークでつなぎ、宇宙で機械学習の処理能力を拡大できるかを探っている。Googleは10月1日、衛星画像企業の米Planet Labsと共同開発したTPU搭載の試作衛星を、米SpaceXの「Falcon 9」ロケットで打ち上げた。10月末には、軌道上のTPUから初めてAIの応答を受信したと発表している。2027年</description>
       <category>AI・機械学習</category>
-    </item>
-    <item>
-      <title>キオクシア株の下げ止まらず PER1倍台目前、AI需要を警戒 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB184O30Y6A111C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:fd5ec54d6c5866ae97bd292e0bdc4a5967e5b4fdb3605c6dca6825ac793846a7</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>42ブックマーク / キオクシアホールディングス株の下落が止まらない。20日の東京株式市場で前日比13%安の7186円まで下げ、7カ月半ぶりの安値を付けた。予想PER（株価収益率）は一時2.0倍と1倍台目前まで切り下がった。人工知能（AI）半導体の需要拡大による中長期的な利益成長シナリオへの警戒感が広がっている。市場予想平均（QUICKコンセンサス）ベースの予想PERを用いた。PERは1株当たり利益（EPS）の何倍</description>
-      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0bce101c8fa45217fd5dc91475043387e88511c2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F20%2F2000003358%2F10012664%2F2048" />
     </item>
     <item>
       <title>北海道3市町委託先のマルウェア感染についてまとめてみた - piyolog</title>
@@ -245,6 +273,7 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>24ブックマーク / 2026年11月18日から19日にかけて、北海道の岩見沢市、新得町、留萌市が委託先の協力会社の端末がマルウェアに感染し、委託したデータが漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 3市町の委託データに漏えいのおそれ 岩見沢市と新得町は2026年11月18日、留萌市は19日に、GIS北海道に委託した業務のデータが漏えいしたおそれがあると公表。データはGIS北海道の協力会社である有限会社リムゲートの端末に保存さ</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/19bbadc01d3f460c1f60c3c19746652f21f3f9be/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341276496%2F1795147334" />
     </item>
     <item>
       <title>AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36-&gt;blog;</title>
@@ -253,14 +282,16 @@
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
       <description>338ブックマーク / 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「案Bって何だっけ？」「準備PRってなんだっけ」と聞き返すことがとても多かった。これだとチャットの返答や調査結</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa66ad256054479ff444a84f706fa943e120b1ee/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F1fc598bf9933e879d45c8b8cb0402b3541079adc%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshiba_yu36%252F20261115%252F20261115102037.png" />
     </item>
     <item>
       <title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
       <guid isPermaLink="false">urn:sha256:167872191d71e08528980592a6f3fd950f0379c856011bd56edcdf438f319219</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>131ブックマーク / 2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)にセキュリティリリースを行うと予告(出典: 2)。最高</description>
+      <description>132ブックマーク / 2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)にセキュリティリリースを行うと予告(出典: 2)。最高</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fd56b210edf1022492b3a6eaef0e4cc0d492e2fb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341052855%2F1795105543" />
     </item>
   </channel>
 </rss>
