@@ -34,6 +34,27 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(items[0].findtext('link'), 'https://example.org/a')
         self.assertEqual(items[0].findtext('guid'), Entry('a','https://example.org/a').guid)
 
+    def test_thumbnail_from_css_and_lazy_image(self):
+        sample = '''<div class="entrylist-main">
+        <div class="entrylist-contents"><h3 class="entrylist-contents-title"><a href="https://example.org/a">記事A</a></h3>
+        <div class="entrylist-contents-thumb"><span style="background-image: url(&quot;https://cdn.example.org/a.jpg&quot;)"></span></div></div>
+        <div class="entrylist-contents"><h3 class="entrylist-contents-title"><a href="https://example.org/b">記事B</a></h3>
+        <div class="entrylist-contents-thumb"><img data-src="https://cdn.example.org/b.webp"></div></div>
+        <div class="entrylist-contents"><h3 class="entrylist-contents-title"><a href="https://example.org/c">記事C</a></h3></div>
+        </div>'''
+        entries = parse_entries(sample, 'https://b.hatena.ne.jp/hotentry/it/IT')
+        self.assertEqual(entries[0].image_url, 'https://cdn.example.org/a.jpg')
+        self.assertEqual(entries[1].image_url, 'https://cdn.example.org/b.webp')
+        self.assertEqual(entries[2].image_url, '')
+        state = {}
+        rss = make_rss(Feed('it', 'IT'), entries, state, datetime(2026, 11, 21, tzinfo=timezone.utc))
+        parsed = ET.fromstring(rss)
+        ns = {'media': 'http://search.yahoo.com/mrss/'}
+        items = parsed.findall('./channel/item')
+        self.assertEqual(items[0].find('media:thumbnail', ns).attrib['url'], 'https://cdn.example.org/a.jpg')
+        self.assertEqual(items[1].find('media:thumbnail', ns).attrib['url'], 'https://cdn.example.org/b.webp')
+        self.assertIsNone(items[2].find('media:thumbnail', ns))
+
     def test_empty_page_rejected(self):
         with self.assertRaises(ValueError):
             parse_entries('<html><p>blocked</p></html>', 'https://b.hatena.ne.jp/hotentry/it/IT')
