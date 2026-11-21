@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>はてなブックマーク 人気エントリー - IT（非公式RSS）</title>
+    <link>https://b.hatena.ne.jp/hotentry/it/IT</link>
+    <description>はてなブックマーク『IT』特集の人気エントリーを掲載順に配信する非公式フィードです。</description>
+    <language>ja</language>
+    <generator>PersonalHatenaRSS</generator>
+    <item>
+      <title>１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表</title>
+      <link>https://www.yomiuri.co.jp/science/20261121-GYT1T00089/</link>
+      <guid isPermaLink="false">urn:sha256:93cfcbaaf0e45895311d5d18753c33332f0478822788f62e36864e3b9b04da5e</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>128ブックマーク / 【読売新聞】 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/</link>
+      <guid isPermaLink="false">urn:sha256:12b2f31c2ea8681d7000b1ed5d38aa4e2a225bc108e5320bc2816ba2b34b0840</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>63ブックマーク / 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプルな構成です。 今年の夏ごろから有志がこのFM-1の内部プログラムの解析を始め、秋になってAIコーディングツールを活用</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
+      <link>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</link>
+      <guid isPermaLink="false">urn:sha256:ae1629186bbb6c7f562f1911a50883bf63701753a64188e217ee24bb0db96e59</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>35ブックマーク / 評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本時間11月20日、Xで開発者のKun Chen氏の投稿に「12月2日、我々</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ</title>
+      <link>https://japan.cnet.com/article/35255245/</link>
+      <guid isPermaLink="false">urn:sha256:f41af8adcdf362223a96d888123aa2b743e95a6b9f40b219f57b826be64345e1</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>34ブックマーク / 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158261.html</link>
+      <guid isPermaLink="false">urn:sha256:5b042bad1d836070c14a5de760167eb8cd26a21a51c8ad53d3b215c874f088f8</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>53ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9</link>
+      <guid isPermaLink="false">urn:sha256:bdda52f2e865f2a2a0d7bf0a16dd98b8518082ffc14889cf1da00507a880f705</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>27ブックマーク / ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、二次被害も確認されていないという。 【画像解説と記事全文はこちら】KARTE事件、企業</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス</title>
+      <link>https://note.com/kajinari/n/n19c73d819b14</link>
+      <guid isPermaLink="false">urn:sha256:0ba0be763c07055f8cd8f2e30465f767c823fad95138fdcd8f59f6bfa72d5c39</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>38ブックマーク / おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone の払い出し、各種台帳の更新まで、AI が作業して依頼者への報告まで行いま</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン</title>
+      <link>https://www.cnn.co.jp/usa/35255243.html</link>
+      <guid isPermaLink="false">urn:sha256:77db2a502b4483db3866cc25d85baa378545fc3b9d8b9ec36f03465cd0755254</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>11ブックマーク / ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な政治的転換としか言いようのない試みに出た。ただし過去の経緯が示唆するところによれば、この試みは短命に終</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>阪急電鉄、大阪梅田駅の再開発でツインタワー 40年までに開業 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF207420Q6A121C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:30483d88f545d5186cf65d3d165aed1ff0faebfa2285f9d38f6a3f559d1bee2a</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>16ブックマーク / 阪急電鉄は20日、阪急大阪梅田駅の周辺で進める再開発について、2040年までに開業する計画であることを明らかにした。オフィスや宿泊施設、商業施設などが入るツインタワー型の複合高層ビルを建設する。敷地面積は約3万3420平方メートル。25年1月に営業を終了した「大阪新阪急ホテル」跡地に、ツインタワーのうちの「A棟」と呼ぶ棟を開発する。低層階と高層階に宿泊施設が入り、中層階にはオフィスフロアを設け</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/</link>
+      <guid isPermaLink="false">urn:sha256:db6f158a8f7130b869b4fe860478ccd2b10ebcbe99c516ac9b12d4cb79dfb18f</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>15ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>https://alpo.ge/remark.pdf</title>
+      <link>https://alpo.ge/remark.pdf</link>
+      <guid isPermaLink="false">urn:sha256:3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>11ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か</title>
+      <link>https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/</link>
+      <guid isPermaLink="false">urn:sha256:daba9e0443f71fd7130509f54775daa62ddcffa8090b235040c41e955b5a1b32</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>14ブックマーク / 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Information http</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>GitHub - RustWTM/RustWTM: Windows task manager and resource governor written in Rust. Monitor processes, manage resource usage, and keep your PC responsive.</title>
+      <link>https://github.com/RustWTM/RustWTM</link>
+      <guid isPermaLink="false">urn:sha256:b0f178fecc773d1097f7bda8fc4177ef933602c0f034267e363e5e89d8fbe54e</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>4ブックマーク / A Windows task manager and resource governor written in Rust. Inspect what your PC is doing, diagnose slowdowns, and apply resource policies in the background. The governor starts in dry-run mode so you can review its de</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>【速報】三井住友銀で情報漏えい、最大1400万件</title>
+      <link>https://www.47news.jp/15262461.html</link>
+      <guid isPermaLink="false">urn:sha256:40554fc2515a6ce5852fac94eb972fced75f5206ec2c6c6d0c570494cb995b43</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>287ブックマーク / 三井住友銀行は20日、顧客情報が最大約1400万件漏えいしたと発表した。業務委託先のプレイドのサービスが不正アクセスを受けたため。</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</link>
+      <guid isPermaLink="false">urn:sha256:dd1d27f99f0e38918f2646e240cc14b5d5a9cec88b0a2607ccfe41c5abe4367c</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>208ブックマーク / デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</link>
+      <guid isPermaLink="false">urn:sha256:73b0447ddf4a11d5f5ebb85b9d575054cbb300aab140850caa93b87eae87f84d</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>218ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>膵臓がん治療薬の臨床試験で一部の患者の腫瘍消失、効果に大きな期待 - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/articles/ckpdwe1gwyyxo</link>
+      <guid isPermaLink="false">urn:sha256:687da40b36f36e5466a0d7e6d3e5b509edd3d51a55fdf2cd70b20252c66a13f2</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>240ブックマーク / がんの中で特に致死率が高く治療が難しいものの一つ、膵臓（すいぞう）がんの治療薬の臨床試験でこのほど、腫瘍が完全に消失する事例が確認された。専門家たちはこれを、数十年来の画期的な成果と呼んでいる。</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出</title>
+      <link>https://news.mynavi.jp/techplus/article/20261120-5367457/</link>
+      <guid isPermaLink="false">urn:sha256:94769cc53c678e98cb2b5da7009307239ec14a43d6bfb1587a27d0a23ad33ef5</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>78ブックマーク / CyberNewsは2026年11月18日(現地時間)、「Over 1 million credit cards stolen in attack spanning 20 countries｜Cybernews」において、20かカ以上に設置された700台超のPOS(販売時点情報管理)端末を標的とするサイバー攻撃が発生し、100万枚を超えるクレジットカードおよびデビットカード情報が窃取されたと報じた。 CyberNewsの研究チームは攻撃</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>カスハラ対策に、小型のボディカメラ - 家電 Watch</title>
+      <link>https://kaden.watch.impress.co.jp/docs/news/2157903.html</link>
+      <guid isPermaLink="false">urn:sha256:8bf126a48e8e972f638f49776d0db0ce49708e1bd178b9bdb468bc2a2e5c28c5</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>120ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>職業訓練でHTMLを学んだ後にSES会社に入社、Javaとphpの開発経験ありと経歴詐称でPythonの現場に送り込まれ、初日にリーダーから「君何ができんの？」と詰められた話</title>
+      <link>https://togetter.com/li/2772850</link>
+      <guid isPermaLink="false">urn:sha256:d9ad381f6cd57f001e13ccfb9e8305b7542a7d6cf700dfc6ab7043c430f47e8c</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>27ブックマーク / パワーグライド @uchu_kurage 職業訓練でHTMLをちょっと勉強して入ったSES会社で、研修(PCで好きなことをしてればいいと言われYahooニュースを1ヶ月見た)後、Javaと phpの開発経験があると経歴詐称させられ、ブチ込まれたpythonの現場の初日にリーダーから「君何ができんの？」と詰められ、定時で現場出た瞬間ボロ泣きしたあの日 2026-11-19 21:25:54 パワーグライド @uchu_kurage 思った</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>斜め上からやってきた「SaaSの死」｜ninoya 古越</title>
+      <link>https://note.com/aatoku/n/n129df4db50ba</link>
+      <guid isPermaLink="false">urn:sha256:5aaf79ebbea51bcf7854dedd7ed17517b754f0fd1fe0e0bd88bc17748c7a8b60</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>104ブックマーク / 先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全というわけでもないんですが、外部サービスで起きた事故に自社の顧客が巻き込まれるとなると、経営判断としてはかなり重いですよね。 で、この流れ</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
+      <guid isPermaLink="false">urn:sha256:f032b54d41e7564d8fa648d34d9d16b4951d84b3aa8639e1ce6d9349ca9d6d92</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>128ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog</title>
+      <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
+      <guid isPermaLink="false">urn:sha256:20d263a4bd29d739da07f0229120ec17711da7032d4000ecc101304a3198f39c</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>210ブックマーク / はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹介 id:yset0 職種: ウェブアプリケーションエンジニア フィード解析 github.com/mmcdole/gofeed XM</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/32219/</link>
+      <guid isPermaLink="false">urn:sha256:ac4679973434e95d3fd9ddd2141bf91611aa03cc2ee40aa5c5fc6e5b88015b77</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>490ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>アンソロピック上場、従業員のほぼ全員が「百万長者」に 「億万長者」も600人</title>
+      <link>https://www.cnn.co.jp/tech/35255230.html</link>
+      <guid isPermaLink="false">urn:sha256:e0a1df612203146a9cdbae73018a73e91b83e86df96d624492dd117ef9bfeb58</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>137ブックマーク / ニューヨーク（CNN） 米人工知能（AI）開発企業アンソロピックのナスダック新規上場（IPO）により、従業員の大多数が一夜にして資産100万ドル（約1.6億円）以上の「百万長者」になった。さらに、その何倍もの資産を手にした従業員もいる。 規制当局への申告によると、同社の従業員は今年9月の時点で5300人。企業の株式情報を提供する米ヒル・ドットコムのデータによると、公開価格が1株あたり83ドル（約1万3200円）に設定された後、約600人</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
+      <link>https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html?linkType=article&amp;id=ASVCN30WCVCNULFA01NM</link>
+      <guid isPermaLink="false">urn:sha256:6198b38e14e87e30cec0afa8aafc9a122ffa39bbd5b4fed33416299cac092fe9</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>8ブックマーク / デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>TSMCやサムスン、対中半導体出荷を一部停止 AIチップの米輸出規制で - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:5287bd7e2c14e0927854e7948a018310cdc3bc2f072da883e8d3fe81531f5ee5</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>8ブックマーク / 【シリコンバレー=山田航平】台湾積体電路製造（TSMC）や韓国サムスン電子が中国向けの半導体出荷を一部停止したことが19日までに分かった。米政府が人工知能（AI）半導体の対中輸出を厳しくする方針を示したことを受けて対応を変えた。中国ではAI開発への影響を警戒する声が出始めた。英紙フィナンシャル・タイムズは同日、半導体製造受託のTSMCと韓国サムスン電子が、中国顧客への一部半導体出荷を停止したと</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
+      <link>https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</link>
+      <guid isPermaLink="false">urn:sha256:b310a066df7d57ccfb28318a7dcd8c72150a50d3b4d99b6450458cff6fa6ed9d</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>26ブックマーク / 大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。 [2611.21885] Language Models Can Rewri</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>ノンフライヤーで唐揚げ選手権! 最新4モデルどう違う?</title>
+      <link>https://kaden.watch.impress.co.jp/docs/topic/topic/2151258.html</link>
+      <guid isPermaLink="false">urn:sha256:60a62e3ece6cd0bd2705ab6d3bb9fc99b9f5ee4b594249f0943cf9e6cadb0ef7</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>14ブックマーク</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>北海道3市町委託先のマルウェア感染についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/130214</link>
+      <guid isPermaLink="false">urn:sha256:d55796613ad79704554922ed409a875f06bac696ee3bc4a5f78a2c96e4093a68</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>24ブックマーク / 2026年11月18日から19日にかけて、北海道の岩見沢市、新得町、留萌市が委託先の協力会社の端末がマルウェアに感染し、委託したデータが漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 3市町の委託データに漏えいのおそれ 岩見沢市と新得町は2026年11月18日、留萌市は19日に、GIS北海道に委託した業務のデータが漏えいしたおそれがあると公表。データはGIS北海道の協力会社である有限会社リムゲートの端末に保存さ</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36-&gt;blog;</title>
+      <link>https://blog.shibayu36.org/entry/2026/11/17/120000</link>
+      <guid isPermaLink="false">urn:sha256:f3d74dda9c01a0cb63ecb07ca4d53781714d0e4ab1fe341cd94308b4017683f2</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>338ブックマーク / 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「案Bって何だっけ？」「準備PRってなんだっけ」と聞き返すことがとても多かった。これだとチャットの返答や調査結</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
+      <guid isPermaLink="false">urn:sha256:167872191d71e08528980592a6f3fd950f0379c856011bd56edcdf438f319219</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>131ブックマーク / 2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)にセキュリティリリースを行うと予告(出典: 2)。最高</description>
+      <category>IT</category>
+    </item>
+  </channel>
+</rss>

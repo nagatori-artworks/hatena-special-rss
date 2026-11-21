@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>はてなブックマーク 人気エントリー - プログラミング（非公式RSS）</title>
+    <link>https://b.hatena.ne.jp/hotentry/it/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0</link>
+    <description>はてなブックマーク『プログラミング』特集の人気エントリーを掲載順に配信する非公式フィードです。</description>
+    <language>ja</language>
+    <generator>PersonalHatenaRSS</generator>
+    <item>
+      <title>「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
+      <guid isPermaLink="false">urn:sha256:f032b54d41e7564d8fa648d34d9d16b4951d84b3aa8639e1ce6d9349ca9d6d92</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>128ブックマーク</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/32219/</link>
+      <guid isPermaLink="false">urn:sha256:ac4679973434e95d3fd9ddd2141bf91611aa03cc2ee40aa5c5fc6e5b88015b77</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>490ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>Agenship — Software FactoryであなたのチームにAIの開発ラインを</title>
+      <link>https://agenship.ai/</link>
+      <guid isPermaLink="false">urn:sha256:98903d8f646e91486383d1196cfbb68a4000e4ef06b9e63091066c27b22d05f3</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>38ブックマーク / Agenshipは、仕様の策定から実装・テスト・ Pull Requestの作成を、AIエージェントがクラウド上で 進めるSoftware Factoryです。 あなたの組織のAI活用は、今どの段階ですか？あなたの組織のAI活用は、 今どの段階ですか？コーディングエージェントによって、個人のソフトウェア開発は速くなりました。 組織の生産性を上げるための次の一手は、 開発を実行・管理し、継続的に改善できるSoftware Factoryで</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html</link>
+      <guid isPermaLink="false">urn:sha256:c1cc4b04ecc012236650ccff473e731c6fbb123af5e6da48a03d62527f8e52d7</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>106ブックマーク / 連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意味やルールを伝える必要がある。その共通モデルとして注目されるのが「オントロジー（Ontology）」だ。 2026年10～11月、D</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>ソフトウェアダークファクトリー | 技術評論社</title>
+      <link>https://gihyo.jp/book/2026/978-4-297-16073-9</link>
+      <guid isPermaLink="false">urn:sha256:ab88b920a2b7fcd9db5a357560ac3dc28070c608070de72e9c6f10f58718beb9</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>113ブックマーク / 概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み出し続けられる開発環境を指します。 本書は、DDD、型システム、形式手法、SREなどの古典的・現代的工学手法を「AIを制御するしくみ」とし</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
+      <link>https://zenn.dev/karamage/books/50c18e52e7d19e</link>
+      <guid isPermaLink="false">urn:sha256:e4efd872620775a3f0486099706ca8c29c50d6aff58e012cb7fb00feba5d6c40</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>47ブックマーク / AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren Tan）氏が、日々の開発で使っているスキ</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>「Rustで書き直したら爆速」のさらに先へ。『高速化プログラミング入門』で学ぶ、言語に依存しない高速化 - Findy Media</title>
+      <link>https://findy-code.io/media/articles/modoku-yusuktan-202611</link>
+      <guid isPermaLink="false">urn:sha256:e33043285a3d7b358e7c0aa157e10cf7af622de0e0046bdba633e00f1aa14adb</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>41ブックマーク / みなさんこんにちは。 「あの人も読んでる」、第24回目の投稿です。maguro（X @yusuktan）がお届けします。 今回は、2026年10月に出たばかりの本『高速化プログラミング入門 第2版』を紹介します。 僕は普段、JavaScript界隈に生息しているのですが、この界隈は速さの話題に事欠きません。まずJavaScriptを実行するエンジンからして、ChromeのV8、SafariのJavaScriptCore、Firefoxの</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>初代「シムシティ」のソースコードを解析して判明した高評価の都市を作るための意外な条件とは？</title>
+      <link>https://gigazine.net/news/20261119-simcity-high-score/</link>
+      <guid isPermaLink="false">urn:sha256:b3cc79ccc573273134bb78158c6cf89b88489743f19f911a7e00e5293e12e312</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>112ブックマーク / 都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。 A Perfect SimCity · Articles https://www.jeffquast.com/post/a-perfect-simcity/ 1989年</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」</title>
+      <link>https://gigazine.net/news/20261118-xestrata/</link>
+      <guid isPermaLink="false">urn:sha256:556a12a155b2dcad8b92d972ae9e501bf554c766cb5a7fc66f68c4ccb3ae8e6d</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>16ブックマーク / 1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata」です。 MistVVK/XeStrata: LLM &amp; Image maker</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>最近、コードを真面目に読まなくなった</title>
+      <link>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</link>
+      <guid isPermaLink="false">urn:sha256:270fbfafac82336e11134416cc581ae2b94e551b699395da2ef6c63c97dea2bc</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>94ブックマーク / 最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それよりも、AIが正しく仕事をできる前提を整える</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>Google「Gemini Notebook」、業務ツールを生成できる新機能</title>
+      <link>https://japan.cnet.com/article/35254996/</link>
+      <guid isPermaLink="false">urn:sha256:c02c6a73dd746adca49aa98d64665f8c1b9247b7eb971d5183472141fb0d5dd5</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>124ブックマーク / Googleは11月16日、AIノートツール「Gemini Notebook」に、取り込んだ資料から操作可能なウェブサイトを生成する機能を追加した。試験勉強に使う教材や、売上データを確認する画面、タスク管理ツールなどを作成できる。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次提供する。</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ</title>
+      <link>https://note.com/wakabame/n/nc76b65a187bb</link>
+      <guid isPermaLink="false">urn:sha256:20cd84b78ec04a5efa3244b73c189409b0a47dc00705dedc652581be93e5ec54</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>262ブックマーク / コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を高速にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記事では、ソフトウェアエンジニア（そして、フリーランスエンジニア）である私がコーディングエージェントに対して職業上の危機感を覚えるポイントと、それ</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>GitHub - krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair,</title>
+      <link>https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</link>
+      <guid isPermaLink="false">urn:sha256:b3972186990d3492b9042ee17f191a806f2896c5fcc7a0d2929c78edc60c133f</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>29ブックマーク / Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history. Battery levels of your wireless mouse, headset, keyboard and controller, right on the Windows t</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html</link>
+      <guid isPermaLink="false">urn:sha256:733d24a757e75041e2e7c6b777e3065b65afc3dc786983753139863246cdde81</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>25ブックマーク / オープンソースの3D CAD「SolidCraft」をご存じでしょうか。無償でありながら、Webブラウザとデスクトップアプリから利用できるパラメトリック3D CADです。スケッチからの立体作成や履歴を使った編集に加え、デスクトップ版には生成AI（人工知能）と対話しながらモデリングする機能も搭載されています。 今回は、SolidCraftの基本機能や開発の背景に触れながら、筆者が実際に操作し、AI機能を試して感じた使い勝手や課題について紹</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
+      <link>https://zenn.dev/mizchi/articles/mutation-test-quality</link>
+      <guid isPermaLink="false">urn:sha256:11709c2adb40051c72815a9c97675bf89d273b5e6a054a83e89b900e378ae470</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>394ブックマーク / AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 Claude が最初「mutato</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2156904.html</link>
+      <guid isPermaLink="false">urn:sha256:980651978d6f9f0990a45f89636cd456a15f0f77b176ef9e373ad019e912fa69</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>221ブックマーク</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>「たった97KB」のリアル海底3Dデモが大注目浴びる。小ささの秘訣は“全部その場で作る”こと - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261116-479523/</link>
+      <guid isPermaLink="false">urn:sha256:f264d9db1cfcc56a927c03ed21a8b50a1ecb776ab661d05ddda9202ee21691c1</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>423ブックマーク / Maksymilian Dendura氏がわずか97キロバイトのリアルな海底世界「Abyssal Garden」を公開し注目を集めている。 ポーランドのフロントエンド技術者Maksymilian Dendura氏がわずか97キロバイトのリアルな海底世界「Abyssal Garden」を公開し注目を集めている。ブラウザからGPUを操作するWebGPU技術を用いて描画される本作品はAnthropicが11月9日に公開したばかりの生成AIモデ</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
+      <link>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</link>
+      <guid isPermaLink="false">urn:sha256:9667f5c568c43b248e63026116ccf6b1efd7e5fd10594d5bc9686e7071f8010a</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>84ブックマーク / Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraft」を発表しました。 Hyperlight-Unikraftはその名称が示す通り、軽量な仮想マシンマネージャライブラリ「Hyperlight</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>もういい加減"技術勉強会"やめませんか？ - Qiita</title>
+      <link>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e</link>
+      <guid isPermaLink="false">urn:sha256:f73125586ef7f40492ae362b8d5db94f3d9b6c485d8ce015972f9472c1fc362a</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>337ブックマーク / Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。 「いまさら聞けないKuberne</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化</title>
+      <link>https://gigazine.net/news/20261116-rust-1-100/</link>
+      <guid isPermaLink="false">urn:sha256:f79490e7b04b7177a89215cd2bd1faef25b8b0f9fb8fba56ab47355cd7d56429</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>21ブックマーク / プログラミング言語「Rust」の開発チームが2026年11月12日に「Rust 1.100.0」をリリースしました。Rust 1.100では約10年にわたって開発が続けられてきた「never型」が正式に利用可能になったほか、外部パッケージの安全対策やメモリ管理に関する機能の改善などが行われています。 Announcing Rust 1.100.0 | Rust Blog https://blog.rust-lang.org/2026/1</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>GitHub - owasp-dep-scan/dep-scan: OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as</title>
+      <link>https://github.com/owasp-dep-scan/dep-scan</link>
+      <guid isPermaLink="false">urn:sha256:5d61d38e2288dfe5363365f1007359eab99db07de35c595b3f6670c508dfe6f7</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>57ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」</title>
+      <link>https://gigazine.net/news/20261115-editsqlite/</link>
+      <guid isPermaLink="false">urn:sha256:b9301a18093cc1513336e76f4c3dbf8289baeb44b01dff3b9ed62c56ec912885</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>34ブックマーク / データベースの中身を調べたいとき、サーバーへのアップロードや専用ソフトのインストールが必要になる場面があります。そうした手間を省き、ブラウザ上でSQLiteデータベース(.sqlite・.db)・SQLダンプファイル・CSVファイルを開いて編集と形式変換ができる無料のWebアプリが「editsqlite」です。 SQLite Editor Online — Open, Edit &amp; Export DB In Your Browser h</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>Kiri: a fast Docker Desktop alternative for Mac, Windows and Linux</title>
+      <link>https://runkiri.com/</link>
+      <guid isPermaLink="false">urn:sha256:dc5071fd77db1d9b3ae038de8c6e3c93dddf87553472271d0d911391c85903ea</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>25ブックマーク / New0.2.2 Mac · Windows · Linux The modern container runtime. 8× faster than Docker. Kiri runs Docker containers with one daemon. The docker CLI, Compose and the Docker API work as they do today. The 8×: docker run takes </description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>【やきとりつづらや＠上田】上田名物「美味だれ焼き鳥」発祥店の系譜を持つ老舗焼きとり店 - 御成門プログラマーのグルメ記録</title>
+      <link>https://food.onarimon.jp/entry/2026/11/14/203910</link>
+      <guid isPermaLink="false">urn:sha256:b61e5e7dcd709846c4c3c04fd1b8731059d7e9497ad8ea14a01ca6e8132c6e6b</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>25ブックマーク / 長野県上田市にあります1981年創業(昭和56年)の老舗焼き鳥屋「やきとり つづらや」さんを紹介します。 上田のご当地グルメ「美味だれ焼き鳥(おいだれやきとり)」発祥のお店である「鳥正」さんのご家族が味を引き継いで営業している由緒あるお店です。 外観・場所・アクセス メニュー やきとり 豚レバー 白レバー(鳥) かしら ねぎま つくね 鳥もも 信州野菜(椎茸) 鳥皮 鳥いかだ(手羽先) タン ハツ(数量限定) 親鳥 馬刺し 牛すじ煮 炭</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com</title>
+      <link>https://kawarimidoll.com/posts/202610201/</link>
+      <guid isPermaLink="false">urn:sha256:00ec5c43c70e233d5b16381fc13e0686b4b5d766f02cf8e30c6272b5f6492daa</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>122ブックマーク / 応答時間だけでなくルーターやインターネットの接続状況も調べてどこに問題がありそうかを教えてくれるspingの紹介です。 GitHub - LambdaBytes/sping: A modern, cross-platform ping with real-time diagnostics, network context, quality scoring, and multi-target monitoring. A modern, c</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com</title>
+      <link>https://kawarimidoll.com/posts/202610182/</link>
+      <guid isPermaLink="false">urn:sha256:62b0df49515e7bf112c75f85ad109d7dcb1fd4b46305ed7c004ab6845f0c29c0</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>167ブックマーク / Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
+      <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
+      <guid isPermaLink="false">urn:sha256:0c16862164d1919fd8a64ae57252398bc54d1d7016179d6e5a07f92b4e601bd8</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>74ブックマーク / 定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る操作をしたとき、別の画面から入ったとき、と条件の違いを 1 つずつケースに起こすからです。 この分け方にしていたので、あとで RB</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>Building always-on agents</title>
+      <link>https://claude.com/resources/articles/building-always-on-agents</link>
+      <guid isPermaLink="false">urn:sha256:2fce942bef9f44eb17ef098e2199f7919eb3ee405f82f17b4927dc65376ed019</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>318ブックマーク / Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+      <link>https://zenn.dev/caphtech/articles/qwen38-zh-ban</link>
+      <guid isPermaLink="false">urn:sha256:41c2a186a02336ba353fe5aebdf1d54ed663d0e8849453138aba9378ede2d3a9</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>95ブックマーク / 同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMMLUの医療の7科目から40問（選択肢の理由を日本語で説明させる）、自由記述20問（「〇〇について、</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog</title>
+      <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
+      <guid isPermaLink="false">urn:sha256:20d263a4bd29d739da07f0229120ec17711da7032d4000ecc101304a3198f39c</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>210ブックマーク / はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹介 id:yset0 職種: ウェブアプリケーションエンジニア フィード解析 github.com/mmcdole/gofeed XM</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>北海道3市町委託先のマルウェア感染についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/130214</link>
+      <guid isPermaLink="false">urn:sha256:d55796613ad79704554922ed409a875f06bac696ee3bc4a5f78a2c96e4093a68</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>24ブックマーク / 2026年11月18日から19日にかけて、北海道の岩見沢市、新得町、留萌市が委託先の協力会社の端末がマルウェアに感染し、委託したデータが漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 3市町の委託データに漏えいのおそれ 岩見沢市と新得町は2026年11月18日、留萌市は19日に、GIS北海道に委託した業務のデータが漏えいしたおそれがあると公表。データはGIS北海道の協力会社である有限会社リムゲートの端末に保存さ</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36-&gt;blog;</title>
+      <link>https://blog.shibayu36.org/entry/2026/11/17/120000</link>
+      <guid isPermaLink="false">urn:sha256:f3d74dda9c01a0cb63ecb07ca4d53781714d0e4ab1fe341cd94308b4017683f2</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>338ブックマーク / 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「案Bって何だっけ？」「準備PRってなんだっけ」と聞き返すことがとても多かった。これだとチャットの返答や調査結</description>
+      <category>プログラミング</category>
+    </item>
+    <item>
+      <title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
+      <guid isPermaLink="false">urn:sha256:167872191d71e08528980592a6f3fd950f0379c856011bd56edcdf438f319219</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>131ブックマーク / 2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)にセキュリティリリースを行うと予告(出典: 2)。最高</description>
+      <category>プログラミング</category>
+    </item>
+  </channel>
+</rss>
