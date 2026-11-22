@@ -7,11 +7,29 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n9c2bb939b9c7</link>
+      <guid isPermaLink="false">urn:sha256:a985c5791549e6a7e7b718df18347d91fc47f7dfde463be34e4e4bbb6ff3a0d9</guid>
+      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
+      <description>158ブックマーク / （2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。） 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claudeとともにリーマン予想を証明したと発表した。公表されたのは、わずか4ページの声明と、Leanという証明支援系で書かれた膨大なコードである。そのコードは175,</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/58a756af777bb493b71d787368deace7bcf3b7aa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338963061%2Frectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
+      <link>https://gigazine.net/news/20261121-wyrmrss/</link>
+      <guid isPermaLink="false">urn:sha256:06ca1cffd7e74160e4bbc3dddaa6925df3a8b7c18164bf90cc21bdb728d5cfa8</guid>
+      <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
+      <description>23ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bed045e81676f6a4690970ebee5cec42c933f3fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fwyrmrss%2F00.png" />
+    </item>
+    <item>
       <title>将棋AI、先手勝率が高すぎて大会運営が困難に | やねうら王 公式サイトやねうら王 公式サイト</title>
       <link>https://yaneuraou.yaneu.com/2026/11/21/shogi-ai-first-player-win-rate-crisis/</link>
       <guid isPermaLink="false">urn:sha256:c3d0f69190475d8899e44077d3fd35452a82a53e1ffc096e5f1c548e06d89cff</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>213ブックマーク / 11月14日・15日に第7回電竜戦本戦が開催された。(正式名称:文部科学大臣杯第7回世界将棋AI電竜戦本戦) 今回は、予選を抜けた上位10チームが戦う決勝日において、先手勝率80%超えとなった。 電竜戦、本戦決勝の先手勝率です。 先手の持ち時間を減らしてもなお、約8割に達しました。先手勝率が高くなると勝ち点に差がつきにくくなります。 今後の大会はどうなるのでしょうか・・・。 https://t.co/VXjPeAJ92V pic.twi</description>
+      <description>296ブックマーク / 11月14日・15日に第7回電竜戦本戦が開催された。(正式名称:文部科学大臣杯第7回世界将棋AI電竜戦本戦) 今回は、予選を抜けた上位10チームが戦う決勝日において、先手勝率80%超えとなった。 電竜戦、本戦決勝の先手勝率です。 先手の持ち時間を減らしてもなお、約8割に達しました。先手勝率が高くなると勝ち点に差がつきにくくなります。 今後の大会はどうなるのでしょうか・・・。 https://t.co/VXjPeAJ92V pic.twi</description>
       <category>プログラミング</category>
     </item>
     <item>
@@ -28,7 +46,7 @@
       <link>https://type.jp/et/feature/32219/</link>
       <guid isPermaLink="false">urn:sha256:ac4679973434e95d3fd9ddd2141bf91611aa03cc2ee40aa5c5fc6e5b88015b77</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>529ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
+      <description>535ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1908588dfb6533e391b392aff7cabfad47c46460/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftype.jp%2Fet%2Ffeature%2Fwp-content%2Fuploads%2F2026%2F11%2Fmatsumoto_yukihiro_OSS.jpg" />
     </item>
@@ -55,7 +73,7 @@
       <link>https://gihyo.jp/book/2026/978-4-297-16073-9</link>
       <guid isPermaLink="false">urn:sha256:ab88b920a2b7fcd9db5a357560ac3dc28070c608070de72e9c6f10f58718beb9</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>114ブックマーク / 概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み出し続けられる開発環境を指します。 本書は、DDD、型システム、形式手法、SREなどの古典的・現代的工学手法を「AIを制御するしくみ」とし</description>
+      <description>115ブックマーク / 概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み出し続けられる開発環境を指します。 本書は、DDD、型システム、形式手法、SREなどの古典的・現代的工学手法を「AIを制御するしくみ」とし</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/efd3f57a5dc248564458f15ee925b4324c693fc4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fgihyo.jp%2Fassets%2Fimages%2Fogp%2F2026%2F9784297160739.jpg" />
     </item>
@@ -145,7 +163,7 @@
       <link>https://zenn.dev/mizchi/articles/mutation-test-quality</link>
       <guid isPermaLink="false">urn:sha256:11709c2adb40051c72815a9c97675bf89d273b5e6a054a83e89b900e378ae470</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>397ブックマーク / AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 Claude が最初「mutato</description>
+      <description>398ブックマーク / AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 Claude が最初「mutato</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/24319cc06ab8950d4039fc304b7e6832ff90796e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--gIzUz2IG--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%25258A%2525E3%252581%252584%2525E3%252580%252581%252520Mutation%252520Test%252520%2525E3%252582%252592%2525E3%252582%252584%2525E3%252582%25258C%2525E3%252580%252582%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E5%252593%252581%2525E8%2525B3%2525AA%2525E3%252582%252592%2525E3%252580%252581%2525E6%2525B8%2525AC%2525E3%252582%25258B%2525E3%252581%25259F%2525E3%252582%252581%2525E3%252581%2525AB%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Amizchi%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
@@ -181,7 +199,7 @@
       <link>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e</link>
       <guid isPermaLink="false">urn:sha256:f73125586ef7f40492ae362b8d5db94f3d9b6c485d8ce015972f9472c1fc362a</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>337ブックマーク / Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。 「いまさら聞けないKuberne</description>
+      <description>336ブックマーク / Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。 「いまさら聞けないKuberne</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9bedc1165a883e99b7f2b7fb3f96b9aef383651b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjUzMzYxJTJGN2NmMjRkN2FkYjg0YWRmZDAyNDg4M2NkZGUzOTE0NDJkNWM1MTdkMCUyRmxhcmdlLnBuZyUzRjE3OTEyNTAyNjE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWYyN2Y4YjkwYmIyNWMwNGI4MzYzNmI4ODZhN2Y4ZWRm%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253D40d751e4787c8b79ec9331efeceb1406%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJTgyJUUzJTgxJTg2JUUzJTgxJTg0JUUzJTgxJTg0JUU1JThBJUEwJUU2JUI4JTlCJTIyJUU2JThBJTgwJUU4JUExJTkzJUU1JThCJTg5JUU1JUJDJUI3JUU0JUJDJTlBJTIyJUUzJTgyJTg0JUUzJTgyJTgxJUUzJTgxJUJFJUUzJTgxJTlCJUUzJTgyJTkzJUUzJTgxJThCJUVGJUJDJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDZmMTM1YzI2MmRkY2NlZWQ4YmQ1OTdjODc1OWYzYzI%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb3Rvd2F6YW1hbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIyZmU5M2ExMTBiZjZjM2Q4NTIyZjI4YjNjMTkyZmUy%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D01fb13cb4ddc12cbd72c7419f6128a93" />
     </item>
@@ -249,40 +267,13 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2ee69568fafa6f2a0f5026916c38eb1279f2bb0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610182%2Fog.png" />
     </item>
     <item>
-      <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
-      <link>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</link>
-      <guid isPermaLink="false">urn:sha256:0c16862164d1919fd8a64ae57252398bc54d1d7016179d6e5a07f92b4e601bd8</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>74ブックマーク / 定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る操作をしたとき、別の画面から入ったとき、と条件の違いを 1 つずつケースに起こすからです。 この分け方にしていたので、あとで RB</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/11957cdefbcd82a8bc5dc8f1519322d754fdc59c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--BfX_dzk8--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAI%2525E3%252581%2525A7%2525E8%252586%2525A8%2525E3%252582%252589%2525E3%252581%2525BF%2525E7%2525B6%25259A%2525E3%252581%252591%2525E3%252582%25258B%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E3%252580%252581%2525E3%252583%2525AA%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%252599%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252583%252589%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252581%2525A7%2525E9%252581%2525B8%2525E3%252582%252593%2525E3%252581%2525A7%2525E5%25259B%25259E%2525E3%252581%252599%2525E3%252581%2525BE%2525E3%252581%2525A7%2525E3%252581%2525AE%2525E8%2525A8%252598%2525E9%25258C%2525B2%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3AKeisuke%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkYTUzMjYzZmQuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3APIVOT%252520Tech%252520Blog%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFJYQzlDOE1LYkVjMThnR1NXWUdQbHd5R0ZFajBiWU5ZX0tTUXBZYUVxNHlnLXd3PXM5Ni1j%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>Building always-on agents</title>
-      <link>https://claude.com/resources/articles/building-always-on-agents</link>
-      <guid isPermaLink="false">urn:sha256:2fce942bef9f44eb17ef098e2199f7919eb3ee405f82f17b4927dc65376ed019</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>318ブックマーク / Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4c2fa3743d0d131493957480679612b86c9a00fd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fclaude.com%2Fresources%2Farticles%2Fbuilding-always-on-agents%2Fopengraph-image%2Fog" />
-    </item>
-    <item>
       <title>高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥</title>
       <link>https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000</link>
       <guid isPermaLink="false">urn:sha256:7f652f696b365ffa70207e2efde6d4abf3f36a378e53cb99bfc3c3e3556174ec</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>17ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
+      <description>64ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9936284fc7432a000ff3cc4239fe421bbea9993/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F0ff0da6887ede70e9f504d7213d853eb15adef40%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnou_yunyun%252F20261121%252F20261121212405.jpg" />
-    </item>
-    <item>
-      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
-      <link>https://dev.henry.jp/entry/e2e-repository</link>
-      <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>42ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
     </item>
     <item>
       <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
@@ -294,11 +285,20 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2040cd444fbd61878beb40956e6b28ecd9fd443f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704538227038489749%2F14729835035341386395%2F1795170824" />
     </item>
     <item>
+      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
+      <link>https://dev.henry.jp/entry/e2e-repository</link>
+      <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
+      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
+      <description>44ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
+    </item>
+    <item>
       <title>Ruby の脆弱性 CVE-2026-132825(Ruby2Shell)についてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
       <guid isPermaLink="false">urn:sha256:fb3d989d148bc505877c454ff27ac215cc4d588ef00b7087f1bf48a8752aaa67</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>31ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
+      <description>33ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/99353f70f6339b8e0d139fb42c88c285128aa7dd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341464312%2F1795182494" />
     </item>
