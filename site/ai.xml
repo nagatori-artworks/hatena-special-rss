@@ -7,56 +7,101 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</link>
+      <guid isPermaLink="false">urn:sha256:9995394f36044d84890c9be36cf83b00c19c72105dea2f5df0d558d9fef9ac47</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>88ブックマーク / MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説（1/2 ページ） Metaは10月23日、パーソナルAIエージェント「Muse（ミューズ）」の日本での提供を開始しました。9月に先行した北米以外では、日本が最初の提供地域です。iOSアプリ、Androidアプリ、Webサイト（muse.ai）から利用でき、基本的な機能の多くは無料で使えます。 とはいえ、AIサービスは既に数多くありま</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa00535d19419f39d79e9affd015edd71d828ea9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F22%2Fcover_news005.jpg" />
+    </item>
+    <item>
+      <title>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2157164.html</link>
+      <guid isPermaLink="false">urn:sha256:158332133ed535f1a35dd957668c1f6c9c7c5f0146e94821798b5e4d31750a79</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>90ブックマーク</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/648ee5c363b4677065169f982a8e8d3045fea5cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2157%2F164%2F09.jpg" />
+    </item>
+    <item>
       <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
       <link>https://zenn.dev/canly/articles/ca6875cd79539f</link>
       <guid isPermaLink="false">urn:sha256:353abdcb5e5ee7f1dcd072c89c8f9a7e041d6c0ebc0d0c4f9361d0881835beda</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>261ブックマーク / カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack</description>
+      <description>483ブックマーク / カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de2c4862678a200bdd3c2ebc1ee356d22c4a91d7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--7-tl12Sp--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E5%2525AF%25259D%2525E3%252581%2525A6%2525E3%252582%25258B%2525E9%252596%252593%2525E3%252581%2525AB%2525E8%252587%2525AA%2525E5%25258B%252595%2525E3%252581%2525A7%2525E5%25258B%252595%2525E3%252581%25258FAI%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B8%2525E3%252582%2525A7%2525E3%252583%2525B3%2525E3%252583%252588%2525E3%252582%252592%2525E8%2525AA%2525B0%2525E3%252581%2525A7%2525E3%252582%252582%2525E4%2525BD%25259C%2525E3%252582%25258C%2525E3%252582%25258B%2525EF%2525BC%25259A10%2525E5%252588%252586%2525E3%252581%2525A7%2525E3%252582%25258F%2525E3%252581%25258B%2525E3%252582%25258B%252520pstack%252520%2525E5%2525AE%25259F%2525E8%2525B7%2525B5%2525E3%252582%2525AC%2525E3%252582%2525A4%2525E3%252583%252589%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Ahaginota%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252582%2525AB%2525E3%252583%2525B3%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVJTSnhNaUN1QnROaU9oQ044VGE4OXdRb0YzendnTEw5cm9aZ3A5WHNLUDFCcDlIemU9czI1MC1j%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
-      <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
-      <link>https://note.com/katobungen/n/n9c2bb939b9c7</link>
-      <guid isPermaLink="false">urn:sha256:a985c5791549e6a7e7b718df18347d91fc47f7dfde463be34e4e4bbb6ff3a0d9</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>158ブックマーク / （2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。） 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claudeとともにリーマン予想を証明したと発表した。公表されたのは、わずか4ページの声明と、Leanという証明支援系で書かれた膨大なコードである。そのコードは175,</description>
+      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
+      <guid isPermaLink="false">urn:sha256:7b124e8c2b7adce7ad3677379b3e1aebac45d990e12ecdd28dd83420372eb96c</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>44ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/58a756af777bb493b71d787368deace7bcf3b7aa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338963061%2Frectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d401a3486d36e6c45be7b4edc8aa6c3bd2ebadcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--EstRBN16--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590TLA%25252B%2525E3%252580%252591AI%2525E3%252581%2525AB%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252581%25259B%2525E3%252582%25258B%2525E3%252581%2525AA%2525E3%252580%252582%2525E3%252583%2525AB%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%252591%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、ここ半年で、生活でき...</title>
+      <link>https://question.realestate.yahoo.co.jp/knowledge/chiebukuro/detail/13332944543/</link>
+      <guid isPermaLink="false">urn:sha256:db9468fe1e17e7cef00298988baf6a705ce406ea871a684cd8a41d05d4d4c8cc</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>73ブックマーク / Q 特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、 ここ半年で、生活できないレベルまで売上が落ちています。 住宅ローン＋受験を控えた子どもが二人います。生活できない状態です。 私は、最盛期は特許翻訳で年２０００万円超えていました。 ２０１６年にGoogle翻訳にニューラル翻訳が導入されて激震が走り、 ２０１７年に血迷って翻訳者登録制度（ISO)とかありましたが、 当時は、特許翻訳者への実質的な影響は少なかったです。 特許翻</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d162240d2b56a639b822cfb52d318860b96ae2d3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.yimg.jp%2Fimages%2Frealestate%2Ftmpl%2Fimages%2Fcommon%2Fogp_estate.png" />
+    </item>
+    <item>
+      <title>[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</link>
+      <guid isPermaLink="false">urn:sha256:e5c6f4a922ed59a7595847a1502f2090198c2147a348b1dc1d32265a35d1b92f</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>58ブックマーク / AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/021598547eb5824f0152ba5288d9d32677c1cfa6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2Fb3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f%2F2026%2F11%2F20%2Fthumbnail_1600x800-1260x630.png" />
+    </item>
+    <item>
+      <title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
+      <guid isPermaLink="false">urn:sha256:4c3c98b70ba36bc0a9c30ff4a4b1091e125c3894168796658a29cf7b9fd3be8a</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>56ブックマーク / 米Anthropicに所属する数学者のレベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表した。同社のAI「Claude」と共に、数学の未解決問題「リーマン予想」の証明を見つけたと考えているという。証明は証明支援系「Lean」で記述した形式証明として公開した。Leanの開発者や利用者のコミュニティは21日、この証明が正しいと認定する共同声明を出している。 リーマン予想とは、ドイツの数学者ベルンハルト・リーマン</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a9bad0004e79283e693b1e2632f3ed403ed37803/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F22%2F2000003388%2F10012748%2F2048" />
     </item>
     <item>
       <title>Lean verification of the Riemann Hypothesis</title>
       <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
       <guid isPermaLink="false">urn:sha256:bf485886c9d7da81f034c50c25dccde7400929228955ca2c2af05e7b481a7e85</guid>
       <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
-      <description>25ブックマーク / Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hy</description>
+      <description>48ブックマーク / Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hy</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f3c76316fb2f859712a74d8f6adffebb8752d826/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fleanprover-community.github.io%2Fblog%2Fmeta-twitter.png" />
-    </item>
-    <item>
-      <title>GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.</title>
-      <link>https://github.com/mitaku/andon</link>
-      <guid isPermaLink="false">urn:sha256:7cacba4b92c4b3927d1e4a800634fd46a7e627891869f1efea2fedcb869169bf</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>146ブックマーク / Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが ka</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/874fb3365a3e20194d0ebb32f5904d70c45a84c7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Frepository-images.githubusercontent.com%2F1446439331%2Fd343a024-954b-4077-898a-5e8c17772ac9" />
     </item>
     <item>
       <title>GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル</title>
       <link>https://github.com/fkubota/understand-mode</link>
       <guid isPermaLink="false">urn:sha256:4917e00be561e7cce89eb0011d41f4dec3283960b27333523810ae9c3ca8d6b3</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>79ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
+      <description>103ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/55b9a8af6c45a0fabe90f9183a7ed771dbd8a067/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fa4f06e18977c651e1d1028c396f0b54b97bfb1a8765c21bea092adc295b3607c%2Ffkubota%2Funderstand-mode" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cddef0761f1d73bc66c4b2261a6ef2ee849327cd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F92b35ef34ed3dbe6d979e7ddd2270c8a50e31b1036ae7a7a63cffbe6d85d52b0%2Ffkubota%2Funderstand-mode" />
+    </item>
+    <item>
+      <title>GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.</title>
+      <link>https://github.com/mitaku/andon</link>
+      <guid isPermaLink="false">urn:sha256:7cacba4b92c4b3927d1e4a800634fd46a7e627891869f1efea2fedcb869169bf</guid>
+      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
+      <description>177ブックマーク / Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが ka</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/874fb3365a3e20194d0ebb32f5904d70c45a84c7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Frepository-images.githubusercontent.com%2F1446439331%2Fd343a024-954b-4077-898a-5e8c17772ac9" />
     </item>
     <item>
       <title>「AIが私を追い越した」 リーマン予想「証明」の数学者自身も驚き：朝日新聞</title>
       <link>https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html</link>
       <guid isPermaLink="false">urn:sha256:1b28122a0d8df3ce1bd4371b923a6490cd4fc56b804ebb827c8e67d1f9dfba28</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>21ブックマーク / 人工知能（AI）の力を借りて、167年来の難問「リーマン予想」を証明した――。米国の数学者が20日明らかにした発表で、数学界に衝撃が走っている。リーマン予想とはそもそもどんな難問なのか。証明を発表し…</description>
+      <description>32ブックマーク / 人工知能（AI）の力を借りて、167年来の難問「リーマン予想」を証明した――。米国の数学者が20日明らかにした発表で、数学界に衝撃が走っている。リーマン予想とはそもそもどんな難問なのか。証明を発表し…</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa957544cd749eb66d8a24d2e11d2331d1327f38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgopt.asahi.com%2Fogp%2FAS20261121002843_comm.jpg" />
     </item>
@@ -65,33 +110,33 @@
       <link>https://math.mit.edu/~drew/grh/</link>
       <guid isPermaLink="false">urn:sha256:73c42d2b096742f441ae269947093263eb6e8a7058db21d788960f74b528db99</guid>
       <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
-      <description>17ブックマーク / Verification files for the Lean proof of the Riemann Hypothesis Announced at alpo.ge/remark.pdf on 20 November 2026. Andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-21 12:55 UTC. Results b</description>
+      <description>21ブックマーク / Verification files for the Lean proof of the Riemann Hypothesis Announced at alpo.ge/remark.pdf on 20 November 2026. Andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-22 04:35 UTC. Results b</description>
       <category>AI・機械学習</category>
-    </item>
-    <item>
-      <title>相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家</title>
-      <link>https://japan.cnet.com/article/35255244/</link>
-      <guid isPermaLink="false">urn:sha256:2abd38e6402dec9270be98a2736b16c54b65db9a1790508ee1eb4dc6dc0e8677</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>7ブックマーク / なぜ、何もかもが次々と止まるのか。そんな記事を書こうと思いながら、なかなか書けずにいた。何もかもが次々と止まるからだ。 米マイクロソフトの「Outlook」はしばらく使えなくなり、航空管制システムでもトラブルが起きた。米チェース銀行の利用者にとって、11月16日（現地時間）は踏んだり蹴ったりの月曜日だった。それ以前にも、ウェブサイトの開発に広く使われるプログラミング言語「PHP」で脆弱性が見つかり、ネットにつながったスーパーの冷凍庫に異</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d549bec8493d08dc6c0d8b314d8dd239e8abe5f3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F21%2F7ca82b8036c0ff17cb510c0e12b1750d%2F01-hero-large.jpg" />
     </item>
     <item>
       <title>形式検証を活用した脆弱性診断LLMのプロトタイプをEthereum Foundationに納品｜Nyx Foundation</title>
       <link>https://note.com/nyxfoundation/n/n782d4fb32344</link>
       <guid isPermaLink="false">urn:sha256:11837179c2271388127f3a15a42042f14b740bc25d8b70f8a81a81d075a2e227</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>16ブックマーク / Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェアの診断では、ある関数に認証チェックが見当たらなくても、呼び出し元で確認している場合があ</description>
+      <description>20ブックマーク / Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェアの診断では、ある関数に認証チェックが見当たらなくても、呼び出し元で確認している場合があ</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5db8f3a88b4ac6d8540e055b1260939ad76e135/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F335620741%2Frectangle_large_type_2_9de971bfd98d3840ed0cffe9259b297f.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家</title>
+      <link>https://japan.cnet.com/article/35255244/</link>
+      <guid isPermaLink="false">urn:sha256:2abd38e6402dec9270be98a2736b16c54b65db9a1790508ee1eb4dc6dc0e8677</guid>
+      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
+      <description>8ブックマーク / なぜ、何もかもが次々と止まるのか。そんな記事を書こうと思いながら、なかなか書けずにいた。何もかもが次々と止まるからだ。 米マイクロソフトの「Outlook」はしばらく使えなくなり、航空管制システムでもトラブルが起きた。米チェース銀行の利用者にとって、11月16日（現地時間）は踏んだり蹴ったりの月曜日だった。それ以前にも、ウェブサイトの開発に広く使われるプログラミング言語「PHP」で脆弱性が見つかり、ネットにつながったスーパーの冷凍庫に異</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d549bec8493d08dc6c0d8b314d8dd239e8abe5f3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F21%2F7ca82b8036c0ff17cb510c0e12b1750d%2F01-hero-large.jpg" />
     </item>
     <item>
       <title>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</title>
       <link>https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html</link>
       <guid isPermaLink="false">urn:sha256:2655ee95efdd2304215b3b533d935bf46738c676473919d1767d7121bd836ed8</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>14ブックマーク</description>
+      <description>17ブックマーク</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06885615213dfc83b914dc15e1ada63ce7b46116/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2157%2F644%2Fjre11.jpg" />
     </item>
@@ -100,34 +145,25 @@
       <link>https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</link>
       <guid isPermaLink="false">urn:sha256:743a06c79ad02e12a88734048b09b4dda5d74e986b5849ce8cc9a4bae61402ac</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>23ブックマーク / 米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に1…</description>
+      <description>27ブックマーク / 米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に1…</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e68dc7ea325ed9e47d70b0bdfabbcf9719158562/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgopt.asahi.com%2Fogp%2FAS20261121001695_comm.jpg" />
     </item>
     <item>
-      <title>ソフトウェアファクトリーとコード設計と顧客価値</title>
-      <link>https://kosui.me/posts/2026/11/15/code-design-after-agents</link>
-      <guid isPermaLink="false">urn:sha256:5fa20d00c7107ae5cefc81e3c7aa8f265285183bbe029312eff0243f88c91d99</guid>
-      <pubDate>Sat, 21 Nov 2026 03:43:12 +0000</pubDate>
-      <description>158ブックマーク / 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人の指示、エージェントの実行、人の確認が交互に3回続きます。2回目と3回目の間に、人が離席している区間があります。この区間では、エージェントも停止しています。課題ごとに人の入力が必要です。 離席 人 課題ごとに人の入力が必要 エージェント 時間 停止 指示 実行 確認 指示 実行 確認 指示 実行 確認 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人は、左端で意</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5016dd0b15820a975f53b997a8ecf9f463e8401/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkosui.me%2Fog%2Fposts-2026-11-15-code-design-after-agents.png" />
-    </item>
-    <item>
-      <title>トランプ氏、データセンターの国外建設認めず 建設すれば「莫大な税金」</title>
-      <link>https://www.afpbb.com/articles/-/3663558</link>
-      <guid isPermaLink="false">urn:sha256:b009079ee933cfcfc01d7e1918e1df2872607342ce4ff7217ee4d21c6d902fdc</guid>
+      <title>S&amp;P500が調整局面入り 「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:f22686ab1e0c9bbb391b241ca6372859ef0fa2fa63b239c15116574692e371eb</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>16ブックマーク / 米首都ワシントンのホワイトハウス・ブレイディー記者会見室で、記者会見に臨むドナルド・トランプ米大統領（2026年11月20日撮影）。(c)Brendan SMIALOWSKI/AFP 【11月21日 AFP】ドナルド・トランプ米大統領は20日、国外にデータセンターを建設する米企業に「莫大な税金」を課すと警告した。中国が高度な計算能力を利用できないようにするための新たな取り組みを示唆した形だ。 トランプ氏は首都ワシントンでの記者会見で、「</description>
+      <description>36ブックマーク / 米国株が下げ止まらない。20日の米株式市場で、多くの機関投資家が運用指標とするS&amp;P500種株価指数は7日続落した。終値は6910となり、10月に付けた最高値（7818）からの下落率は「調整局面」入りとされる10%を超えた。S&amp;P500種の7日続落は2020年2月以来、6年9カ月ぶりだ。エヌビディアの好決算も、人工知能（AI）開発新興アンソロピックの新規上場も、株買い再開の起爆剤にならなかっ</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f40251648ddc639ff47c32f16e6e017df2ea7a0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fafpbb.ismcdn.jp%2Fmwimgs%2Fa%2Fb%2F1000x%2Fimg_ab1428f7a248b41764846c09a81d54ec76701.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8e5474e5e92576c5a24131d7cda154a7c5e7bd4e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3916703021112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26fp-x%3D0.26%26fp-y%3D0.54%26h%3D630%26w%3D1200%26s%3Da5ec87a5bc6e8d5d2824a7fcd60f6d62" />
     </item>
     <item>
       <title>トランプ大統領 米国外のデータセンター建設認めず 罰則も | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261121de79543</link>
       <guid isPermaLink="false">urn:sha256:c85e5e2bef0eb4e34ac8c4d48297281bfff733282e5d307ba4ef910df346e476</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>8ブックマーク / アメリカのトランプ大統領は、AIの普及で需要が増すデータセンターについて、アメリカ企業が国外に建設することを認めないとしたうえで、建設した場合、「巨額の税を課す」と述べ、罰則を設ける意向を示しました。…</description>
+      <description>10ブックマーク / アメリカのトランプ大統領は、AIの普及で需要が増すデータセンターについて、アメリカ企業が国外に建設することを認めないとしたうえで、建設した場合、「巨額の税を課す」と述べ、罰則を設ける意向を示しました。…</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b0546eeee94f6b704ce321d083d68d44782595ee/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261121de79543%2F20261121de79543_E0000199566_1_l.jpg" />
     </item>
@@ -136,7 +172,7 @@
       <link>https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</link>
       <guid isPermaLink="false">urn:sha256:dfb0241298d1c8002adb8fa0b67d4b77c261bac180b65b5abdc8be77208d1a43</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>53ブックマーク / 【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド、アップルで障害相次ぐ12日（米時間）、米マイクロソフトの業務ソフトに不具合が発生し、メールを</description>
+      <description>58ブックマーク / 【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド、アップルで障害相次ぐ12日（米時間）、米マイクロソフトの業務ソフトに不具合が発生し、メールを</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e80ae26e7a15c72e59e4ab4009cfa90b6f5dbfdf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3909647019112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26fp-x%3D0.61%26fp-y%3D0.61%26h%3D630%26w%3D1200%26s%3Dd6e9cdd26f655fd90756a1641d73bc86" />
     </item>
@@ -145,18 +181,18 @@
       <link>https://www.bbc.com/japanese/articles/cwlyl6ymz841o</link>
       <guid isPermaLink="false">urn:sha256:7e9d2569db99709beabdd83004f35b42a64d4c4f96a2548b69aa2c85fbb5782f</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>14ブックマーク / 米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株を扱う米ナスダックに新規上場したばかり。 この「リーマン予想」の証明がもし正しければ、歴史上最も重要な証明の一つとなる。アルポーゲ氏</description>
+      <description>16ブックマーク / 米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株を扱う米ナスダックに新規上場したばかり。 この「リーマン予想」の証明がもし正しければ、歴史上最も重要な証明の一つとなる。アルポーゲ氏</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/21cfa8d00a598dd1786a85b782823656ed2b3add/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1200%2Fbranded_japanese%2F78a0%2Flive%2Fa0688a80-e531-11f1-99b6-a35a62fa4264.jpg" />
     </item>
     <item>
-      <title>S&amp;P500が調整局面入り 「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:f22686ab1e0c9bbb391b241ca6372859ef0fa2fa63b239c15116574692e371eb</guid>
+      <title>トランプ氏、データセンターの国外建設認めず 建設すれば「莫大な税金」</title>
+      <link>https://www.afpbb.com/articles/-/3663558</link>
+      <guid isPermaLink="false">urn:sha256:b009079ee933cfcfc01d7e1918e1df2872607342ce4ff7217ee4d21c6d902fdc</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>26ブックマーク / 米国株が下げ止まらない。20日の米株式市場で、多くの機関投資家が運用指標とするS&amp;P500種株価指数は7日続落した。終値は6910となり、10月に付けた最高値（7818）からの下落率は「調整局面」入りとされる10%を超えた。S&amp;P500種の7日続落は2020年2月以来、6年9カ月ぶりだ。エヌビディアの好決算も、人工知能（AI）開発新興アンソロピックの新規上場も、株買い再開の起爆剤にならなかっ</description>
+      <description>18ブックマーク / 米首都ワシントンのホワイトハウス・ブレイディー記者会見室で、記者会見に臨むドナルド・トランプ米大統領（2026年11月20日撮影）。(c)Brendan SMIALOWSKI/AFP 【11月21日 AFP】ドナルド・トランプ米大統領は20日、国外にデータセンターを建設する米企業に「莫大な税金」を課すと警告した。中国が高度な計算能力を利用できないようにするための新たな取り組みを示唆した形だ。 トランプ氏は首都ワシントンでの記者会見で、「</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8e5474e5e92576c5a24131d7cda154a7c5e7bd4e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3916703021112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26fp-x%3D0.26%26fp-y%3D0.54%26h%3D630%26w%3D1200%26s%3Da5ec87a5bc6e8d5d2824a7fcd60f6d62" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f40251648ddc639ff47c32f16e6e017df2ea7a0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fafpbb.ismcdn.jp%2Fmwimgs%2Fa%2Fb%2F1000x%2Fimg_ab1428f7a248b41764846c09a81d54ec76701.jpg" />
     </item>
     <item>
       <title>クマ被害防止へ、青森のリンゴ畑で犬型ロボの実証実験 「ワンワン」とほえて警告灯点灯</title>
@@ -168,20 +204,29 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ac48aaa48fd2370df10bcf85e8e18fab04cc9fdd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.sankei.com%2Fresizer%2Fv2%2FZL4LN5PJCNNW5CFVTFRQ2JVFXU.jpg%3Fauth%3D124f5a2181e72ac3931203bac0771d15a7bcb19cb87272e509af60ba58413200%26quality%3D50%26focal%3D2159%252C861%26width%3D1200%26height%3D675" />
     </item>
     <item>
-      <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
-      <link>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</link>
-      <guid isPermaLink="false">urn:sha256:ae1629186bbb6c7f562f1911a50883bf63701753a64188e217ee24bb0db96e59</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>259ブックマーク / 評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本時間11月20日、Xで開発者のKun Chen氏の投稿に「12月2日、我々</description>
+      <title>ソフトウェアファクトリーとコード設計と顧客価値</title>
+      <link>https://kosui.me/posts/2026/11/15/code-design-after-agents</link>
+      <guid isPermaLink="false">urn:sha256:5fa20d00c7107ae5cefc81e3c7aa8f265285183bbe029312eff0243f88c91d99</guid>
+      <pubDate>Sat, 21 Nov 2026 03:43:12 +0000</pubDate>
+      <description>167ブックマーク / 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人の指示、エージェントの実行、人の確認が交互に3回続きます。2回目と3回目の間に、人が離席している区間があります。この区間では、エージェントも停止しています。課題ごとに人の入力が必要です。 離席 人 課題ごとに人の入力が必要 エージェント 時間 停止 指示 実行 確認 指示 実行 確認 指示 実行 確認 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人は、左端で意</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e2582ee7f2f2fdbb646e6120c454d0ae4b7a467e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsmhn.info%2Fwp-content%2Fuploads%2F2026%2F11%2Fgoogle-antigravity-key-visual.webp" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5016dd0b15820a975f53b997a8ecf9f463e8401/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkosui.me%2Fog%2Fposts-2026-11-15-code-design-after-agents.png" />
+    </item>
+    <item>
+      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
+      <link>https://dev.henry.jp/entry/e2e-repository</link>
+      <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
+      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
+      <description>49ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
     </item>
     <item>
       <title>「リーマン予想」生成AIが証明か - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/pickup/6603360</link>
       <guid isPermaLink="false">urn:sha256:056f46df552fb414c51ecea3fd281883883d360113ceda6be4758b96f5c10d44</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>8ブックマーク / 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学者が挑んできた問題が解決する。証明の正しさについて第三者の専門家が今後、検証を進める。</description>
+      <description>9ブックマーク / 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学者が挑んできた問題が解決する。証明の正しさについて第三者の専門家が今後、検証を進める。</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6c284cd4f91290c62120d655d6564c0c6864d434/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnews-pctr.c.yimg.jp%2Ft%2Fnews-topics%2Fimages%2Ftpc%2F2026%2F11%2F21%2Fd00b86c8f9a4f023a79aeb8803d46e563b9129156b1b04ab19c49a05220f20ed.jpg" />
     </item>
@@ -190,54 +235,27 @@
       <link>https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi</link>
       <guid isPermaLink="false">urn:sha256:20764a3ccd0d0e83e32fbf5c6e96b6ba9ca3ad6d939428af298e46bc8d247dfa</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>33ブックマーク / 自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア 好きな言語は Ruby 主に参加しているコミュニティ #Omotesando.rb / #Roppongi.rb #Tokyu.rb / #RailsTokyo など ©MIXI 2 家族アルバム みてね（2/2） 2015年のリリースから、7言語・175の国と地域で3,000万人以上の方にご利用いただいています。 世界累計利用者数の推移 100</description>
+      <description>35ブックマーク / 自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア 好きな言語は Ruby 主に参加しているコミュニティ #Omotesando.rb / #Roppongi.rb #Tokyu.rb / #RailsTokyo など ©MIXI 2 家族アルバム みてね（2/2） 2015年のリリースから、7言語・175の国と地域で3,000万人以上の方にご利用いただいています。 世界累計利用者数の推移 100</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4af64886e08cc0a608de8328b9c0632dd940a676/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F927685abd16b4d19b23084b424328a68%2Fslide_0.jpg%3F41446956" />
+    </item>
+    <item>
+      <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
+      <link>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</link>
+      <guid isPermaLink="false">urn:sha256:ae1629186bbb6c7f562f1911a50883bf63701753a64188e217ee24bb0db96e59</guid>
+      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
+      <description>266ブックマーク / 評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本時間11月20日、Xで開発者のKun Chen氏の投稿に「12月2日、我々</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e2582ee7f2f2fdbb646e6120c454d0ae4b7a467e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsmhn.info%2Fwp-content%2Fuploads%2F2026%2F11%2Fgoogle-antigravity-key-visual.webp" />
     </item>
     <item>
       <title>国産AIノエトラ支援、半導体高騰で8000億円膨張 国の負担重く - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOUA164VE0W6A111C2000000/</link>
       <guid isPermaLink="false">urn:sha256:29e31152c663b2f1011bfbd78368cd3a5894ce5cd46f76203fbc2e32d0b858b4</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>17ブックマーク / 国産AI（人工知能）の開発会社ノエトラに関わる事業総額が5年で1兆円から1.8兆円に膨らむ見通しになっていることが分かった。画像処理半導体（GPU）の関連部品の高騰が響く。財政支援する国の負担が増す懸念がある。高市早苗政権の成長戦略の本丸でもあるAIは米国や中国を中心に覇権争いが続く。高性能の半導体は奪い合いになっている。日本は投資の規律を保ちつつ、国家間の体力勝負にどう向き合うかも問われる。</description>
+      <description>19ブックマーク / 国産AI（人工知能）の開発会社ノエトラに関わる事業総額が5年で1兆円から1.8兆円に膨らむ見通しになっていることが分かった。画像処理半導体（GPU）の関連部品の高騰が響く。財政支援する国の負担が増す懸念がある。高市早苗政権の成長戦略の本丸でもあるAIは米国や中国を中心に覇権争いが続く。高性能の半導体は奪い合いになっている。日本は投資の規律を保ちつつ、国家間の体力勝負にどう向き合うかも問われる。</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9ba0b36b84849686f8310ade7b8da0e0a78a63ac/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3913907020112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3D8a792cc912e2b73d547c8621d0cb2c07" />
-    </item>
-    <item>
-      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
-      <link>https://dev.henry.jp/entry/e2e-repository</link>
-      <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>44ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
-    </item>
-    <item>
-      <title>１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表</title>
-      <link>https://www.yomiuri.co.jp/science/20261121-GYT1T00089/</link>
-      <guid isPermaLink="false">urn:sha256:93cfcbaaf0e45895311d5d18753c33332f0478822788f62e36864e3b9b04da5e</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>331ブックマーク / 【読売新聞】 【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわた</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e78c1bc61ebce224cc1e3a8521570ddff57eeca9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261121-GYT1I00091-1.jpg%3Ftype%3Dogp" />
-    </item>
-    <item>
-      <title>Ruby の脆弱性 CVE-2026-132825(Ruby2Shell)についてまとめてみた - piyolog</title>
-      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
-      <guid isPermaLink="false">urn:sha256:fb3d989d148bc505877c454ff27ac215cc4d588ef00b7087f1bf48a8752aaa67</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>33ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/99353f70f6339b8e0d139fb42c88c285128aa7dd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341464312%2F1795182494" />
-    </item>
-    <item>
-      <title>1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン</title>
-      <link>https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/</link>
-      <guid isPermaLink="false">urn:sha256:12b2f31c2ea8681d7000b1ed5d38aa4e2a225bc108e5320bc2816ba2b34b0840</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>209ブックマーク / 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプルな構成です。 今年の夏ごろから有志がこのFM-1の内部プログラムの解析を始め、秋になってAIコーディングツールを活用</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/81fa9e1b77884c8ce3fccd76f382ee05b876d976/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fmedia.loom-app.com%2Floom%2F2026%2F11%2F15%2F446209eb-71a2-4960-99d0-9ea590f89a78%2Foriginal.jpg%3Fw%3D1200%26h%3D630" />
     </item>
     <item>
       <title>検証前のリーマン予想「証明」を砕く——1969年の発想を、整数の世界へ運ぶ鎖｜数学の翻訳家｜数学の翻訳家</title>
@@ -249,29 +267,11 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/285a11de6047ac41d653a9bde01978aff7c6b95b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338633852%2Frectangle_large_type_2_b0d084b030a320eb23a5c454b46681d5.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
-      <title>Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis</title>
-      <link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
-      <guid isPermaLink="false">urn:sha256:a5368ddb02b51560693e29a76fa0cceef8663aae3ee8f4432b4795e28f895ef4</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>10ブックマーク / Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with </description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a9f635ad991420b9c02478601261dadef0a9d7d5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2Fbd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49%3Fs%3D200%26ts%3D1795291637" />
-    </item>
-    <item>
-      <title>トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:df66bae738af35222cea48f488e6489b500411156938b859307177128d994670</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>9ブックマーク / 【ワシントン=八十島綾平】トランプ米大統領は20日、アジア訪問を総括する記者会見を開いた。中国の習近平（シー・ジンピン）国家主席との間で、人工知能（AI）に対する「ガードレール（安全策）」を検討することで合意したと述べた。トランプ氏は中国・深圳でのアジア太平洋経済協力会議（APEC）首脳会議に出席し、19日夜にワシントンに戻った。20日の会見では習氏との首脳会談で「私たち2人で何らかの『共同</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f6619ca04fcd3bcdf36552a0dc1aa345c746410b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3916664021112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26fp-x%3D0.51%26fp-y%3D0.28%26h%3D630%26upscale%3Dfalse%26w%3D1200%26s%3Da3b890284157a10fd8a12ca0f6e8dcd5" />
-    </item>
-    <item>
       <title>高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥</title>
       <link>https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000</link>
       <guid isPermaLink="false">urn:sha256:7f652f696b365ffa70207e2efde6d4abf3f36a378e53cb99bfc3c3e3556174ec</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>64ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
+      <description>87ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9936284fc7432a000ff3cc4239fe421bbea9993/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F0ff0da6887ede70e9f504d7213d853eb15adef40%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnou_yunyun%252F20261121%252F20261121212405.jpg" />
     </item>
@@ -280,9 +280,18 @@
       <link>https://luccafort.hatenablog.com/entry/2026/11/20/193344</link>
       <guid isPermaLink="false">urn:sha256:5f82494e7ae90357021be71d90e97cc8f6f5a990ad1ff9e0ebb9d1e5946520ab</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>8ブックマーク / 2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、Peatix の譲渡機能で一緒に行く人に渡せます。入場できる内容は通常チケットと同じです。 2026.k</description>
+      <description>9ブックマーク / 2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、Peatix の譲渡機能で一緒に行く人に渡せます。入場できる内容は通常チケットと同じです。 2026.k</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2040cd444fbd61878beb40956e6b28ecd9fd443f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704538227038489749%2F14729835035341386395%2F1795170824" />
+    </item>
+    <item>
+      <title>Ruby の脆弱性 CVE-2026-132825(Ruby2Shell)についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
+      <guid isPermaLink="false">urn:sha256:fb3d989d148bc505877c454ff27ac215cc4d588ef00b7087f1bf48a8752aaa67</guid>
+      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
+      <description>34ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/99353f70f6339b8e0d139fb42c88c285128aa7dd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341464312%2F1795182494" />
     </item>
   </channel>
 </rss>

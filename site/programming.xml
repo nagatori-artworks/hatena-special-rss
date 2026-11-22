@@ -7,29 +7,56 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
-      <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
-      <link>https://note.com/katobungen/n/n9c2bb939b9c7</link>
-      <guid isPermaLink="false">urn:sha256:a985c5791549e6a7e7b718df18347d91fc47f7dfde463be34e4e4bbb6ff3a0d9</guid>
+      <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
+      <link>https://zenn.dev/canly/articles/ca6875cd79539f</link>
+      <guid isPermaLink="false">urn:sha256:353abdcb5e5ee7f1dcd072c89c8f9a7e041d6c0ebc0d0c4f9361d0881835beda</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>158ブックマーク / （2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。） 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claudeとともにリーマン予想を証明したと発表した。公表されたのは、わずか4ページの声明と、Leanという証明支援系で書かれた膨大なコードである。そのコードは175,</description>
+      <description>483ブックマーク / カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/58a756af777bb493b71d787368deace7bcf3b7aa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338963061%2Frectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de2c4862678a200bdd3c2ebc1ee356d22c4a91d7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--7-tl12Sp--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E5%2525AF%25259D%2525E3%252581%2525A6%2525E3%252582%25258B%2525E9%252596%252593%2525E3%252581%2525AB%2525E8%252587%2525AA%2525E5%25258B%252595%2525E3%252581%2525A7%2525E5%25258B%252595%2525E3%252581%25258FAI%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B8%2525E3%252582%2525A7%2525E3%252583%2525B3%2525E3%252583%252588%2525E3%252582%252592%2525E8%2525AA%2525B0%2525E3%252581%2525A7%2525E3%252582%252582%2525E4%2525BD%25259C%2525E3%252582%25258C%2525E3%252582%25258B%2525EF%2525BC%25259A10%2525E5%252588%252586%2525E3%252581%2525A7%2525E3%252582%25258F%2525E3%252581%25258B%2525E3%252582%25258B%252520pstack%252520%2525E5%2525AE%25259F%2525E8%2525B7%2525B5%2525E3%252582%2525AC%2525E3%252582%2525A4%2525E3%252583%252589%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Ahaginota%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252582%2525AB%2525E3%252583%2525B3%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVJTSnhNaUN1QnROaU9oQ044VGE4OXdRb0YzendnTEw5cm9aZ3A5WHNLUDFCcDlIemU9czI1MC1j%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
+      <guid isPermaLink="false">urn:sha256:7b124e8c2b7adce7ad3677379b3e1aebac45d990e12ecdd28dd83420372eb96c</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>44ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d401a3486d36e6c45be7b4edc8aa6c3bd2ebadcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--EstRBN16--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590TLA%25252B%2525E3%252580%252591AI%2525E3%252581%2525AB%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252581%25259B%2525E3%252582%25258B%2525E3%252581%2525AA%2525E3%252580%252582%2525E3%252583%2525AB%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%252591%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>GitHub - awslabs/codekb</title>
+      <link>https://github.com/awslabs/codekb</link>
+      <guid isPermaLink="false">urn:sha256:84782eaa3f8207a4f82f2d057ba2b6683a98b93afde7462fb9ad3670c8a6523b</guid>
+      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
+      <description>50ブックマーク / How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you hope you did not miss one. That manual p</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1ac7275d6bcf3fe178e3be1442821c5a3f6e1e79/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F459a1aae77193cf5cb5f5c35f8b72560eb646ae292bd178aae61b4bd09b5e32e%2Fawslabs%2Fcodekb" />
     </item>
     <item>
       <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
       <link>https://gigazine.net/news/20261121-wyrmrss/</link>
       <guid isPermaLink="false">urn:sha256:06ca1cffd7e74160e4bbc3dddaa6925df3a8b7c18164bf90cc21bdb728d5cfa8</guid>
       <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
-      <description>23ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
+      <description>77ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bed045e81676f6a4690970ebee5cec42c933f3fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fwyrmrss%2F00.png" />
+    </item>
+    <item>
+      <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n9c2bb939b9c7</link>
+      <guid isPermaLink="false">urn:sha256:a985c5791549e6a7e7b718df18347d91fc47f7dfde463be34e4e4bbb6ff3a0d9</guid>
+      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
+      <description>227ブックマーク / （この記事をリリースした18分後に、Lean Community から「アルポゲによるリーマン予想の証明が正しいと確信する」という正式の発表がありました。） ★ 2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claud</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/58a756af777bb493b71d787368deace7bcf3b7aa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338963061%2Frectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
       <title>将棋AI、先手勝率が高すぎて大会運営が困難に | やねうら王 公式サイトやねうら王 公式サイト</title>
       <link>https://yaneuraou.yaneu.com/2026/11/21/shogi-ai-first-player-win-rate-crisis/</link>
       <guid isPermaLink="false">urn:sha256:c3d0f69190475d8899e44077d3fd35452a82a53e1ffc096e5f1c548e06d89cff</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>296ブックマーク / 11月14日・15日に第7回電竜戦本戦が開催された。(正式名称:文部科学大臣杯第7回世界将棋AI電竜戦本戦) 今回は、予選を抜けた上位10チームが戦う決勝日において、先手勝率80%超えとなった。 電竜戦、本戦決勝の先手勝率です。 先手の持ち時間を減らしてもなお、約8割に達しました。先手勝率が高くなると勝ち点に差がつきにくくなります。 今後の大会はどうなるのでしょうか・・・。 https://t.co/VXjPeAJ92V pic.twi</description>
+      <description>313ブックマーク / 11月14日・15日に第7回電竜戦本戦が開催された。(正式名称:文部科学大臣杯第7回世界将棋AI電竜戦本戦) 今回は、予選を抜けた上位10チームが戦う決勝日において、先手勝率80%超えとなった。 電竜戦、本戦決勝の先手勝率です。 先手の持ち時間を減らしてもなお、約8割に達しました。先手勝率が高くなると勝ち点に差がつきにくくなります。 今後の大会はどうなるのでしょうか・・・。 https://t.co/VXjPeAJ92V pic.twi</description>
       <category>プログラミング</category>
     </item>
     <item>
@@ -37,7 +64,7 @@
       <link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
       <guid isPermaLink="false">urn:sha256:f032b54d41e7564d8fa648d34d9d16b4951d84b3aa8639e1ce6d9349ca9d6d92</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>136ブックマーク</description>
+      <description>138ブックマーク</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/036c41c206b2e6a243d532aff82df96093d2bdcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F040%2Fmicrosoft_todo.jpg" />
     </item>
@@ -46,7 +73,7 @@
       <link>https://type.jp/et/feature/32219/</link>
       <guid isPermaLink="false">urn:sha256:ac4679973434e95d3fd9ddd2141bf91611aa03cc2ee40aa5c5fc6e5b88015b77</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>535ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
+      <description>541ブックマーク / NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1908588dfb6533e391b392aff7cabfad47c46460/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftype.jp%2Fet%2Ffeature%2Fwp-content%2Fuploads%2F2026%2F11%2Fmatsumoto_yukihiro_OSS.jpg" />
     </item>
@@ -100,7 +127,7 @@
       <link>https://gigazine.net/news/20261119-simcity-high-score/</link>
       <guid isPermaLink="false">urn:sha256:b3cc79ccc573273134bb78158c6cf89b88489743f19f911a7e00e5293e12e312</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>114ブックマーク / 都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。 A Perfect SimCity · Articles https://www.jeffquast.com/post/a-perfect-simcity/ 1989年</description>
+      <description>115ブックマーク / 都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。 A Perfect SimCity · Articles https://www.jeffquast.com/post/a-perfect-simcity/ 1989年</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bd5264019b79f189f18cf9f751ed5accba71b2e0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F19%2Fsimcity-high-score%2F00.png" />
     </item>
@@ -118,7 +145,7 @@
       <link>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</link>
       <guid isPermaLink="false">urn:sha256:270fbfafac82336e11134416cc581ae2b94e551b699395da2ef6c63c97dea2bc</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>95ブックマーク / 最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それよりも、AIが正しく仕事をできる前提を整える</description>
+      <description>96ブックマーク / 最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それよりも、AIが正しく仕事をできる前提を整える</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7acc736678dcdbcb46c209202c4a4aa90b908a65/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--kRTjrdWd--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E6%25259C%252580%2525E8%2525BF%252591%2525E3%252580%252581%2525E3%252582%2525B3%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252582%252592%2525E7%25259C%25259F%2525E9%25259D%2525A2%2525E7%25259B%2525AE%2525E3%252581%2525AB%2525E8%2525AA%2525AD%2525E3%252581%2525BE%2525E3%252581%2525AA%2525E3%252581%25258F%2525E3%252581%2525AA%2525E3%252581%2525A3%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3A%2525E3%252582%252580%2525E3%252581%25259F%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhjMTA1YTk5ZmIuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
@@ -136,7 +163,7 @@
       <link>https://note.com/wakabame/n/nc76b65a187bb</link>
       <guid isPermaLink="false">urn:sha256:20cd84b78ec04a5efa3244b73c189409b0a47dc00705dedc652581be93e5ec54</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>264ブックマーク / コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を高速にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記事では、ソフトウェアエンジニア（そして、フリーランスエンジニア）である私がコーディングエージェントに対して職業上の危機感を覚えるポイントと、それ</description>
+      <description>265ブックマーク / コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を高速にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記事では、ソフトウェアエンジニア（そして、フリーランスエンジニア）である私がコーディングエージェントに対して職業上の危機感を覚えるポイントと、それ</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/43797172395015afa569ee1942fc12573e32bae3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2l930y2yx77uc.cloudfront.net%2Fproduction%2Fsocial_images%2Fbf882018e58b08a51943db30be224783286b37d7.png" />
     </item>
@@ -145,7 +172,7 @@
       <link>https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</link>
       <guid isPermaLink="false">urn:sha256:b3972186990d3492b9042ee17f191a806f2896c5fcc7a0d2929c78edc60c133f</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>29ブックマーク / Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history. Battery levels of your wireless mouse, headset, keyboard and controller, right on the Windows t</description>
+      <description>30ブックマーク / Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history. Battery levels of your wireless mouse, headset, keyboard and controller, right on the Windows t</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/001de1c6cba51567870e0569ce1bbff02a57ad64/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F78fe60902781c216ece4a0bc490c148172cf0e8b07720da2486bf7c51efcab24%2Fkrisgfx9%2FWireless-Device-Battery-Monitor" />
     </item>
@@ -163,7 +190,7 @@
       <link>https://zenn.dev/mizchi/articles/mutation-test-quality</link>
       <guid isPermaLink="false">urn:sha256:11709c2adb40051c72815a9c97675bf89d273b5e6a054a83e89b900e378ae470</guid>
       <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>398ブックマーク / AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 Claude が最初「mutato</description>
+      <description>399ブックマーク / AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 Claude が最初「mutato</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/24319cc06ab8950d4039fc304b7e6832ff90796e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--gIzUz2IG--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%25258A%2525E3%252581%252584%2525E3%252580%252581%252520Mutation%252520Test%252520%2525E3%252582%252592%2525E3%252582%252584%2525E3%252582%25258C%2525E3%252580%252582%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E5%252593%252581%2525E8%2525B3%2525AA%2525E3%252582%252592%2525E3%252580%252581%2525E6%2525B8%2525AC%2525E3%252582%25258B%2525E3%252581%25259F%2525E3%252582%252581%2525E3%252581%2525AB%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Amizchi%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
@@ -240,38 +267,11 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6d087f32684ba79abbcbce8045b2d4c8891c36ec/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Frunkiri.com%2Fassets%2Fog-image.png%3Fv%3D2" />
     </item>
     <item>
-      <title>【やきとりつづらや＠上田】上田名物「美味だれ焼き鳥」発祥店の系譜を持つ老舗焼きとり店 - 御成門プログラマーのグルメ記録</title>
-      <link>https://food.onarimon.jp/entry/2026/11/14/203910</link>
-      <guid isPermaLink="false">urn:sha256:b61e5e7dcd709846c4c3c04fd1b8731059d7e9497ad8ea14a01ca6e8132c6e6b</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>25ブックマーク / 長野県上田市にあります1981年創業(昭和56年)の老舗焼き鳥屋「やきとり つづらや」さんを紹介します。 上田のご当地グルメ「美味だれ焼き鳥(おいだれやきとり)」発祥のお店である「鳥正」さんのご家族が味を引き継いで営業している由緒あるお店です。 外観・場所・アクセス メニュー やきとり 豚レバー 白レバー(鳥) かしら ねぎま つくね 鳥もも 信州野菜(椎茸) 鳥皮 鳥いかだ(手羽先) タン ハツ(数量限定) 親鳥 馬刺し 牛すじ煮 炭</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/61ba9bf0690d1599942530a0ea40d463a4c055b9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F73973ef9d5103b0eda221b693ab3e4d548a4d6b7%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ft%252Ftt-suzukiit%252F20261113%252F20261113185749.jpg" />
-    </item>
-    <item>
-      <title>pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com</title>
-      <link>https://kawarimidoll.com/posts/202610201/</link>
-      <guid isPermaLink="false">urn:sha256:00ec5c43c70e233d5b16381fc13e0686b4b5d766f02cf8e30c6272b5f6492daa</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>122ブックマーク / 応答時間だけでなくルーターやインターネットの接続状況も調べてどこに問題がありそうかを教えてくれるspingの紹介です。 GitHub - LambdaBytes/sping: A modern, cross-platform ping with real-time diagnostics, network context, quality scoring, and multi-target monitoring. A modern, c</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/476cf46b7beeb1a9a5567675e1e2090e7639ab1a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610201%2Fog.png" />
-    </item>
-    <item>
-      <title>デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com</title>
-      <link>https://kawarimidoll.com/posts/202610182/</link>
-      <guid isPermaLink="false">urn:sha256:62b0df49515e7bf112c75f85ad109d7dcb1fd4b46305ed7c004ab6845f0c29c0</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>167ブックマーク / Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2ee69568fafa6f2a0f5026916c38eb1279f2bb0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610182%2Fog.png" />
-    </item>
-    <item>
       <title>高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥</title>
       <link>https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000</link>
       <guid isPermaLink="false">urn:sha256:7f652f696b365ffa70207e2efde6d4abf3f36a378e53cb99bfc3c3e3556174ec</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>64ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
+      <description>87ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9936284fc7432a000ff3cc4239fe421bbea9993/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F0ff0da6887ede70e9f504d7213d853eb15adef40%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnou_yunyun%252F20261121%252F20261121212405.jpg" />
     </item>
@@ -280,7 +280,7 @@
       <link>https://luccafort.hatenablog.com/entry/2026/11/20/193344</link>
       <guid isPermaLink="false">urn:sha256:5f82494e7ae90357021be71d90e97cc8f6f5a990ad1ff9e0ebb9d1e5946520ab</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>8ブックマーク / 2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、Peatix の譲渡機能で一緒に行く人に渡せます。入場できる内容は通常チケットと同じです。 2026.k</description>
+      <description>9ブックマーク / 2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、Peatix の譲渡機能で一緒に行く人に渡せます。入場できる内容は通常チケットと同じです。 2026.k</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2040cd444fbd61878beb40956e6b28ecd9fd443f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704538227038489749%2F14729835035341386395%2F1795170824" />
     </item>
@@ -289,7 +289,7 @@
       <link>https://dev.henry.jp/entry/e2e-repository</link>
       <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>44ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
+      <description>49ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
     </item>
@@ -298,7 +298,7 @@
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
       <guid isPermaLink="false">urn:sha256:fb3d989d148bc505877c454ff27ac215cc4d588ef00b7087f1bf48a8752aaa67</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>33ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
+      <description>34ブックマーク / 2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows-1252 などの一部の1バイト文字コードで、細工した文字列の大文字小文字</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/99353f70f6339b8e0d139fb42c88c285128aa7dd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035341464312%2F1795182494" />
     </item>
