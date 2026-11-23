@@ -7,126 +7,216 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+      <link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
+      <guid isPermaLink="false">urn:sha256:2afa605e4f86905ca29a8a08c3ff85c1bbb639ced6bbaf8252bf7e2592523d8c</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>112ブックマーク / こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証できるフレームワーク h5i があります。</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/65677492a74f952d377b8d3e442aa7e31df4beda/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--KqPb6u08--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E8%252591%252597%2525E5%252590%25258D%2525E3%252581%2525AARust%2525E8%2525A3%2525BDOSS%2525E3%252582%252592Lean%2525204%2525E3%252581%2525A7%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%252597%2525E3%252581%2525A6%2525E3%252581%2525BF%2525E3%252581%25259F%2525E3%252582%252589%2525E3%252580%252581%2525E3%252582%252581%2525E3%252581%2525A1%2525E3%252582%252583%2525E3%252582%252581%2525E3%252581%2525A1%2525E3%252582%252583%2525E3%252583%252590%2525E3%252582%2525B0%2525E3%252581%25258C%2525E8%2525A6%25258B%2525E3%252581%2525A4%2525E3%252581%25258B%2525E3%252581%2525A3%2525E3%252581%25259F%2525E8%2525A9%2525B1%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3AKoukyosyumei%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiOTg1N2Q0ZjQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>Lean で手続き的プログラム の証明が書けるようになった</title>
+      <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
+      <guid isPermaLink="false">urn:sha256:0c5ef57f78b02846a2845447d51f1097c8f17e3c6c8b5ff7e00ec7c817f6c551</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>102ブックマーク / Leanで、最近手続き的プログラムの形式検証がDafnyのようにできるようになりました。それについて軽く紹介します</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ef15e97684872d4186aa181a398345a5984171cc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fd12dc330389b46888c1f1657e3c87912%2Fslide_0.jpg%3F41387258" />
+    </item>
+    <item>
+      <title>なぜ今形式検証なのか</title>
+      <link>https://zenn.dev/ncdc/articles/dcec80b0c067b0</link>
+      <guid isPermaLink="false">urn:sha256:34e9241eb4cfbd5ab1cafc402e2b0e2ae50a57a9b8bfd012cd7f5a5e9d5bb75a</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>113ブックマーク / 形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様を満たすことを証明します。 NIST「f</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3cb0b3ebb9d01107fb415f3d28b62eb7ef090527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--vq6GOiY1--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E4%2525BB%25258A%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%2525AA%2525E3%252581%2525AE%2525E3%252581%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Asenna%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANCDC%252520%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0Y2Q1YzNjZjEuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title>
+      <link>https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112</link>
+      <guid isPermaLink="false">urn:sha256:41146aac9426dc2fd06f915df274ad31cbb6b7b0c0f026bf985b32fc4a9d0312</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>82ブックマーク / ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AI</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f68407c41ea8655ed5b5f0ea688e0f24dd2b481c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704591929884060267%2F14729835035342809218%2F1795424457" />
+    </item>
+    <item>
+      <title>ChatGPT の速さを支える OpenAI の Performance Factory</title>
+      <link>https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/</link>
+      <guid isPermaLink="false">urn:sha256:9749ba3ffac4de4b27c316a5bfea54062ed9b6b22fdfc896517d099457c8b8e1</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>33ブックマーク / エージェントを活用した開発の驚異的なスピードにより、従来のパフォーマンスエンジニアリングの手法では対応しきれなくなっています。このスピードに対応するため、私たちは Performance Factory を構築しました。Codex と OpenAI のモデルの能力を最大限に活用し、性能劣化をかつてない速さで発見・修正する自律型システムです。Performance Factory はクラウドで稼働し、パフォーマンスの問題の調査と解決を自動</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bc1ef01d3b932568bc247f2b0e03952b70f973ea/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1GmNPxrS3qwhYU0t43dsaa%2F0df53811b9acf8f9699ace630362f112%2Fperformance-factory-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill" />
+    </item>
+    <item>
+      <title>お客様が来店し「〇〇はセール対象ですよね？」と聞かれたのでセール対象外と説明、するとChatGPTの画面を見せて「対象店舗と書いてある」と主張…確認したらやはり対象外</title>
+      <link>https://togetter.com/li/2774063</link>
+      <guid isPermaLink="false">urn:sha256:9dd6dbe44b0c4fb0aea93ba777f4754fe12f26e624c21cf6942d8a0a24c67dac</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>46ブックマーク / まけいぬびくとりー🌟DTM🔰 @ugokuchiwawa 開店した途端、お客様が来店し、「〇〇はセール対象ですよね？」と聞かれました。しかし、私の店舗はセール対象外だったため、そのことを説明しました。 すると、お客様がChatGPTの画面を見せてきて、対象店舗と書いてあると主張されました。確認してきますと伝えたところ、後から来た別のお客様にも 2026-11-23 13:27:14 まけいぬびくとりー🌟DTM🔰 @ugokuchiwaw</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8113fb68d4914a6319142e3af5cd58f5dd11d3a7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F57fc98789cf3b990dd55411ebc35a29d-1200x630.jpeg" />
+    </item>
+    <item>
       <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
       <link>https://note.com/yamac_/n/n198bdc344c64</link>
       <guid isPermaLink="false">urn:sha256:193d1ecbff685d7109216078ea47c28c5b86dfd86bf514aaede9a31c9ba357f7</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>400ブックマーク / Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減</description>
+      <description>680ブックマーク / Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c82e50a801663a01d300248cc3772c656b9288ca/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339175432%2Frectangle_large_type_2_490a1a8344ed92ccfd09322236cc3e11.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>GitHub - google-gemini/gemini-api-cli: An (experimental) CLI for the Gemini API</title>
+      <link>https://github.com/google-gemini/gemini-api-cli</link>
+      <guid isPermaLink="false">urn:sha256:a124128f9b61147246f6a69875c435bed792db2afb210efcb728b231a4fa6b9f</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>8ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a2e75fc4fe0f019fed16f5544e73605191b1a79a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F72d7e8843fd2650d7e3da9dd65fea6e8888568fe93e6b39302af221870d66ef5%2Fgoogle-gemini%2Fgemini-api-cli" />
+    </item>
+    <item>
+      <title>GitHub - RNA4219/anything-frontend-art-direction: 配色・書体・余白・構図を題材から決める日本語のフロントエンドデザインスキル。247作品の調査データと単体HTMLの映画祭作例を収録。</title>
+      <link>https://github.com/RNA4219/anything-frontend-art-direction</link>
+      <guid isPermaLink="false">urn:sha256:a1b59e7a55d15f50fd9ac4ce478c93c2464193ce2581b20612e4f7c407579651</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>7ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cf3a8393abe5c28885105e6f24e9a61150760995/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F12125bcbc1c1d4c15bc00ee1d78161f6b83199a51c473801c18dfc076d4e3acf%2FRNA4219%2Fanything-frontend-art-direction" />
+    </item>
+    <item>
+      <title>プログラミングのド素人がAIを利用して快活CLUBの空き状況確認アプリを作った日記 - ネットに影響される人の日記</title>
+      <link>https://htnmiki.hatenablog.com/entry/2026/11/23/133843</link>
+      <guid isPermaLink="false">urn:sha256:1ab72714af3c6a675c59d4aef5d2b99f7d84e2b90a16ac1db080ef7d2e8e70d0</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>24ブックマーク / みなさん快活CLUBを利用していますか？ 私はかなり利用しています。ひとり旅をするときの宿泊はだいたい快活CLUBです。そう、金が無いので。宿泊施設にあれこれ望まないタイプでとりあえず寝られればいい。そこに数万円とかもったいないなーという貧乏性なので。そんな貧乏自己紹介はさておき最近の快活CLUBは個室の予約ができるのであらかじめ旅の予定が決まっている場合は事前に予約をしています。2ヶ月前から予約できるので予約開始日にアクセスすればほぼ</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/74176323647d271fd4897e12d7c919033f4d1e93/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F78e3000307c3339b2f4bd97a55415ece85cd404d%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fh%252Fhtnmiki%252F20261123%252F20261123125141.png" />
+    </item>
+    <item>
+      <title>Does P = NP? An AI agent fleet is attacking it, live</title>
+      <link>https://pequalnp.com/</link>
+      <guid isPermaLink="false">urn:sha256:1a72a8f666343934e87d175361a591b39d40de11b3b1a2b10a29d7dbda607f48</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>15ブックマーク / Paste it into Claude Code, Cursor, Codex, Gemini CLI or any agent that can run a shell, git and Lean. It proves one open step the desk assigns; every proof goes through the same checker. Does P = NP? Verdict: open, being</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6829ad19349f95841dcb15bd0756d97d985f49a3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpequalnp.com%2Fassets%2Fb915eb8ed591%2Fimg%2Fshare-home.png" />
     </item>
     <item>
       <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー</title>
       <link>https://speakerdeck.com/tascript/jmap-is-game-changer</link>
       <guid isPermaLink="false">urn:sha256:9b154500a57c6494d90b0bad62e60686a09f0ba5d1596028280994437f7df295</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>117ブックマーク / JSConfJP 2026の登壇資料です</description>
+      <description>196ブックマーク / JSConfJP 2026の登壇資料です</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5e6b5397a3f14962b9db1847ae34b819a9345ed/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F34fdb086664c4af3b97c5694903700fa%2Fslide_0.jpg%3F41470359" />
     </item>
     <item>
-      <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
-      <link>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</link>
-      <guid isPermaLink="false">urn:sha256:9bae7f19869af203cdf9b5bd1c9fbb79058fd412d28b110759214b2453d83966</guid>
-      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>171ブックマーク / すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このループを、ツール呼び出しがなくなるか、設定した上限に達するまで繰り返します。 動作確認は Python 3.</description>
+      <title>macOSネイティブのAlfred UIやLLMを利用したワークフローを作成できるようになったMac用多機能ランチャー「Alfred v6」がリリース。</title>
+      <link>https://applech2.com/archives/20261123-alfred-6-now-availabe.html</link>
+      <guid isPermaLink="false">urn:sha256:26219d99523bbb636fd525c1fe858090b0fe02759e967918fe1c21b3d190a51b</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>7ブックマーク / macOSネイティブUIを利用したワークフローを作成できるAlfred UIやmacOS 27 Golden Gate向けに刷新した設定画面などを実装したMac用多機能ランチャー「Alfred v6」がリリースされています。詳細は以下から。 英Running with Crayons Ltdは現地時間2026年11月18日、2010年から開発を続けているMac用多機能ランチャーAlfredのメジャーアップデートとなる「Alfred v6</description>
       <category>AI・機械学習</category>
     </item>
     <item>
-      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
-      <guid isPermaLink="false">urn:sha256:4e29334a0a6bdc7a362ecd5f818c4086f41c23251bbd18181485688a49218ea3</guid>
+      <title>spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする</title>
+      <link>https://zenn.dev/ruri/articles/code-as-spec</link>
+      <guid isPermaLink="false">urn:sha256:fb8fb78498f2108ad0ecba9276a6a5bc7d78f894f61d11f6cb0ce9c60f4fe7dc</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>70ブックマーク / 米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせて、社内で追跡してきた事前学習の進捗を示す測定値を公開した。 パープレキシティは、モデルが次の</description>
+      <description>72ブックマーク / 表の最後の行が、自然言語でしか書けない部分です。何のために作っているのか、どこまでを作らないのか、まだ作っていないものは何か。これはコードをいくら読んでも出てきません。「コードが正」を進めすぎて、ここまで消してしまうと危険です。消した次の日に、エージェントが「やらない」と決めた機能を親切に作り始めます。コードに現れないものは、コードと同じ規律で文書として残します。 この仕分けは、手元で実装まで終えた spec 7 本（計 3.3 万字）</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/014c14bb98d3286b0582a57041d1eb07ae60e80a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F23%2F2000003394%2F10012776%2F2048" />
-    </item>
-    <item>
-      <title>工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想</title>
-      <link>https://anond.hatelabo.jp/20261122140104</link>
-      <guid isPermaLink="false">urn:sha256:6dc39b6a7d8d53371b091de2006f4919c79e706f88793670eccaae16c9d67d97</guid>
-      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>113ブックマーク / ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語やJavaあたりを学びました。AIは専門外。 現在はとあるゲーム会社で技術系の職種で働いています。 イラストは学生時代に描き始めてある程</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/05092e8da3af69858244fa15cb94208e4eeb9b21/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--g71ZyeAF--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3Aspec%252520as%252520code%252520%2525E3%252581%2525A7%2525E3%252581%2525AF%2525E3%252581%2525AA%2525E3%252581%25258F%2525E3%252580%252581code%252520as%252520spec%252520%2525E2%252580%252594%252520%2525E4%2525BB%252595%2525E6%2525A7%252598%2525E6%25259B%2525B8%2525E3%252581%2525AE%2525E3%252582%252588%2525E3%252581%252586%2525E3%252581%2525AB%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252582%25258C%2525E3%252581%25259F%2525E3%252582%2525B3%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252582%252592%2525E6%2525AD%2525A3%2525E3%252581%2525AB%2525E3%252581%252599%2525E3%252582%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Aatsushi%252520ootani%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmYWE4MmRiN2YuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4)</title>
       <link>https://ascii.jp/elem/000/004/453/4453903/</link>
       <guid isPermaLink="false">urn:sha256:6ce52ecf7791f80c55d0e381e130a515aeb4e3152d7b8d12118421d3f25eed7f</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>39ブックマーク / 11日、MiniMaxが新しい画像生成モデル「H3-Image」を公開しました。3日には、Pruna AIから動画AI「H3」を蒸留して作られた画像AIモデル「P-H3-Image（現在の公開名はP-Image-OSS）」が登場したばかりです。H3-Imageは8月に開発中であると明らかにされていたとはいえ、本家のモデルまでこんなに早く公開されるとは驚きました。H3-Imageは最大16枚の参照画像を入力でき、4K解像度にも対応していま</description>
+      <description>96ブックマーク / 11日、MiniMaxが新しい画像生成モデル「H3-Image」を公開しました。3日には、Pruna AIから動画AI「H3」を蒸留して作られた画像AIモデル「P-H3-Image（現在の公開名はP-Image-OSS）」が登場したばかりです。H3-Imageは8月に開発中であると明らかにされていたとはいえ、本家のモデルまでこんなに早く公開されるとは驚きました。H3-Imageは最大16枚の参照画像を入力でき、4K解像度にも対応していま</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/29c90148e5579ecc0d671d0de3b41a26de4b4650/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fascii.jp%2Fimg%2F2026%2F11%2F23%2F4555431%2Fxl%2F7331f6c19c384594.png%3F20200122" />
     </item>
     <item>
-      <title>リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局</title>
-      <link>https://www.cnn.co.jp/world/35255287.html</link>
-      <guid isPermaLink="false">urn:sha256:10b696598316ba9d4971602d33a163c9569d6f152ce0479f4bf267cead7a2353</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>50ブックマーク / リビア東部ベンガジに停泊していたロシア船から立ち上る煙を捉えた衛星画像/2026 Planet Labs PBC/Handout/Reuters via CNN Newsource （CNN） リビア東部を拠点とする政府は、沿岸都市ベンガジの海軍基地に停泊していたロシア船で発生した爆発について、ドローン攻撃によるものだった可能性が高いと発表した。 声明によると、同船は両国間の海洋協力協定に基づき、燃料補給と物資調達のために同市の港に停泊</description>
+      <title>Contextual retrieval in AI systems</title>
+      <link>https://www.anthropic.com/research/contextual-retrieval</link>
+      <guid isPermaLink="false">urn:sha256:b852890527f356530b6cb7017cfe170792bf5f631f1f026863a0e00e9928229f</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>14ブックマーク / For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used for, and legal analys</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/386d1b1a074230b3bab4922a507d587571027167/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F23%2Fb753d6c2e9abaaf79cb0e271bbf5e101%2Fcnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzMXZzZGYwMDdrMjdwMTN5NzgxbHAz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3MxdnNkZjAwN2wyN3AxM2w2YjM4dHk_.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/009a8d4d064810d4bc4da7b06db137730595565f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.claude.com%2Fe81642c949d3942e998d6ba331abf4074dd5050a.jpg" />
     </item>
     <item>
-      <title>2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま</title>
-      <link>https://note.com/cgbeginner/n/n5856d402f125</link>
-      <guid isPermaLink="false">urn:sha256:d41156014e008f70b743ace34710a6ce22f69e4c00fc723f0f3c972fd576a86e</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>299ブックマーク / 2026年11月21日をもって、世界はシンギュラリティに突入したのではないか。 この日、AnthropicのAI「Claude」との共同作業で書かれた「リーマン予想の証明」について、検証コミュニティが「正しい」と認定した。独立に検証したマサチューセッツ工科大学の数学者アンドリュー・サザーランド氏も「何か怪しい点がある可能性はほぼゼロだ」と結論づけている。 実はこのサザーランド氏、わずか2年前の2024年10月のワークショップで、「リーマ</description>
+      <title>PLG 型 SaaS is Dead はAIによる擬態代替ではなくAIからの擬態攻撃によって達成されてしまうのか - 太陽がまぶしかったから</title>
+      <link>https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack</link>
+      <guid isPermaLink="false">urn:sha256:a052ef6d0100e857f2d75cf7fd6fa3c62096753816af096eaa9fde78fc56cc8d</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>15ブックマーク / AI代替ではなくAIからの攻撃で追い込まれるSaaS SaaS is Deadを議論していた多くの人は「AIの利便性によってSaaSビジネスが代替されるのか？」を議論してましたが、まさか「AIのセキュリティ攻撃によってSaaSが追い込まれる」なんて思いもよらなかったですよね🥺 pic.twitter.com/iAARf6Y2Ra— ぽこしー📊SaaSデータアナリスト (@biz_arts1) 2026年11月18日 ここ1、2年、テック</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5b5f28e1b9d80ab306e049fa3826e59f72649625/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339362475%2Frectangle_large_type_2_6f19772d2342132c81fc6ac0fb73f704.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1aeba5b9b97544c9e6708ce3a724279a9947ece7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704830469097403785%2F14729835035341600302%2F1795302664" />
     </item>
     <item>
-      <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
-      <link>https://note.com/katobungen/n/n2326bd68a80e</link>
-      <guid isPermaLink="false">urn:sha256:a6ad9de69e66be158e0e633bd70321c2d96c3d80877beb274c4eba417f264765</guid>
+      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
+      <guid isPermaLink="false">urn:sha256:4e29334a0a6bdc7a362ecd5f818c4086f41c23251bbd18181485688a49218ea3</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>50ブックマーク / 2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつという共同声明を出しています。［1］ 形式的な検証が進むにつれて、次に知りたくなるのは、その証明がどういう考えで</description>
+      <description>96ブックマーク / 米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせて、社内で追跡してきた事前学習の進捗を示す測定値を公開した。 パープレキシティは、モデルが次の</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06e25a04e66d136408482633960856102c8a6bd9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339222898%2Frectangle_large_type_2_529b709f22b1564fe7d6b858dab66ee3.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
-    </item>
-    <item>
-      <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
-      <link>https://cginterest.com/2026/11/20/eden-blender/</link>
-      <guid isPermaLink="false">urn:sha256:f7a92dedbe7a9ce2f07bf40d447eaca416929fd0982d6eb286ba8a369a93d5fd</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>23ブックマーク / Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースから始め、スライダーで顔と体の形を変えたうえで、肌、髪、服を選び、最後にポーズ付けやアニメーションに使えるリグまで準備できます。 また、別売り</description>
-      <category>AI・機械学習</category>
-    </item>
-    <item>
-      <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
-      <link>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</link>
-      <guid isPermaLink="false">urn:sha256:0895f18d0ebcfba156ca641569a23425250832be3cfa8a5060353070da0b0d51</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>14ブックマーク / 人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 D200mm: A New Scale for Single‑Crystal Diamond | Diamon</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a8adca3712225157f84004cf15665e0a8fdcaa74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F23%2Fdiamond-foundrysingle-crystal-diamond%2F00.png" />
-    </item>
-    <item>
-      <title>この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)</title>
-      <link>https://note.com/varu3/n/n4476366008f8</link>
-      <guid isPermaLink="false">urn:sha256:3800bd0e49b57658a518d13c71da0553130e1435361a188a70fee62da6b2bdb3</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>37ブックマーク / 技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それがなぜなのかっていうこと先日、CNDW2026の運営として関わったこともあってか、少し整理してみた。 話を聞くだけ、スライドを見るだけならオン</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f558f653edcc5f30123ce3fa30f977b9172e91f0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2l930y2yx77uc.cloudfront.net%2Fproduction%2Fsocial_images%2F0163831924f526cdc757b9fe67754923e4afc49d.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/014c14bb98d3286b0582a57041d1eb07ae60e80a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F23%2F2000003394%2F10012776%2F2048" />
     </item>
     <item>
       <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
       <link>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</link>
       <guid isPermaLink="false">urn:sha256:8458fd289a0a420e2eac8c66fb25de0c2fc34ed4a6e9979a722073863665b681</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>9ブックマーク / 「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・Linuxに対応しており、iPad版も開</description>
+      <description>24ブックマーク / 「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・Linuxに対応しており、iPad版も開</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6c1377406e36e83748ef2c3942815fa2e1ec8004/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F23%2Flastbook-offline-knowledge%2F00.png" />
+    </item>
+    <item>
+      <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
+      <link>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</link>
+      <guid isPermaLink="false">urn:sha256:0895f18d0ebcfba156ca641569a23425250832be3cfa8a5060353070da0b0d51</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>25ブックマーク / 人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 D200mm: A New Scale for Single‑Crystal Diamond | Diamon</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a8adca3712225157f84004cf15665e0a8fdcaa74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F23%2Fdiamond-foundrysingle-crystal-diamond%2F00.png" />
     </item>
     <item>
       <title>アラフィフのおっさんが、初めて服をオーダーした話 (2)</title>
       <link>https://anond.hatelabo.jp/20261122180151</link>
       <guid isPermaLink="false">urn:sha256:c735be43bd78db5303a5f8ac7c7f94bf6de72b1ef9faee4661162e05fa9be4aa</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>7ブックマーク / https://anond.hatelabo.jp/20261122173609 の続き 2. おっさん、ジャケットを買う そして今年。 また同じ目標を設定した。 何にしようかな、とクローゼットを眺めていたら、ジャケットが目に入った。 そういえば最近、ジャケットをほとんど着ていない。 理由は単純で、既製品が身体に合わないからだ。 おっさんは太めである。正確に言うと、胴体に厚みがある。 そのくせ腕が、同じくらいの身長の男性より短い。 なの</description>
+      <description>16ブックマーク / https://anond.hatelabo.jp/20261122173609 の続き 2. おっさん、ジャケットを買う そして今年。 また同じ目標を設定した。 何にしようかな、とクローゼットを眺めていたら、ジャケットが目に入った。 そういえば最近、ジャケットをほとんど着ていない。 理由は単純で、既製品が身体に合わないからだ。 おっさんは太めである。正確に言うと、胴体に厚みがある。 そのくせ腕が、同じくらいの身長の男性より短い。 なの</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
+    </item>
+    <item>
+      <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
+      <link>https://cginterest.com/2026/11/20/eden-blender/</link>
+      <guid isPermaLink="false">urn:sha256:f7a92dedbe7a9ce2f07bf40d447eaca416929fd0982d6eb286ba8a369a93d5fd</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>28ブックマーク / Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースから始め、スライダーで顔と体の形を変えたうえで、肌、髪、服を選び、最後にポーズ付けやアニメーションに使えるリグまで準備できます。 また、別売り</description>
+      <category>AI・機械学習</category>
+    </item>
+    <item>
+      <title>リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局</title>
+      <link>https://www.cnn.co.jp/world/35255287.html</link>
+      <guid isPermaLink="false">urn:sha256:10b696598316ba9d4971602d33a163c9569d6f152ce0479f4bf267cead7a2353</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>62ブックマーク / リビア東部ベンガジに停泊していたロシア船から立ち上る煙を捉えた衛星画像/2026 Planet Labs PBC/Handout/Reuters via CNN Newsource （CNN） リビア東部を拠点とする政府は、沿岸都市ベンガジの海軍基地に停泊していたロシア船で発生した爆発について、ドローン攻撃によるものだった可能性が高いと発表した。 声明によると、同船は両国間の海洋協力協定に基づき、燃料補給と物資調達のために同市の港に停泊</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/386d1b1a074230b3bab4922a507d587571027167/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F23%2Fb753d6c2e9abaaf79cb0e271bbf5e101%2Fcnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzMXZzZGYwMDdrMjdwMTN5NzgxbHAz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3MxdnNkZjAwN2wyN3AxM2w2YjM4dHk_.jpg" />
+    </item>
+    <item>
+      <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
+      <link>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</link>
+      <guid isPermaLink="false">urn:sha256:9bae7f19869af203cdf9b5bd1c9fbb79058fd412d28b110759214b2453d83966</guid>
+      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
+      <description>193ブックマーク / すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このループを、ツール呼び出しがなくなるか、設定した上限に達するまで繰り返します。 動作確認は Python 3.</description>
       <category>AI・機械学習</category>
     </item>
     <item>
@@ -139,15 +229,6 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/17364c225d98ef1ab619ed6c5d1b162a481a25ad/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Fiwiz-yn%2Frpr%2Fkokuboshigenobu%2F02765075%2Ftitle-1794548167520.jpeg%3Fexp%3D10800" />
     </item>
     <item>
-      <title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由</title>
-      <link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link>
-      <guid isPermaLink="false">urn:sha256:a4d3bf4e2a2f07787c21ed0b651f9c0b4c10484a37d25116d1005e35b8c461f3</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>86ブックマーク / Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/eb513da1511c2b781bad7b1b4413a771d7ddfffb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ad81a7fd0714df38f5dd29d1eb45448%2Fslide_0.jpg%3F41464838" />
-    </item>
-    <item>
       <title>AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果</title>
       <link>https://gigazine.net/news/20261121-ai-agents-leak-secrets/</link>
       <guid isPermaLink="false">urn:sha256:b6969e3fcb427512ab7d17ab603beceb0182b1a5ad3a9778fcbc78247b91374b</guid>
@@ -157,138 +238,39 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bbedfc165ae9e8b2f3a61d8ca1363f8d9ae279c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fai-agents-leak-secrets%2F00.jpg" />
     </item>
     <item>
-      <title>21世紀の精神異常者による/ための生活習慣制御【2026-11-23】 - 二千三百五十五年</title>
-      <link>https://obsolete.hatenadiary.com/entry/2026/11/21/231159</link>
-      <guid isPermaLink="false">urn:sha256:26d4cfed999e60fad52b72632e4fd055113f736c3b0cc5e3c39cd402d014c86f</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>44ブックマーク / まえがきのまえがき 本稿は、現在はてなブログ向けに作成している『抑鬱の生活、抑鬱のObsidian、抑鬱の再帰的自己改善』(仮題)というエントリの一部をベースに作成したものです。単体でも読めるようにしてありますが、私はより大きい風呂敷を広げて大きい話をする意図と予定があります。チャンネルを登録し、高評価ボタンを押して続きを待っていただけると大変うれしく思います。 自分の稼働時間の長期トレンド こういうものを出すこともできるようになる な</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/33b974d93a08851a568479c09607fbbac76fca33/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F3dfd13f9b3b5f9068610650cd33de4a1e75e278f%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ft%252Ftumor1917%252F20261121%252F20261121224137.png" />
-    </item>
-    <item>
-      <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript</title>
-      <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
-      <guid isPermaLink="false">urn:sha256:98fddceab1dc4b8f416b56bb01c431e37f05ea221a0a061fb19714eb84c7204d</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>48ブックマーク / JSConf 2026</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a2294ce9b8d0874629a40aed68cc18d50c3dbbfc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F877319baf87c4b8ab9e3a630f4761664%2Fslide_0.jpg%3F41472358" />
-    </item>
-    <item>
-      <title>フロントエンドのテストカバレッジは 100%強制がいい</title>
-      <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
-      <guid isPermaLink="false">urn:sha256:0d352d89279a5af3bfa582f809456762d3f25cb6c71417b7a8c004d45e7eae8d</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>85ブックマーク / JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/04fb8d0ccb4742a8e066ce2c506cc1476302c77e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F3d178a78a86d4a08a34f064673b6e1d2%2Fslide_0.jpg%3F41448932" />
-    </item>
-    <item>
-      <title>MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</link>
-      <guid isPermaLink="false">urn:sha256:9995394f36044d84890c9be36cf83b00c19c72105dea2f5df0d558d9fef9ac47</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>416ブックマーク / MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説（1/2 ページ） Metaは10月23日、パーソナルAIエージェント「Muse（ミューズ）」の日本での提供を開始しました。9月に先行した北米以外では、日本が最初の提供地域です。iOSアプリ、Androidアプリ、Webサイト（muse.ai）から利用でき、基本的な機能の多くは無料で使えます。 とはいえ、AIサービスは既に数多くありま</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa00535d19419f39d79e9affd015edd71d828ea9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F22%2Fcover_news005.jpg" />
-    </item>
-    <item>
-      <title>AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？</title>
-      <link>https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</link>
-      <guid isPermaLink="false">urn:sha256:f8da86b112d8e1e226e896fcef674c542e1e32a74ca2c286ff40813ae5a3e319</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>26ブックマーク / 生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 A</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b81bd402172d8e3056fe940b0591841ac79aeba9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F22%2Fai-will-not-make-you-rich%2F00_m.jpg" />
-    </item>
-    <item>
-      <title>LLMs Reproduce Human Purchase Intent via Semantic Similarity Elicitation of Likert Ratings</title>
-      <link>https://arxiv.org/abs/2510.08338</link>
-      <guid isPermaLink="false">urn:sha256:9d19b74b0acb47104561f49f83b4c836b437c7e91624c448eeb33cb32b9db7ed</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>16ブックマーク / Consumer research costs companies billions annually yet suffers from panel biases and limited scale. Large language models (LLMs) offer an alternative by simulating synthetic consumers, but produce unrealistic response d</description>
-      <category>AI・機械学習</category>
-    </item>
-    <item>
-      <title>Rust で疎ボリュームのライブラリ brodo を Claude Code と作った</title>
-      <link>https://zenn.dev/akahmys/articles/454a729a00401f</link>
-      <guid isPermaLink="false">urn:sha256:5a199a02d445b817087555619556489197f783485e0c49bfc9a421a683393739</guid>
+      <title>工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想</title>
+      <link>https://anond.hatelabo.jp/20261122140104</link>
+      <guid isPermaLink="false">urn:sha256:6dc39b6a7d8d53371b091de2006f4919c79e706f88793670eccaae16c9d67d97</guid>
       <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>18ブックマーク / brodo について brodo は 3 次元の疎なボリュームを扱う Rust のライブラリです。必要なボクセルにだけ値を持ち、ファイルに保存したものはコピーなしでそのまま読んだり、mmap したり、圧縮したりできます。OpenVDB の .vdb も読み書きできます。1.0.0 を crates.io に公開しました。 リポジトリにはクレートが三つあります。 brodo: VDB と同じ形の 4 段の木で、葉は 8³。一様な領域はタイ</description>
+      <description>126ブックマーク / ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語やJavaあたりを学びました。AIは専門外。 現在はとあるゲーム会社で技術系の職種で働いています。 イラストは学生時代に描き始めてある程</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4cc93dbb630a28ad8b01a71dd00799bfaf4f59b2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--U0ZprV6f--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3ARust%252520%2525E3%252581%2525A7%2525E7%252596%25258E%2525E3%252583%25259C%2525E3%252583%2525AA%2525E3%252583%2525A5%2525E3%252583%2525BC%2525E3%252583%2525A0%2525E3%252581%2525AE%2525E3%252583%2525A9%2525E3%252582%2525A4%2525E3%252583%252596%2525E3%252583%2525A9%2525E3%252583%2525AA%252520brodo%252520%2525E3%252582%252592%252520Claude%252520Code%252520%2525E3%252581%2525A8%2525E4%2525BD%25259C%2525E3%252581%2525A3%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Aakahmys%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKellkN0paQVpsc1MxRGxHdFBJamNhME92TXBuRFRPQlhMR0FkdnAzQT1zOTYtYw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
-      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
-      <guid isPermaLink="false">urn:sha256:7b124e8c2b7adce7ad3677379b3e1aebac45d990e12ecdd28dd83420372eb96c</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>156ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
+      <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n2326bd68a80e</link>
+      <guid isPermaLink="false">urn:sha256:a6ad9de69e66be158e0e633bd70321c2d96c3d80877beb274c4eba417f264765</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>57ブックマーク / 2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつという共同声明を出しています。［1］ 形式的な検証が進むにつれて、次に知りたくなるのは、その証明がどういう考えで</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d401a3486d36e6c45be7b4edc8aa6c3bd2ebadcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--EstRBN16--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590TLA%25252B%2525E3%252580%252591AI%2525E3%252581%2525AB%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252581%25259B%2525E3%252582%25258B%2525E3%252581%2525AA%2525E3%252580%252582%2525E3%252583%2525AB%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%252591%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06e25a04e66d136408482633960856102c8a6bd9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339222898%2Frectangle_large_type_2_529b709f22b1564fe7d6b858dab66ee3.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
-      <title>AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261122de79817</link>
-      <guid isPermaLink="false">urn:sha256:d25e6c36ecd623ed67e740af2dcf34935d5c2e7d978449be77cae024fa8b7f97</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>16ブックマーク / アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。 「リーマン…</description>
+      <title>この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)</title>
+      <link>https://note.com/varu3/n/n4476366008f8</link>
+      <guid isPermaLink="false">urn:sha256:3800bd0e49b57658a518d13c71da0553130e1435361a188a70fee62da6b2bdb3</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>44ブックマーク / 技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それがなぜなのかっていうこと先日、CNDW2026の運営として関わったこともあってか、少し整理してみた。 話を聞くだけ、スライドを見るだけならオン</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b9e614a4a481d167e68af8d1535c50c135ee0c1e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261122de79817%2F20261122de79817_E0000200936_1_l.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f558f653edcc5f30123ce3fa30f977b9172e91f0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2l930y2yx77uc.cloudfront.net%2Fproduction%2Fsocial_images%2F0163831924f526cdc757b9fe67754923e4afc49d.png" />
     </item>
     <item>
-      <title>[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services</title>
-      <link>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</link>
-      <guid isPermaLink="false">urn:sha256:e5c6f4a922ed59a7595847a1502f2090198c2147a348b1dc1d32265a35d1b92f</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>177ブックマーク / AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
+      <title>優秀な人が小さくまとまる現象 - pospomeのプログラミング日記</title>
+      <link>https://www.pospome.work/entry/2026/11/23/125036</link>
+      <guid isPermaLink="false">urn:sha256:c0564206e1c7a166c0f5078db3e8276aaf91eed5aba1f391befdb4d310f68138</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>123ブックマーク / 株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) エンジニアに限らずですが、優秀な人ほど物事を進める際のリスクを認識できるようになります。経験を積むと「これをやるとこうなりそうだな」という予測が立つようになるので、それ自体はとても良いことです。 ただ、過度にリスクを避けた結果、できることしかやらない人になってしまうことがあります。失敗しないので一見優秀に見えるんですけど、失敗の経験を積めないので成長が限</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/021598547eb5824f0152ba5288d9d32677c1cfa6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2Fb3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f%2F2026%2F11%2F20%2Fthumbnail_1600x800-1260x630.png" />
-    </item>
-    <item>
-      <title>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2157164.html</link>
-      <guid isPermaLink="false">urn:sha256:158332133ed535f1a35dd957668c1f6c9c7c5f0146e94821798b5e4d31750a79</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>220ブックマーク</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/648ee5c363b4677065169f982a8e8d3045fea5cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2157%2F164%2F09.jpg" />
-    </item>
-    <item>
-      <title>GitHub - awslabs/codekb</title>
-      <link>https://github.com/awslabs/codekb</link>
-      <guid isPermaLink="false">urn:sha256:84782eaa3f8207a4f82f2d057ba2b6683a98b93afde7462fb9ad3670c8a6523b</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>98ブックマーク / How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you hope you did not miss one. That manual p</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/39db8e35e44961701ae07a9e0f10e8aeb2f13046/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F10be81807b8a4c48b569a1f2f241c45201fe6b5dc19297edb2037b5c4e70eaaa%2Fawslabs%2Fcodekb" />
-    </item>
-    <item>
-      <title>高市首相の中国到着時に飛行機とタラップの間に段差は事前情報があったようで - 電脳塵芥</title>
-      <link>https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000</link>
-      <guid isPermaLink="false">urn:sha256:7f652f696b365ffa70207e2efde6d4abf3f36a378e53cb99bfc3c3e3556174ec</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>96ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9936284fc7432a000ff3cc4239fe421bbea9993/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F0ff0da6887ede70e9f504d7213d853eb15adef40%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnou_yunyun%252F20261121%252F20261121212405.jpg" />
-    </item>
-    <item>
-      <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
-      <link>https://luccafort.hatenablog.com/entry/2026/11/20/193344</link>
-      <guid isPermaLink="false">urn:sha256:5f82494e7ae90357021be71d90e97cc8f6f5a990ad1ff9e0ebb9d1e5946520ab</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>9ブックマーク / 2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、Peatix の譲渡機能で一緒に行く人に渡せます。入場できる内容は通常チケットと同じです。 2026.k</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2040cd444fbd61878beb40956e6b28ecd9fd443f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704538227038489749%2F14729835035341386395%2F1795170824" />
-    </item>
-    <item>
-      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
-      <link>https://dev.henry.jp/entry/e2e-repository</link>
-      <guid isPermaLink="false">urn:sha256:33861934e5bbefcfe0c26d38d387775d44681bac9805c3f5f5db307467fa2945</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:13 +0000</pubDate>
-      <description>54ブックマーク / 株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回は</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0210c9e976ad47b4823009b8c028d53e8b434165/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F4207112889953777012%2F14729835035340099917%2F1794969632" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/200c8ebd53bc639c9f3925014f9cdf97a2bb66b6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10328749687199202561%2F14729835035342785789%2F1795405836" />
     </item>
   </channel>
 </rss>
