@@ -7,272 +7,269 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
+      <link>https://note.com/yamac_/n/n198bdc344c64</link>
+      <guid isPermaLink="false">urn:sha256:193d1ecbff685d7109216078ea47c28c5b86dfd86bf514aaede9a31c9ba357f7</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>400ブックマーク / Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c82e50a801663a01d300248cc3772c656b9288ca/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339175432%2Frectangle_large_type_2_490a1a8344ed92ccfd09322236cc3e11.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
       <title>ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」</title>
       <link>https://posfie.com/@petaritape/p/tgzVdbL</link>
       <guid isPermaLink="false">urn:sha256:1240476f67e936ac6cf1d13fa470cc74c7dd2efb5a9c0b44e6ecf5e3a9a8ad8d</guid>
       <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>27ブックマーク / ちゅん🐤 @KotorinChunChun ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ… 2026-11-22 21:52:45 ちゅん🐤 @KotorinChunChun </description>
+      <description>244ブックマーク / ちゅん🐤 @KotorinChunChun ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ… 2026-11-22 21:52:45 ちゅん🐤 @KotorinChunChun </description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9a812c0a27d07304fd1caab37c068cd126551c38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F89dc9fd5e2df277b29ed80b9ef7f2967-1200x630.jpeg" />
     </item>
     <item>
-      <title>AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!</title>
-      <link>https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen</link>
-      <guid isPermaLink="false">urn:sha256:1b644e5c8c7bcdac22bd1d148a468700a0f84e42a7a644ddcbd3691e9fcd0a92</guid>
+      <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー</title>
+      <link>https://speakerdeck.com/tascript/jmap-is-game-changer</link>
+      <guid isPermaLink="false">urn:sha256:9b154500a57c6494d90b0bad62e60686a09f0ba5d1596028280994437f7df295</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>117ブックマーク / JSConfJP 2026の登壇資料です</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5e6b5397a3f14962b9db1847ae34b819a9345ed/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F34fdb086664c4af3b97c5694903700fa%2Fslide_0.jpg%3F41470359" />
+    </item>
+    <item>
+      <title>MagSafeってすごく便利じゃない？</title>
+      <link>https://dailyportalz.jp/kiji/benry-magsafe</link>
+      <guid isPermaLink="false">urn:sha256:2eeced694a44840ce57ce77909e8e8af2230dbd28a99001c975ac7ce14b39311</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>66ブックマーク / iPhoneの裏には磁石がついている。MagSafeと呼ばれている規格だ。 充電だけだと思っていたが、最近はスタンドなどのアクセサリー類もペタペタくっついている。けっこう強力にくっつくし、取り外しもしやすい。 もっとなんでもMagSafe対応になってほしい。</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8206a1e84420dc1f44cff4521bd653d52b8b5fe2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fdailyportalz.jp%2Fapplication%2Ffiles%2F8417%2F9536%2F0436%2Ftop.jpg" />
+    </item>
+    <item>
+      <title>日本人の個人情報「需要ある」「ハッキング容易」…セキュリティー軽視、経営層に危機感届かず</title>
+      <link>https://www.yomiuri.co.jp/national/20261122-GYT1T00208/</link>
+      <guid isPermaLink="false">urn:sha256:8b69b4eca80cbabd0ba7256d1bb97c13a81ef4c9c72a5c24b732728b7cb956ef</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>107ブックマーク / 【読売新聞】 「うちもやられたか……」。不正アクセスが世間を騒がせ始めていた１０月１１日深夜、情報サービス会社「アルカディア」（大阪府）の 天白 （ てんぱく ） 成一社長（６３）はセキュリティー担当者からの電話に言葉を失った。「不</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82a81c301b6f42d2310224237e4fc1e4372b05a1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261122-GYT1I00219-1.jpg%3Ftype%3Dogp" />
+    </item>
+    <item>
+      <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
+      <link>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</link>
+      <guid isPermaLink="false">urn:sha256:9bae7f19869af203cdf9b5bd1c9fbb79058fd412d28b110759214b2453d83966</guid>
       <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>27ブックマーク / Extend displayのイメージ。画像出典：Windows Latest MacにはiPadを2台目の画面にする「Sidecar」（iPhoneは非対応）があり、Samsungも一部のGalaxyタブレットをWindows PCにつなぐ「Second Screen」を提供しています。便利なんですよね。 でもMicrosoft自身のスマホ連携の機能には、こうした機能が不在でした。 そんな中、MicrosoftはAndroid向けアプ</description>
+      <description>171ブックマーク / すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このループを、ツール呼び出しがなくなるか、設定した上限に達するまで繰り返します。 動作確認は Python 3.</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/904d2cdfa755cda022e6cec93cdf9c89239ed309/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsmhn.info%2Fwp-content%2Fuploads%2F2026%2F11%2Flink-to-windows-extend-display-illustration.webp" />
     </item>
     <item>
-      <title>ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上</title>
-      <link>https://togetter.com/li/2773653</link>
-      <guid isPermaLink="false">urn:sha256:0b9b0b822a0cbb3894cb5bf1487fff16660719b090f5cb74c6e41dbf0026ff20</guid>
-      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>36ブックマーク / クラウド上のファントム：Googleクラウドストレージを悪用したフィッシング詐欺の手口｜Aryaka Blog サイバー犯罪者が Google Cloud Storage を悪用してフィッシングサイトをホストし、クレデンシャルの盗難を隠蔽し、巧妙な詐欺を組織する方法をご覧ください。検出戦略、実際のキャンペーン… Aryaka Unified SASE Solution For Secure フィッシング攻撃がGoogle Cloudサー</description>
+      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
+      <guid isPermaLink="false">urn:sha256:4e29334a0a6bdc7a362ecd5f818c4086f41c23251bbd18181485688a49218ea3</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>70ブックマーク / 米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせて、社内で追跡してきた事前学習の進捗を示す測定値を公開した。 パープレキシティは、モデルが次の</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/60c2026154d9360a143db6505c4473ed8bc67585/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F0e02dc9a4f6f4c0aa9d404367d649595-1200x630.jpeg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/014c14bb98d3286b0582a57041d1eb07ae60e80a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F23%2F2000003394%2F10012776%2F2048" />
     </item>
     <item>
-      <title>Google が実践する最先端の SRE</title>
-      <link>https://sre-magazine.net/articles/7/aoto/</link>
-      <guid isPermaLink="false">urn:sha256:2e556cc8dc8f502e5490bcb5b5bd1b2dc443225bae785f2b27a4872ad569a613</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>70ブックマーク / はじめに こんにちは。Datadog Japan で Sales Engineer をしている 木村健人(AoTo)です。Google Cloud の公式ユーザーグループである Jagu’e’r(Japan Google Cloud Usergroup for Enterprise) では、オブザーバビリティ分科会を立ち上げ、運営を行なっています。 昨年末、Google で25年以上 SRE を推進してきたエンジニアが『The Evol</description>
+      <title>優秀な人が小さくまとまる現象 - pospomeのプログラミング日記</title>
+      <link>https://www.pospome.work/entry/2026/11/23/125036</link>
+      <guid isPermaLink="false">urn:sha256:c0564206e1c7a166c0f5078db3e8276aaf91eed5aba1f391befdb4d310f68138</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>16ブックマーク / 株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) エンジニアに限らずですが、優秀な人ほど物事を進める際のリスクを認識できるようになります。経験を積むと「これをやるとこうなりそうだな」という予測が立つようになるので、それ自体はとても良いことです。 ただ、過度にリスクを避けた結果、できることしかやらない人になってしまうことがあります。失敗しないので一見優秀に見えるんですけど、失敗の経験を積めないので成長が限</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8be7b40c08ab4049eff96eaa5f4f2570c7f5fec5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsre-magazine.net%2Fimages%2Farticles%2F7%2FAoTo%2Fogp.png" />
-    </item>
-    <item>
-      <title>MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</link>
-      <guid isPermaLink="false">urn:sha256:9995394f36044d84890c9be36cf83b00c19c72105dea2f5df0d558d9fef9ac47</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>382ブックマーク / MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説（1/2 ページ） Metaは10月23日、パーソナルAIエージェント「Muse（ミューズ）」の日本での提供を開始しました。9月に先行した北米以外では、日本が最初の提供地域です。iOSアプリ、Androidアプリ、Webサイト（muse.ai）から利用でき、基本的な機能の多くは無料で使えます。 とはいえ、AIサービスは既に数多くありま</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa00535d19419f39d79e9affd015edd71d828ea9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F22%2Fcover_news005.jpg" />
-    </item>
-    <item>
-      <title>[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/new-aws-signup/</link>
-      <guid isPermaLink="false">urn:sha256:397c335bc0c3a2e4fb87695cfdf2361cd4d98373d278395095f3de4afcf9a1af</guid>
-      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>5ブックマーク / これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 これから個人やチームでAWSを使い始めるぞーと思っている方は、従来のAWSアカウントの作り方や使い方と全く異なる</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/db7f53ca7da4e8172c1ff1f690e6d931151152ce/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2F348VnC3440CoUtpS4pd5NS%2F8a7182ab96a0851a72a88d40328811b3%2Faws.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/200c8ebd53bc639c9f3925014f9cdf97a2bb66b6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10328749687199202561%2F14729835035342785789%2F1795405836" />
     </item>
     <item>
       <title>工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想</title>
       <link>https://anond.hatelabo.jp/20261122140104</link>
       <guid isPermaLink="false">urn:sha256:6dc39b6a7d8d53371b091de2006f4919c79e706f88793670eccaae16c9d67d97</guid>
       <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>12ブックマーク / ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語やJavaあたりを学びました。AIは専門外。 現在はとあるゲーム会社で技術系の職種で働いています。 イラストは学生時代に描き始めてある程</description>
+      <description>113ブックマーク / ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語やJavaあたりを学びました。AIは専門外。 現在はとあるゲーム会社で技術系の職種で働いています。 イラストは学生時代に描き始めてある程</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
+    </item>
+    <item>
+      <title>無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/453/4453903/</link>
+      <guid isPermaLink="false">urn:sha256:6ce52ecf7791f80c55d0e381e130a515aeb4e3152d7b8d12118421d3f25eed7f</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>39ブックマーク / 11日、MiniMaxが新しい画像生成モデル「H3-Image」を公開しました。3日には、Pruna AIから動画AI「H3」を蒸留して作られた画像AIモデル「P-H3-Image（現在の公開名はP-Image-OSS）」が登場したばかりです。H3-Imageは8月に開発中であると明らかにされていたとはいえ、本家のモデルまでこんなに早く公開されるとは驚きました。H3-Imageは最大16枚の参照画像を入力でき、4K解像度にも対応していま</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/29c90148e5579ecc0d671d0de3b41a26de4b4650/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fascii.jp%2Fimg%2F2026%2F11%2F23%2F4555431%2Fxl%2F7331f6c19c384594.png%3F20200122" />
+    </item>
+    <item>
+      <title>[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/new-aws-signup/</link>
+      <guid isPermaLink="false">urn:sha256:397c335bc0c3a2e4fb87695cfdf2361cd4d98373d278395095f3de4afcf9a1af</guid>
+      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
+      <description>81ブックマーク / これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 これから個人やチームでAWSを使い始めるぞーと思っている方は、従来のAWSアカウントの作り方や使い方と全く異なる</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/db7f53ca7da4e8172c1ff1f690e6d931151152ce/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2F348VnC3440CoUtpS4pd5NS%2F8a7182ab96a0851a72a88d40328811b3%2Faws.png" />
+    </item>
+    <item>
+      <title>spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする</title>
+      <link>https://zenn.dev/ruri/articles/code-as-spec</link>
+      <guid isPermaLink="false">urn:sha256:fb8fb78498f2108ad0ecba9276a6a5bc7d78f894f61d11f6cb0ce9c60f4fe7dc</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>37ブックマーク / 表の最後の行が、自然言語でしか書けない部分です。何のために作っているのか、どこまでを作らないのか、まだ作っていないものは何か。これはコードをいくら読んでも出てきません。「コードが正」を進めすぎて、ここまで消してしまうと危険です。消した次の日に、エージェントが「やらない」と決めた機能を親切に作り始めます。コードに現れないものは、コードと同じ規律で文書として残します。 この仕分けは、手元で実装まで終えた spec 7 本（計 3.3 万字）</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/05092e8da3af69858244fa15cb94208e4eeb9b21/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--g71ZyeAF--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3Aspec%252520as%252520code%252520%2525E3%252581%2525A7%2525E3%252581%2525AF%2525E3%252581%2525AA%2525E3%252581%25258F%2525E3%252580%252581code%252520as%252520spec%252520%2525E2%252580%252594%252520%2525E4%2525BB%252595%2525E6%2525A7%252598%2525E6%25259B%2525B8%2525E3%252581%2525AE%2525E3%252582%252588%2525E3%252581%252586%2525E3%252581%2525AB%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252582%25258C%2525E3%252581%25259F%2525E3%252582%2525B3%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252582%252592%2525E6%2525AD%2525A3%2525E3%252581%2525AB%2525E3%252581%252599%2525E3%252582%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Aatsushi%252520ootani%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmYWE4MmRiN2YuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局</title>
+      <link>https://www.cnn.co.jp/world/35255287.html</link>
+      <guid isPermaLink="false">urn:sha256:10b696598316ba9d4971602d33a163c9569d6f152ce0479f4bf267cead7a2353</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>50ブックマーク / リビア東部ベンガジに停泊していたロシア船から立ち上る煙を捉えた衛星画像/2026 Planet Labs PBC/Handout/Reuters via CNN Newsource （CNN） リビア東部を拠点とする政府は、沿岸都市ベンガジの海軍基地に停泊していたロシア船で発生した爆発について、ドローン攻撃によるものだった可能性が高いと発表した。 声明によると、同船は両国間の海洋協力協定に基づき、燃料補給と物資調達のために同市の港に停泊</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/386d1b1a074230b3bab4922a507d587571027167/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F23%2Fb753d6c2e9abaaf79cb0e271bbf5e101%2Fcnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzMXZzZGYwMDdrMjdwMTN5NzgxbHAz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3MxdnNkZjAwN2wyN3AxM2w2YjM4dHk_.jpg" />
+    </item>
+    <item>
+      <title>ワコム買収のニュースに「また日本企業が…」と嘆く声も、事情を知ると複雑な気持ちに→「10年以上使っても壊れない」と愛用者からは応援の声</title>
+      <link>https://togetter.com/li/2773924</link>
+      <guid isPermaLink="false">urn:sha256:9b09d0c9fbe7f81b451c7f0196063b933fc1fd49d011485f3d9c60dfd55e3c7c</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>17ブックマーク / ワコム買収。韓国系投資ファンドの完全子会社に、サムスンは再出資 - すまほん!! ワコムは11月20日、投資ファンドのMBKパートナーズ（MBKP）が支援するMBO（マネジメント・バイアウト）の一環として、MBKPのファンドが出資するMP-2611株式会社が同社株式へのTOB（株… 1 user すまほん!! ワコムタブレットサイト｜Wacom ペンタブ、液タブの活用方法がわかる【ワコムタブレットサイト】。動画で学べるテクニックやペンタ</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7d88ec31cdcd48077bc779d371cbd416690f6731/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Feefe64f393376251defccb734b417db9-1200x630.jpeg" />
+    </item>
+    <item>
+      <title>AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!</title>
+      <link>https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen</link>
+      <guid isPermaLink="false">urn:sha256:1b644e5c8c7bcdac22bd1d148a468700a0f84e42a7a644ddcbd3691e9fcd0a92</guid>
+      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
+      <description>92ブックマーク / Extend displayのイメージ。画像出典：Windows Latest MacにはiPadを2台目の画面にする「Sidecar」（iPhoneは非対応）があり、Samsungも一部のGalaxyタブレットをWindows PCにつなぐ「Second Screen」を提供しています。便利なんですよね。 でもMicrosoft自身のスマホ連携の機能には、こうした機能が不在でした。 そんな中、MicrosoftはAndroid向けアプ</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/904d2cdfa755cda022e6cec93cdf9c89239ed309/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsmhn.info%2Fwp-content%2Fuploads%2F2026%2F11%2Flink-to-windows-extend-display-illustration.webp" />
+    </item>
+    <item>
+      <title>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html</link>
+      <guid isPermaLink="false">urn:sha256:0b8d01a0c06fd7ba8af971ec65d5f551399bb8726107b66b7c58407a1a891b41</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>15ブックマーク / なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由（1/2 ページ） 日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地で急速に進んでいるのだ。 タッチ決済改札とは、国際ブランドが提供する非接触決済（EMVコンタクトレス）の仕組みを活用し、事前のチャー</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e6d85124c05b1c48ece4f9c8f3e881b191aa8b6e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F23%2Fcover_news005.jpg" />
+    </item>
+    <item>
+      <title>なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..</title>
+      <link>https://anond.hatelabo.jp/20261122011458</link>
+      <guid isPermaLink="false">urn:sha256:8c39f55b2bb9a4f114f73a497ed62b98a97b3700329076b4ff4d1c035153985f</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>317ブックマーク / なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてないというけど、ほかの飲食店も電車もバスもUIや支払い方法はバラバラ スマホのアプリだってUI全部別々でまったく統一されてない ビデオゲームだってそう SNSのUIを統一しろなんて言うやついない なんでセルフレジだけそんなに嫌なんだ？</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>リリースしたで終わらない。 観測できるフロントエンド開発</title>
+      <link>https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita</link>
+      <guid isPermaLink="false">urn:sha256:4b2887e3313a972eb65296009132400289d64eb310ad7639a88ade6ae0f235ec</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>20ブックマーク / UIを改善してリリースした。でも、本当に良くなったのか分からない。そんな経験はありませんか？ 本LTでは、私たちのチームが、UI改善の効果を確かめるためにどのような取り組みをしているかを紹介します。開発前の観測指標の整理から、イベント設計やダッシュボードの作成、リリース後の観測と次の改善につなげるまで。…</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/832d96acfa83ccd1e21e6f93ff5073432beb2885/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fb88c5424cfb64de1b487985ceefc161f%2Fslide_0.jpg%3F41473768" />
+    </item>
+    <item>
+      <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n2326bd68a80e</link>
+      <guid isPermaLink="false">urn:sha256:a6ad9de69e66be158e0e633bd70321c2d96c3d80877beb274c4eba417f264765</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>50ブックマーク / 2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつという共同声明を出しています。［1］ 形式的な検証が進むにつれて、次に知りたくなるのは、その証明がどういう考えで</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06e25a04e66d136408482633960856102c8a6bd9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339222898%2Frectangle_large_type_2_529b709f22b1564fe7d6b858dab66ee3.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/</link>
+      <guid isPermaLink="false">urn:sha256:4d33b8fe31526fa952c0a1d145fefb7e4a410b69ec5651a3b53ee0acd0d0aaeb</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>38ブックマーク / Kindle Paperwhiteで漫画を読んでいると、ちょっと惜しいと思うことがあります。 左右いっぱいに広がる見開きのシーン。紙の本なら一度に見られるのに、電子書籍ではページを切り替えたり、画面を横向きにして小さく表示したり。 そんな声に応えてくれるのが、10.3（対角約26.2cm）インチの電子ペーパーを2枚つなげたInkleaf（インクリーフ）。紙の本のようにパカッと開いて、漫画も小説も見開きで読める電子書籍端末です。 電子書籍</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/145609ba6c15de379d78d37d27a6910cc9e3b133/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fmedia.loom-app.com%2Floom%2F2026%2F11%2F19%2F5c9709d8-d9d0-4d70-b3af-7bb2286a72cd%2Foriginal.png%3Fw%3D1200%26h%3D630" />
+    </item>
+    <item>
+      <title>GitHub - xcodebeast/flashwright: The fastest end-to-end testing framework: a drop-in Playwright with the same API and test runner, 2-4x faster than Playwright, Cypress, WebdriverIO, Selenium and Puppeteer</title>
+      <link>https://github.com/xcodebeast/flashwright</link>
+      <guid isPermaLink="false">urn:sha256:998787d85cfe754487c90c8a683b4f7fc71a6a355342b8ab0f9e387223177ec8</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>6ブックマーク / The fastest end-to-end testing framework. Flashwright is a fork of Playwright 1.64.1 that spends less time running your tests. Same API, same test runner, same npx playwright test. Replace the package and keep your exist</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9ce62d9f8c52d0363d70a92b326d10453f9d798f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Frepository-images.githubusercontent.com%2F1409889224%2F1e34e539-9edd-4059-92d9-887ddc63369f" />
+    </item>
+    <item>
+      <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
+      <link>https://cginterest.com/2026/11/20/eden-blender/</link>
+      <guid isPermaLink="false">urn:sha256:f7a92dedbe7a9ce2f07bf40d447eaca416929fd0982d6eb286ba8a369a93d5fd</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>23ブックマーク / Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースから始め、スライダーで顔と体の形を変えたうえで、肌、髪、服を選び、最後にポーズ付けやアニメーションに使えるリグまで準備できます。 また、別売り</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
+      <link>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</link>
+      <guid isPermaLink="false">urn:sha256:0895f18d0ebcfba156ca641569a23425250832be3cfa8a5060353070da0b0d51</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>14ブックマーク / 人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 D200mm: A New Scale for Single‑Crystal Diamond | Diamon</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a8adca3712225157f84004cf15665e0a8fdcaa74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F23%2Fdiamond-foundrysingle-crystal-diamond%2F00.png" />
+    </item>
+    <item>
+      <title>iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実 折りたたみならではの活用法も</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html</link>
+      <guid isPermaLink="false">urn:sha256:bcaa4e9c2cb580bcd9a48978caa2053c091cd24ba05f57b8cbad727f3b20c6ed</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>4ブックマーク / iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実 折りたたみならではの活用法も 横開き型の折りたたみスマートフォンは、開けばタブレット並みの大画面でWebサイトや動画を楽しめる魅力的なデバイスだ。しかし、日常のちょっとした場面で「画面比率の壁」にぶつかることがある。その代表格が、ファミリーレストラン「サイゼリヤ」のモバイルオーダーだ。 サイゼリヤでは、テーブルに置かれたQRコードをス</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c7c8323995494b407432f1143e0e736af18926ec/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F23%2Fcover_news006.jpg" />
+    </item>
+    <item>
+      <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
+      <link>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</link>
+      <guid isPermaLink="false">urn:sha256:8458fd289a0a420e2eac8c66fb25de0c2fc34ed4a6e9979a722073863665b681</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>9ブックマーク / 「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・Linuxに対応しており、iPad版も開</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6c1377406e36e83748ef2c3942815fa2e1ec8004/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F23%2Flastbook-offline-knowledge%2F00.png" />
+    </item>
+    <item>
+      <title>アマゾンが迫られた「10億ドル」の地域融和策、AIデータセンター建設凍結の波紋（小久保重信） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/8a874f9bd3a7c1c2d97094f32690eb3fd309dbf4</link>
+      <guid isPermaLink="false">urn:sha256:143d913bfd55274983ff8ad3fdfe4e868385fa46d826bb91c8bebc8f7940fbdb</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>7ブックマーク / 10月上旬、米アマゾン・ウェブ・サービス（AWS）は、データセンターを展開する米国の地域社会に向けて今後5年間で10億ドル（約1600億円）超を追加拠出する支援策を発表した。あわせて、施設立地にあたって行政機関と結んできた秘密保持契約（NDA）を撤廃する方針を明らかにした。 The race our nation can’t afford to lose, plus a new commitment from us and a fres</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/17364c225d98ef1ab619ed6c5d1b162a481a25ad/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Fiwiz-yn%2Frpr%2Fkokuboshigenobu%2F02765075%2Ftitle-1794548167520.jpeg%3Fexp%3D10800" />
     </item>
     <item>
       <title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由</title>
       <link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link>
       <guid isPermaLink="false">urn:sha256:a4d3bf4e2a2f07787c21ed0b651f9c0b4c10484a37d25116d1005e35b8c461f3</guid>
       <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>42ブックマーク / Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？</description>
+      <description>86ブックマーク / Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/eb513da1511c2b781bad7b1b4413a771d7ddfffb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ad81a7fd0714df38f5dd29d1eb45448%2Fslide_0.jpg%3F41464838" />
     </item>
     <item>
-      <title>おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のやらかしなのに誠実さを感じてかあまり荒れていない……なぜ他社にこれができないのか？</title>
-      <link>https://togetter.com/li/2773676</link>
-      <guid isPermaLink="false">urn:sha256:02a8aaceea90ee5527191b4553d36025bdb8ad82bc59a4be3a2256ffeb914f90</guid>
+      <title>AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果</title>
+      <link>https://gigazine.net/news/20261121-ai-agents-leak-secrets/</link>
+      <guid isPermaLink="false">urn:sha256:b6969e3fcb427512ab7d17ab603beceb0182b1a5ad3a9778fcbc78247b91374b</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>10ブックマーク / AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 AI agents give up their secrets under the influence of swarms | AI Alignment Foundation https://www.aial</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bbedfc165ae9e8b2f3a61d8ca1363f8d9ae279c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fai-agents-leak-secrets%2F00.jpg" />
+    </item>
+    <item>
+      <title>Google が実践する最先端の SRE</title>
+      <link>https://sre-magazine.net/articles/7/aoto/</link>
+      <guid isPermaLink="false">urn:sha256:2e556cc8dc8f502e5490bcb5b5bd1b2dc443225bae785f2b27a4872ad569a613</guid>
       <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>131ブックマーク / 六花亭公式 @rokkatei 「六花亭オンラインショップ」への不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ このたび、弊社が運営する「六花亭オンラインショップ」が第三者による不正アクセスを受け、サイト内のプログラムが改ざんされていたことが判明いたしました。これにより、お客さまが入力された個人情報の一部が外部に流出した可能性がございます。 日頃よりご愛顧いただいておりますお客さまには、多大なるご迷惑とご心配をおかけして</description>
+      <description>108ブックマーク / はじめに こんにちは。Datadog Japan で Sales Engineer をしている 木村健人(AoTo)です。Google Cloud の公式ユーザーグループである Jagu’e’r(Japan Google Cloud Usergroup for Enterprise) では、オブザーバビリティ分科会を立ち上げ、運営を行なっています。 昨年末、Google で25年以上 SRE を推進してきたエンジニアが『The Evol</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/501c33baf708237e4b547181f5a1c332b82c7f16/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fc01c4723f1493a95c011868557a8d540-1200x630.jpeg" />
-    </item>
-    <item>
-      <title>タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261122de79936</link>
-      <guid isPermaLink="false">urn:sha256:5554c3dad3d290a37654bf26e6c2b9938f0f4f35710ba9fa269bca68233828fc</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>85ブックマーク / 音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。 「タワーレコ…</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cc3bb87987248c26297321323ba230e6c1038ec9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261122de79936%2F20261122de79936_E0000201170_1_l.jpg" />
-    </item>
-    <item>
-      <title>フロントエンドのテストカバレッジは 100%強制がいい</title>
-      <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
-      <guid isPermaLink="false">urn:sha256:0d352d89279a5af3bfa582f809456762d3f25cb6c71417b7a8c004d45e7eae8d</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>64ブックマーク / JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/04fb8d0ccb4742a8e066ce2c506cc1476302c77e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F3d178a78a86d4a08a34f064673b6e1d2%2Fslide_0.jpg%3F41448932" />
-    </item>
-    <item>
-      <title>クロネコヤマトのロゴが外国人たちに人気らしい「これまでで一番好きな企業ロゴ」「これの絵柄が前後に入ったシャツを持ってるよ！」</title>
-      <link>https://togetter.com/li/2773549</link>
-      <guid isPermaLink="false">urn:sha256:e3aa4850bc0d2fe9007f27549971a4eb5acd36763ac637aaa6b19efd5364107b</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>100ブックマーク /  William Morrison, MD @morrisonMSK @RomaPete They are amazing. If you’re traveling within Japan they will pick up your luggage and deliver it to your next hotel same day or next 2026-11-22 03:02:08 Peter Brase @RomaPete</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5bbcbd1159c9f8c6f4450b28252a7108006c9777/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fe45b1a35acc344c082a4941a6e6194ac-1200x630.jpeg" />
-    </item>
-    <item>
-      <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript</title>
-      <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
-      <guid isPermaLink="false">urn:sha256:98fddceab1dc4b8f416b56bb01c431e37f05ea221a0a061fb19714eb84c7204d</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>35ブックマーク / JSConf 2026</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a2294ce9b8d0874629a40aed68cc18d50c3dbbfc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F877319baf87c4b8ab9e3a630f4761664%2Fslide_0.jpg%3F41472358" />
-    </item>
-    <item>
-      <title>AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？</title>
-      <link>https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</link>
-      <guid isPermaLink="false">urn:sha256:f8da86b112d8e1e226e896fcef674c542e1e32a74ca2c286ff40813ae5a3e319</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>22ブックマーク / 生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 A</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b81bd402172d8e3056fe940b0591841ac79aeba9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F22%2Fai-will-not-make-you-rich%2F00_m.jpg" />
-    </item>
-    <item>
-      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
-      <guid isPermaLink="false">urn:sha256:7b124e8c2b7adce7ad3677379b3e1aebac45d990e12ecdd28dd83420372eb96c</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>143ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d401a3486d36e6c45be7b4edc8aa6c3bd2ebadcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--EstRBN16--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590TLA%25252B%2525E3%252580%252591AI%2525E3%252581%2525AB%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252581%25259B%2525E3%252582%25258B%2525E3%252581%2525AA%2525E3%252580%252582%2525E3%252583%2525AB%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%252591%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2157164.html</link>
-      <guid isPermaLink="false">urn:sha256:158332133ed535f1a35dd957668c1f6c9c7c5f0146e94821798b5e4d31750a79</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>213ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/648ee5c363b4677065169f982a8e8d3045fea5cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2157%2F164%2F09.jpg" />
-    </item>
-    <item>
-      <title>[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services</title>
-      <link>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</link>
-      <guid isPermaLink="false">urn:sha256:e5c6f4a922ed59a7595847a1502f2090198c2147a348b1dc1d32265a35d1b92f</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>153ブックマーク / AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/021598547eb5824f0152ba5288d9d32677c1cfa6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2Fb3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f%2F2026%2F11%2F20%2Fthumbnail_1600x800-1260x630.png" />
-    </item>
-    <item>
-      <title>AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261122de79817</link>
-      <guid isPermaLink="false">urn:sha256:d25e6c36ecd623ed67e740af2dcf34935d5c2e7d978449be77cae024fa8b7f97</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>14ブックマーク / アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。 「リーマン…</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b9e614a4a481d167e68af8d1535c50c135ee0c1e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261122de79817%2F20261122de79817_E0000200936_1_l.jpg" />
-    </item>
-    <item>
-      <title>「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io</title>
-      <link>https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html</link>
-      <guid isPermaLink="false">urn:sha256:ace0f03d7829508df17b3f8e853b583d6303727343b3af27ea13d5a1d4e343e3</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>22ブックマーク / 「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。 サイバーセキュリティに関する関係閣僚会議 10/26 に開催された会議で、高市総理がパッケージの取りまとめを指示した。 来週中を目途に、政</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3055f9f0b3260ade1f2f3ed62770583394465965/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fblog.jxck.io%2Fassets%2Fimg%2Fjxck.600x600.png" />
-    </item>
-    <item>
-      <title>六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261122de79904</link>
-      <guid isPermaLink="false">urn:sha256:c7e9ea481e8643670ef5d00186ff67341e4a43fbc52d82a0e7f0ddb8831df699</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>10ブックマーク / 北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が…</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/154a5924766548ccb9c8c6baadf2a78d38a92e8c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261122de79904%2F20261122de79904_E0000201167_1_l.jpg" />
-    </item>
-    <item>
-      <title>Androidの野良アプリ導入が2027年1月から世界規模で制限へ Googleの開発者認証が本格展開</title>
-      <link>https://sumahodigest.com/?p=76937</link>
-      <guid isPermaLink="false">urn:sha256:1e22a384397a7a1d92a260855736429de0535357b28a716afd1ab13c2140e097</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>61ブックマーク / Googleは、Androidのアプリ開発者に本人確認を義務付ける新たな認証制度と、未認証アプリのサイドローディングに関する制限を、2027年1月から世界各国に拡大すると発表しました。 今回の変更はGoogle Playだけでなく、Galaxy StoreやXiaomi、OPPOなどのメーカー独自ストアにも適用されます。未認証アプリを引き続きインストールすることは可能ですが、従来よりも複雑な手続きが必要になり、設定変更後には24時間の待</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/af61de0a6661ba50364cd5c7b34534b8d1f2cb9f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsumahodigest.com%2Fwp-content%2Fuploads%2F2026%2F11%2FScreenshot-2026-11-19-133446.jpg" />
-    </item>
-    <item>
-      <title>Rust で疎ボリュームのライブラリ brodo を Claude Code と作った</title>
-      <link>https://zenn.dev/akahmys/articles/454a729a00401f</link>
-      <guid isPermaLink="false">urn:sha256:5a199a02d445b817087555619556489197f783485e0c49bfc9a421a683393739</guid>
-      <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>15ブックマーク / brodo について brodo は 3 次元の疎なボリュームを扱う Rust のライブラリです。必要なボクセルにだけ値を持ち、ファイルに保存したものはコピーなしでそのまま読んだり、mmap したり、圧縮したりできます。OpenVDB の .vdb も読み書きできます。1.0.0 を crates.io に公開しました。 リポジトリにはクレートが三つあります。 brodo: VDB と同じ形の 4 段の木で、葉は 8³。一様な領域はタイ</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4cc93dbb630a28ad8b01a71dd00799bfaf4f59b2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--U0ZprV6f--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3ARust%252520%2525E3%252581%2525A7%2525E7%252596%25258E%2525E3%252583%25259C%2525E3%252583%2525AA%2525E3%252583%2525A5%2525E3%252583%2525BC%2525E3%252583%2525A0%2525E3%252581%2525AE%2525E3%252583%2525A9%2525E3%252582%2525A4%2525E3%252583%252596%2525E3%252583%2525A9%2525E3%252583%2525AA%252520brodo%252520%2525E3%252582%252592%252520Claude%252520Code%252520%2525E3%252581%2525A8%2525E4%2525BD%25259C%2525E3%252581%2525A3%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Aakahmys%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKellkN0paQVpsc1MxRGxHdFBJamNhME92TXBuRFRPQlhMR0FkdnAzQT1zOTYtYw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>Upload2Shell</title>
-      <link>https://pwn.ai/upload2shell</link>
-      <guid isPermaLink="false">urn:sha256:1a6bc61cbec29813b9f10410c19b0c8634b6fcb040d8c4636c93a3d86bb64355</guid>
-      <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>36ブックマーク / A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering process. Ghostscript sit</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c6a77ee09ccf4e6b11803702ad9e193dc0fb9337/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpwn.ai%2Fupload2shell-share.png%3Fv%3D2" />
-    </item>
-    <item>
-      <title>GitHub - awslabs/codekb</title>
-      <link>https://github.com/awslabs/codekb</link>
-      <guid isPermaLink="false">urn:sha256:84782eaa3f8207a4f82f2d057ba2b6683a98b93afde7462fb9ad3670c8a6523b</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>92ブックマーク / How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you hope you did not miss one. That manual p</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/39db8e35e44961701ae07a9e0f10e8aeb2f13046/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F10be81807b8a4c48b569a1f2f241c45201fe6b5dc19297edb2037b5c4e70eaaa%2Fawslabs%2Fcodekb" />
-    </item>
-    <item>
-      <title>回収対象のAnker製モバイルバッテリーで火災発生か 型番「A1257」の一部に使用中止を呼びかけ</title>
-      <link>https://japan.cnet.com/article/35255262/</link>
-      <guid isPermaLink="false">urn:sha256:f643649bdef4e24c125907faaf29fcb1040bd328bc48c2828d3094086a0c9315</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>78ブックマーク / 消費者庁は11月20日、アンカー・ジャパンが回収中のモバイルバッテリー「Anker Power Bank（10000mAh、22.5W）」の本体と周辺が焼ける火災が、10月14日に東京都で起きたと発表した。火災の原因は調査中で、回収の理由となった不具合との関連は分かっていない。</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/21d6613627b7efecfd7334848d413ce679cff15e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F22%2F448fa8868c25a538abd5a43e4414b2c9%2Flarge.jpg" />
-    </item>
-    <item>
-      <title>数学「四色問題」で東大などが新解法 計算量激減、半導体にも応用可能 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOSG0292W0S6A900C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:a8647e93bf4cb008a6caa84e1c1bff8505eab87a7aa213d2825a57d654c02dde</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>15ブックマーク / 世界は4色で塗り分けられる。どんな地図も4色あれば対応できるとした数学の難問「四色問題」が解決されてから2026年で50年になる。この節目に国立情報学研究所（NII）や東京大学などの国際研究グループは塗り分け計算を高速化する新たな手法を開発した。四色問題が提起されたのは1852年。隣り合う者同士が同じ色になってはいけないという単純な問いが、数学者たちを100年以上悩ませてきた。転機となったのは</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d385a169a548a01b4b0d9ebf0fd3aa8db27d0cdd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3894718017112026000000-2.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3De3658f53af86faa25095ad3e213a74e8" />
-    </item>
-    <item>
-      <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
-      <link>https://gigazine.net/news/20261121-wyrmrss/</link>
-      <guid isPermaLink="false">urn:sha256:06ca1cffd7e74160e4bbc3dddaa6925df3a8b7c18164bf90cc21bdb728d5cfa8</guid>
-      <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
-      <description>99ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bed045e81676f6a4690970ebee5cec42c933f3fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fwyrmrss%2F00.png" />
-    </item>
-    <item>
-      <title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
-      <guid isPermaLink="false">urn:sha256:4c3c98b70ba36bc0a9c30ff4a4b1091e125c3894168796658a29cf7b9fd3be8a</guid>
-      <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>73ブックマーク / 米Anthropicに所属する数学者のレベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表した。同社のAI「Claude」と共に、数学の未解決問題「リーマン予想」の証明を見つけたと考えているという。証明は証明支援系「Lean」で記述した形式証明として公開した。Leanの開発者や利用者のコミュニティは21日、この証明が正しいと認定する共同声明を出している。 リーマン予想とは、ドイツの数学者ベルンハルト・リーマン</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a9bad0004e79283e693b1e2632f3ed403ed37803/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F22%2F2000003388%2F10012748%2F2048" />
-    </item>
-    <item>
-      <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
-      <link>https://zenn.dev/canly/articles/ca6875cd79539f</link>
-      <guid isPermaLink="false">urn:sha256:353abdcb5e5ee7f1dcd072c89c8f9a7e041d6c0ebc0d0c4f9361d0881835beda</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>553ブックマーク / カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de2c4862678a200bdd3c2ebc1ee356d22c4a91d7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--7-tl12Sp--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E5%2525AF%25259D%2525E3%252581%2525A6%2525E3%252582%25258B%2525E9%252596%252593%2525E3%252581%2525AB%2525E8%252587%2525AA%2525E5%25258B%252595%2525E3%252581%2525A7%2525E5%25258B%252595%2525E3%252581%25258FAI%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B8%2525E3%252582%2525A7%2525E3%252583%2525B3%2525E3%252583%252588%2525E3%252582%252592%2525E8%2525AA%2525B0%2525E3%252581%2525A7%2525E3%252582%252582%2525E4%2525BD%25259C%2525E3%252582%25258C%2525E3%252582%25258B%2525EF%2525BC%25259A10%2525E5%252588%252586%2525E3%252581%2525A7%2525E3%252582%25258F%2525E3%252581%25258B%2525E3%252582%25258B%252520pstack%252520%2525E5%2525AE%25259F%2525E8%2525B7%2525B5%2525E3%252582%2525AC%2525E3%252582%2525A4%2525E3%252583%252589%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Ahaginota%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252582%2525AB%2525E3%252583%2525B3%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVJTSnhNaUN1QnROaU9oQ044VGE4OXdRb0YzendnTEw5cm9aZ3A5WHNLUDFCcDlIemU9czI1MC1j%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8be7b40c08ab4049eff96eaa5f4f2570c7f5fec5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fsre-magazine.net%2Fimages%2Farticles%2F7%2FAoTo%2Fogp.png" />
     </item>
     <item>
       <title>21世紀の精神異常者による/ための生活習慣制御【2026-11-23】 - 二千三百五十五年</title>
       <link>https://obsolete.hatenadiary.com/entry/2026/11/21/231159</link>
       <guid isPermaLink="false">urn:sha256:26d4cfed999e60fad52b72632e4fd055113f736c3b0cc5e3c39cd402d014c86f</guid>
       <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>30ブックマーク / まえがきのまえがき 本稿は、現在はてなブログ向けに作成している『抑鬱の生活、抑鬱のObsidian、抑鬱の再帰的自己改善』(仮題)というエントリの一部をベースに作成したものです。単体でも読めるようにしてありますが、私はより大きい風呂敷を広げて大きい話をする意図と予定があります。チャンネルを登録し、高評価ボタンを押して続きを待っていただけると大変うれしく思います。 自分の稼働時間の長期トレンド こういうものを出すこともできるようになる な</description>
+      <description>44ブックマーク / まえがきのまえがき 本稿は、現在はてなブログ向けに作成している『抑鬱の生活、抑鬱のObsidian、抑鬱の再帰的自己改善』(仮題)というエントリの一部をベースに作成したものです。単体でも読めるようにしてありますが、私はより大きい風呂敷を広げて大きい話をする意図と予定があります。チャンネルを登録し、高評価ボタンを押して続きを待っていただけると大変うれしく思います。 自分の稼働時間の長期トレンド こういうものを出すこともできるようになる な</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/33b974d93a08851a568479c09607fbbac76fca33/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F3dfd13f9b3b5f9068610650cd33de4a1e75e278f%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ft%252Ftumor1917%252F20261121%252F20261121224137.png" />
     </item>
@@ -281,7 +278,7 @@
       <link>https://nou-yunyun.hatenablog.com/entry/2026/11/21/220000</link>
       <guid isPermaLink="false">urn:sha256:7f652f696b365ffa70207e2efde6d4abf3f36a378e53cb99bfc3c3e3556174ec</guid>
       <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>93ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
+      <description>96ブックマーク / APEC2026において、高市が中国に到着した際に飛行機から降りる際にタラップとの間に段差があって、これが見た目もあいまって「炎上」してた。次の投稿とかはわかりやすいその例。 https://x.com/KadotaRyusho/status/2123590661178048674 なおここで使用されている画像はAIによって生成されたもので、実際よりも強調されている画像となる。出処は後述する。見た目的には確かに危険性が感じられるわけで、</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f9936284fc7432a000ff3cc4239fe421bbea9993/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F0ff0da6887ede70e9f504d7213d853eb15adef40%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnou_yunyun%252F20261121%252F20261121212405.jpg" />
     </item>
