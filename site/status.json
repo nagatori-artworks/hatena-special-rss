@@ -1,6 +1,6 @@
 {
   "ai": {
-    "items": 30,
+    "items": 29,
     "last_success_jst": "2026-11-24",
     "ok": true
   },
@@ -10,7 +10,7 @@
     "ok": true
   },
   "programming": {
-    "items": 30,
+    "items": 32,
     "last_success_jst": "2026-11-24",
     "ok": true
   }
