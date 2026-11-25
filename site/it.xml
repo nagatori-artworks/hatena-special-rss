@@ -7,65 +7,199 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
-      <title>ソフトバンク、「ITmedia」運営会社の売却検討 AI関連事業に集中 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:836a54246b98f968398034d041f13272df786f47beb53a73a6dfda31c52ef049</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>155ブックマーク / ソフトバンクがニュースサイト「ITmedia」などを運営するアイティメディアの売却を検討していることがわかった。ソフトバンクは通信から人工知能（AI）の会社へと転換を目指している。非中核事業を切り離しAI関連に経営資源を集中させる。ソフトバンクは完全子会社のSBメディアホールディングスを通じ、9月末時点でアイティメディア株式の52.98%を保有する。同社株の売却に向け、みずほ証券をアドバイザー</description>
+      <title>個人開発 with AI</title>
+      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
+      <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>122ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d498f3d6c589eac5bb46f49b3b3402198f5f334a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3926954024112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3De00dc39573c709d3f69170f346ca3f16" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>ずっしり重い新型ウォークマン 歴代最高65万円なぜここまで高級化：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html</link>
+      <guid isPermaLink="false">urn:sha256:6331dc71e00018ca47e323043e18b8d3675e73c849547810633a9ea9ea4db19b</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>62ブックマーク / ソニーは27日に携帯音楽プレーヤー「ウォークマン」の新型モデルを売り出す。発売前から話題を集めるのは、その価格だ。旗艦商品は約65万5千円（市場推定価格、税込み）と4年半前に出した1代前のモデルより…</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/722114cff045e7c31830c7ce496b4f72c87444fd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgopt.asahi.com%2Fogp%2FAS20261120003106_comm.jpg" />
+    </item>
+    <item>
+      <title>AI時代の実践・形式検証入門</title>
+      <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</link>
+      <guid isPermaLink="false">urn:sha256:20e17f3578f9fbb91471daa4668495a05a712e2a2c131b3daf9491f0c7ddecb7</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>69ブックマーク / 開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a0f40cd7ed0f900c8d72ddc90b4b22bcb524bf70/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyIdkmYGgOwQlRaIP-dNDSyyieU3XGCbWlfkdmDx6iF2YqW41HHO9FPyC-faMnZF-ilw4iBJv9beS0H81Taw0scQhbKiXKN-iVTHi32A2oC-5__wC8xb%3Dw1200-h630-p" />
+    </item>
+    <item>
+      <title>34年目の秀丸エディタと、AIの距離感 「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_973/</link>
+      <guid isPermaLink="false">urn:sha256:ff31472ddea14a83fa026d6977bec38414b106ffcdb1344d1a2abc3ad0984267</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>30ブックマーク / 有限会社サイトー企画 代表 斉藤 秀夫 1993年に「秀丸エディタ」を開発・公開。以来、サイトー企画で秀丸シリーズの開発を続ける。現在は秀丸メールをはじめ、秀丸エディタ以外の大半のソフトを担当。ハンドルネームは「秀まるお」。趣味はゴルフ。 秀まるおのホームページ(サイトー企画) 有限会社サイトー企画 開発者 山本 孝 1995年ごろから秀丸エディタと関連ソフトウェアを、2010年の最初のバージョンから秀丸ファイラーClassicの開発を</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a4f7fe6a908dac1503a1ac564a4f1e93804030eb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F6b1b4a5802c616db1d44067cb0d1c3b68aaaedb7%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn.blog.st-hatena.com%252Ffiles%252F6802418398571665203%252F14729835035339182380" />
+    </item>
+    <item>
+      <title>AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達</title>
+      <link>https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html</link>
+      <guid isPermaLink="false">urn:sha256:458a76ccba8b763e91a49ee4e585a61f2677044088527307cebefff763017b25</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>30ブックマーク / AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達 Amazon Web Services（AWS）は、同社がクラウドサービスとして提供しているNoSQLデータベース「Amazon DynamoDB」の互換データベースを、Windows、Linux、macOSなどのOSに対応したユーザーのローカルマシン上で構築できるオープンソース「ExtendDB」がバージ</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cd5180f4b5b16321e85ddb681a84b154c85b6757/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fextenddb10-01.png" />
+    </item>
+    <item>
+      <title>jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース</title>
+      <link>https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html</link>
+      <guid isPermaLink="false">urn:sha256:6ae7af9721e7c94155f672997f05c194eaeec54d90a0e50459e040cb571b7612</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>31ブックマーク / jQuery開発チームは、JavaScriptライブラリ「jQuery」の最新版となる「jQuery 4.1」正式版のリリースを発表しました。 また同時にjQuery 3.x系の最後のリリースとなる「jQuery 3.8」も同時にリリースしました。 jQuery 4.x系は、基本的にはいわゆるモダンブラウザを対象としたJavaScriptライブラリであり、Internet Explorer 10もしくはそれ以前のバージョンのサポートは終</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/114adf4492cb340aa8ee8c01b6e0451c58d58455/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fjquery41ga.png" />
+    </item>
+    <item>
+      <title>三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261124de80746</link>
+      <guid isPermaLink="false">urn:sha256:71f6008d8ee9d101c69f629dcd79d1b0f0f5c1bee327c2e05531ed98445ac415</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>20ブックマーク / 三重県内の小学校の元講師が、ことし8月実在する少女の写真をもとに生成AIでつくられた裸の画像を所持していたとして児童ポルノ禁止法違反の疑いで追送検されたことが捜査関係者への取材でわかりました。 追…</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/02c28c6609645d77489703ca05d4f68f3bbe5246/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80746%2F20261124de80746_E0000191924_1_l.jpg" />
+    </item>
+    <item>
+      <title>GoogleがAIの性能測定ツール「gBench」をオープンソース化</title>
+      <link>https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/</link>
+      <guid isPermaLink="false">urn:sha256:f0069bebf7aa4854a38de31ad0e9e4e6f114521df70dcc3ecdbb59e9f0a914fa</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>40ブックマーク / GoogleがAIモデルの性能を測定するためのベンチマークフレームワーク「gBench」をオープンソース化しました。 Meet gBench, our newly open-sourced benchmarking framework for evaluating Gemma and other open models. Out of the box, it has 86 evaluation suites, chat-template</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06b3e52e74dfe3876c2500d4545e8c775bb00b95/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Fgoogle-gbench-benchmarking-framework%2F00.png" />
+    </item>
+    <item>
+      <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
+      <link>https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424</link>
+      <guid isPermaLink="false">urn:sha256:673ca178ea8fa8dc6bac3eac81b2eb9fcc422bfc7849c5cc3c231150380a3c36</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>39ブックマーク / 要約 37signalsのコードが素晴らしいのは、同社のエンジニアリング戦略が他社と異なっているからです。「企業規模を無意味に拡大しない」「機能を容赦なく絞り込む」「優秀な人材の確保に注力する」という戦略です。 多くの企業は、「機能を増やす = 利益も増える」という先入観を捨てられないため、この戦略を採用できずにいます。 Rails Business Podcastの最近のエピソードは「理想のコードを目指すには（striving for</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/049c82d822154c8fd0a1b9b072715d647737f572/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftechracho.bpsinc.jp%2Fwp-content%2Fuploads%2F2026%2F11%2Frails_37signals_are_different_eyecatch-min.png" />
+    </item>
+    <item>
+      <title>ワコムがMBOで株式非公開化へ、新事業やM&amp;Aの加速を目指す</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158842.html</link>
+      <guid isPermaLink="false">urn:sha256:bdeed01a73910dda96c01ab7133ea21d62501d04cb7cc571f5002c7862e81f44</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>21ブックマーク</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ba7a758194285c09708608a5ffc6d99eb035d25c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F842%2F001.jpg" />
+    </item>
+    <item>
+      <title>アプリ高速化ツール「SpeedyFox」が約14年ぶりのメジャー更新 ～対応プログラム拡充／ゼロから書き直し、Windows/macOS版を共通化、対応プログラムは30種類に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158563.html</link>
+      <guid isPermaLink="false">urn:sha256:204fede4443fcb05be206bf3a27c60f715c363e45fa5aa06c51e6f666beb3298</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>10ブックマーク</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d209af757ba210e988bad57d5a48f393702353c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F563%2Fspeedyfox.jpg" />
+    </item>
+    <item>
+      <title>楽天証券、約441万件の個人情報漏えいを確認 168万口座の資産残高も流出</title>
+      <link>https://japan.cnet.com/article/35255354/</link>
+      <guid isPermaLink="false">urn:sha256:8b77fb89254c7a4aee5361a91623956a3a7678f3c78cbe35cb6cb331efbcadf1</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>8ブックマーク / 漏えいの対象となった情報には、氏名や住所、生年月日、電話番号、メールアドレスのほか、勤務先や出金先の銀行口座情報（金融機関名、口座番号、名義人）などが含まれる。今回の調査で、性別や国籍、FAX番号、口座開設・解約状況、口座登録時のアンケート情報など、新たに7項目の漏えいも判明した。 約168万口座の資産残高が漏えい 資産残高の漏えいが確認されたのは約168万口座。金融商品ごとの残高などが含まれる一方、保有銘柄や取引履歴、楽天銀行との口座</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/40097d992abd33659a9ca01ecef5c1370b689d85/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F25%2Fe1337da845df6be5d7b5336382a69564%2Flarge.jpg" />
+    </item>
+    <item>
+      <title>国会図書館の軽量AI-OCR「NDLOCR-Lite」がv2.0に、読書バリアフリーを目指す機能強化／異体字包摂、表の構造化、「PyPI」経由でのインストールにも対応</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158877.html</link>
+      <guid isPermaLink="false">urn:sha256:3257f57b14a45dc518930656e870ed7ff94cb824cc81ada6a92b0d5fdfd78b1a</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>6ブックマーク</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/afd7de091f814e71d09d466f97ab3cbc5a986088/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F877%2Fimage_top.png" />
     </item>
     <item>
       <title>ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」</title>
       <link>https://www.itmedia.co.jp/news/article/2611/24/2000003427/</link>
       <guid isPermaLink="false">urn:sha256:a060371bab1d4b421606dff7637c5379cb2169781bef0a8d52833e7b0b43f07e</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>76ブックマーク / ソフトバンクは11月24日、傘下のアイティメディア（東京都千代田区）の売却を検討しているとする日本経済新聞の報道について、ITmedia NEWSの取材に対し「当社が発表したものではないため、コメントを控える」と回答した。アイティメディア広報も「当社が発表したものではない」とした上で、「現時点で決定した事実はない」としている。 報道によると、ソフトバンクは株式の売却に向け、みずほ証券をアドバイザーに起用し、準備を進めているという。非中核</description>
+      <description>152ブックマーク / ソフトバンクは11月24日、傘下のアイティメディア（東京都千代田区）の売却を検討しているとする日本経済新聞の報道について、ITmedia NEWSの取材に対し「当社が発表したものではないため、コメントを控える」と回答した。アイティメディア広報も「当社が発表したものではない」とした上で、「現時点で決定した事実はない」としている。 報道によると、ソフトバンクは株式の売却に向け、みずほ証券をアドバイザーに起用し、準備を進めているという。非中核</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8cbc255955af94d6dd4930cef4a541534b4631b4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F24%2F2000003427%2F10012865%2F2048" />
     </item>
     <item>
-      <title>マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式</title>
-      <link>https://www.mcdonalds.co.jp/company/info/261120a/</link>
-      <guid isPermaLink="false">urn:sha256:9a670adfc99ace7fe9b26769fd2037718784c017fe2e6f2f7cc6d79d402b530c</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>200ブックマーク / 平素より日本マクドナルド公式アプリをご利用いただき、誠にありがとうございます。 このたび、当社が管理するマクドナルド公式アプリのデータベース内のお客様に関連する情報の一部に対して第三者による不正アクセスが確認されました。詳細は下記の通りです。 なお、本件に起因する公式アプリ・サービスの不正利用は確認されておりません。 お客様にご心配をお掛けしておりますことを、深くお詫び申し上げます。 記 不正アクセスの対象となった情報 ・商品購入履歴 </description>
+      <title>JAXAに不正アクセス、地球観測データの利用者2000人の情報が漏洩 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOSG244FZ0U6A121C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:732cd0d08952fc18afa18bc38d42d7141d0593fe62cfffb7b86ec01fcf2ecc34</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>19ブックマーク / 宇宙航空研究開発機構（JAXA）は24日、地球観測衛星などで取得したデータを公開するシステムが外部から不正アクセスを受けたと発表した。システムを利用する2000人分のアカウント情報が漏洩した。18日に不正アクセスがあったことを確認し、同日午後4時半からシステムを停止している。現時点で再開のめどは立っていない。攻撃の詳細や影響範囲について調査を始めた。地球観測研究センターなどが運用するシス</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/010bd434b57410007b06a2ce969e51de23767ddc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.mcdonalds.co.jp%2Fassets%2Fimages%2Fmcdonalds.logo.og.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e5122e7af46b6f8a0fe3c9fa5e7475a707a4791a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3923736024112026000000-2.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3D1fd1a12c8e6eca51c4e0a194b92cfe4e" />
     </item>
     <item>
-      <title>京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261124de80663</link>
-      <guid isPermaLink="false">urn:sha256:591326adbaa8db40908b8540274d4ff506f1085576bf1819883e4fc64e95cca7</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>73ブックマーク / 京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。 京王電鉄…</description>
+      <title>「ドパガキ」が「Z世代の年間トレンド大賞」に その意味とは Simejiが選定</title>
+      <link>https://japan.cnet.com/article/35255347/</link>
+      <guid isPermaLink="false">urn:sha256:0c007c1e292b8fe7021cff242f3f0f4a432325db1c90e702229d10b210b85176</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>9ブックマーク / ショート動画を次々と見てしまう自分を自虐的に表す言葉「ドパガキ」が、日本語入力アプリ「Simeji」の「Z世代トレンドアワード2026」で年間トレンド大賞に選ばれた。Simejiを提供するバイドゥが11月24日に発表した。 Simejiの年間トレンド大賞と部門別の結果（画像：バイドゥ／提供：Simeji presents Z世代トレンドアワード2026） ※クリックすると拡大画像が見られます ショート動画を見始めるとなかなかやめられず、</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ae775345676aa2f6a80e51073602cd3821dc17fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80663%2F20261124de80663_E0000003577_1_l.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/419c56696614687e4189f57d144a882048e09714/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F24%2F9e2e7b399d4d359c01db4d69bc2bcdb7%2Flarge.jpg" />
     </item>
     <item>
-      <title>NTT 研究所の正体 - IOWNとNTTの研究所</title>
-      <link>https://endecl.hatenablog.com/entry/2026/05/04/223141</link>
-      <guid isPermaLink="false">urn:sha256:0e6fa83ceae5411ca647cbf94486f992f7f93316b0c112c7a6e3e538302d7181</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>275ブックマーク / 株価が低迷するIOWNのNTT NTTの株価が低迷している。新NISA開始直後は配当利回りの良さから買われて190円を超える水準まで上昇したが、わずか3か月で2割下がって、この2年間は155円近辺を行ったり来たりである。この間、同業のKDDIやソフトバンクの株価が約2割高（KDDIは不正会計事件があったにもかかわらず）、内製AIも開発してAI銘柄のはずが、同じ通信系のAI銘柄であるフジクラ株価がこの間に約30倍になったことと対照的である</description>
+      <title>画像アップロードだけでサーバー乗っ取り？ 「Ghostscript」の脆弱性「Upload2Shell」／「WordPress」「Roundcube」などで攻撃成立、対策版への更新を</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158558.html</link>
+      <guid isPermaLink="false">urn:sha256:dd5accc241a87dad2ce81511c4c50ad4492d9c38a95e677c5b46a5cd6cc46758</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>9ブックマーク</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6a1770b534812fecaa57ee32a1f36a101c8da79e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F17179246901384076997%2F17179246901384082686%2F1780062281" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8ae41f306c7c2dd17a0de5051cdc4c9a82f06517/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F558%2Fimage_top.png" />
     </item>
     <item>
-      <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
-      <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>126ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
+      <title>AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158884.html</link>
+      <guid isPermaLink="false">urn:sha256:ea5d4b989c97e0a7798c719622958e761be728a530577084b6a7c4df154a0a69</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>4ブックマーク</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a8ba3b4f96700afe3bc8bb9fcfb6a40f8610c5e1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F884%2F1.jpg" />
+    </item>
+    <item>
+      <title>使わなくなったAndroidスマートフォンにPCのシステムステータスやAIエージェントの使用率など様々なウィジェットを表示させておくことができるAndroidアプリ「PhoneBox」がmacOSと日本語に対応。</title>
+      <link>https://applech2.com/archives/20261124-phonebox-for-android-support-mac.html</link>
+      <guid isPermaLink="false">urn:sha256:647fb94598672e3777dac45ab4d7d882c42beef708c65f954e75e28bc9755840</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>11ブックマーク / 使わなくなったAndroidスマートフォンにPCのシステムステータスやAIエージェントの使用率を表示させておくことができる「PhoneBox」がmacOSに対応しています。詳細は以下から。 PhoneBoxはトルコのErsin Koçさんが公開したAndroidアプリで、古くて使わなくなったAndroidスマートフォンをUSB/Wi-Fi接続でWindowsやLinux PCのシステムモニタパネルにする事ができますが、このPhoneBo</description>
+      <category>IT</category>
+    </item>
+    <item>
+      <title>「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003431/</link>
+      <guid isPermaLink="false">urn:sha256:8b96c4ba2fcbf215c2093b4aa0db8a0bd07d512f4495c74d3ac990dfe89bd60e</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>4ブックマーク / 米Anthropicは11月24日（現地時間）、AIアシスタント「Claude」で作成した「アーティファクト」（Artifacts）を、macOSおよびWindows向けのデスクトップアプリとしてインストールできる機能「Install as app」を発表した。Mac／Windows向けのClaudeアプリで、全プランを対象にβ版として順次提供する。 アーティファクトは、Claudeとの対話の中で生成されるチャートやWebページなどの成</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/44ddde5a05392a2a99c0152d8b6f1ecd779711d1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F25%2F2000003431%2F10012879%2F2048" />
+    </item>
+    <item>
+      <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
+      <link>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</link>
+      <guid isPermaLink="false">urn:sha256:5a6d140d69f99e32e50aabcf8a37d0f991f7db4d35fbc3037354ef5f82e6d83e</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>34ブックマーク / 2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約1年半にわたって数学者たちに「AIが人間には理解できないリーマン予想の証明を生み出したらどう感じるか？」と問いかけてきたインタビューを振り返ったムービーを公開しています。 Since last yea</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2f262bd479bf8dafcea389901617827e413535bb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Friemann-hypothesis-mathematician%2F00_m.jpg" />
     </item>
     <item>
       <title>「iPhone Duoの画面をひたすらパカパカする」耐久ライブ配信で、とうとう異変が起き始める。それでも無慈悲に開閉は続く - AUTOMATON</title>
       <link>https://automaton-media.com/articles/newsjp/20261124-480727/</link>
       <guid isPermaLink="false">urn:sha256:c0fb1f9f1e51cb59bcd7e8607b98ab8944af2e5d96c01fcc08d44ec3076cd865</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>37ブックマーク / Appleの新型折りたたみスマートフォン「iPhone Duo」をひたすら開閉し続けるライブ配信が本日で21日目を迎えた。数十万回の開閉によって限界を試され続けるiPhone Duoであったが、とうとう異変が起き始めたようだ。 iPhone Duoは、外側のディスプレイに加えて、筐体を開くことで内側に現れる横長の大きなディスプレイを備えているのが特徴。左右に開いた状態で机に立てたり、寝せた状態で片側のディスプレイだけを立てたりと、さまざ</description>
+      <description>74ブックマーク / Appleの新型折りたたみスマートフォン「iPhone Duo」をひたすら開閉し続けるライブ配信が本日で21日目を迎えた。数十万回の開閉によって限界を試され続けるiPhone Duoであったが、とうとう異変が起き始めたようだ。 iPhone Duoは、外側のディスプレイに加えて、筐体を開くことで内側に現れる横長の大きなディスプレイを備えているのが特徴。左右に開いた状態で机に立てたり、寝せた状態で片側のディスプレイだけを立てたりと、さまざ</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5df2bf604ba05bd1d63edbd4b53d324a1fa6e4c4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fautomaton-media.com%2Fwp-content%2Fuploads%2F2026%2F11%2F20261124-480727-header.jpg" />
     </item>
@@ -74,225 +208,99 @@
       <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158861.html</link>
       <guid isPermaLink="false">urn:sha256:9998c999a5367b14ebcaa103ec5e03a3395286890e7b8920258070c031189b02</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>7ブックマーク</description>
+      <description>27ブックマーク</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b687e92ef8b9974a1de453ee06dfb582b8d26678/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F861%2Fimage_top.png" />
     </item>
     <item>
-      <title>Ruby で学ぶ Windows システムプログラミング</title>
-      <link>https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/</link>
-      <guid isPermaLink="false">urn:sha256:be163257d3b028d0539cb4709b66db3f9722ea9c2397e7794f41aebb60011d86</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>59ブックマーク / 仙台Ruby会議03 / 2026年11月</description>
+      <title>なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった - Qiita</title>
+      <link>https://qiita.com/songchong/items/073f202bb0ca65611b30</link>
+      <guid isPermaLink="false">urn:sha256:33b383701965813d949bcd8047463aa6a353c90f2e6c95a00083ec25df11835a</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>37ブックマーク / この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents 上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏えいした項目・使う人のやること・出典）が図の下に出ます。KARTE のように 1 件の事故から多くの会社が公表した円では、カードの「この件で公表したほかの会社を見る」で、利</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ffa627861d8e0d55a2a7496fbcd1ada0eba04720/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.hsbt.org%2Fslide%2F20261121-SendaiRubyKaigi03.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3a0020acdb760d9be5c2000c6c302cffbc08152b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253Dc73920274995f5a321a69858db1e61f3%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJTIwMTElMjAlRTYlOUMlODglRTMlODElQUIlRTYlOTclQTUlRTYlOUMlQUMlRTMlODElQUUlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlOTAlRTMlODMlQkMlRTQlQkElOEIlRTYlOTUlODUlRTMlODElQUYlRTMlODAlOEMlRTclODglODYlRTclOTklQkElRTMlODAlOEQlRTMlODElOTclRTMlODElOUYlRTMlODElQUUlRTMlODElOEIlMjAlRTIlODAlOTQlMjA2MDUlRTQlQkIlQjYlRTMlODIlOTIlRTYlOTUlQjAlRTMlODElODglRTMlODElOUYlRTMlODIlODklRTMlODAlOEMlRTYlOTclQTUlRTYlOUMlQUMlRTMlODElOEMlRTclOEIlOTklRTMlODIlOEYlRTMlODIlOEMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODAlOEQlRTMlODElQTAlRTMlODElOTElRTMlODElQTclRTMlODElQUYlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00MDM1YjFhNzExNjM3YmJlMjUxMGJlMGE4NGFkNTMyMQ%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D7160636eee95c0a30f5f062e9fe87b3a" />
     </item>
     <item>
-      <title>ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み</title>
-      <link>https://kai-you.net/article/97231</link>
-      <guid isPermaLink="false">urn:sha256:530d0fea4d899328e5f4c58e6472ab73b76d8bad7eb36e3175f4a9c22161ed89</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>70ブックマーク / AI創作プラットフォーム「PixAI」が、ずんだもんなど4キャラクターに対応した公式コラボLoRA「ずん子・ずんだもん達」を公開した。 東北ずん子・ずんだもんプロジェクトから公式素材の提供を受けて制作し、権利元による公式監修を経たAIプロジェクトとなる。 ずんだもん、東北ずん子、東北きりたん、東北イタコの4キャラクターに対応し、PixAI上で誰でもLoRAデータを利用できる。 東北ずん子・ずんだもんプロジェクトの小田恭央さんは、公式Lo</description>
+      <title>「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
+      <link>https://japan.cnet.com/article/35255329/</link>
+      <guid isPermaLink="false">urn:sha256:e887c3f748b49e86b620dc8794bb4fc0ab8f6e5eccefe3f5483f48932937640c</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>16ブックマーク / ソフトウェアの共同開発サービス「GitHub」で、コードの変更案をAIに点検・修正させ、チームのルールが認める場合は承認まで任せられるようになった。米Anthropicは11月23日、こうした機能をまとめた「Claude Ship」を発表した。ClaudeのTeamとEnterpriseプラン向けにベータ提供を始めた。</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b0908c37f0884471ceaf6006132b868bd67b177a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimg.kai-you.net%2Fstorage%2F2026%2F11%2F828cb490-5e8a-47c6-8d56-057e1036be52%2Fjpg%2Fzundamon.jpg" />
-    </item>
-    <item>
-      <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
-      <link>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</link>
-      <guid isPermaLink="false">urn:sha256:5a6d140d69f99e32e50aabcf8a37d0f991f7db4d35fbc3037354ef5f82e6d83e</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>4ブックマーク / 2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約1年半にわたって数学者たちに「AIが人間には理解できないリーマン予想の証明を生み出したらどう感じるか？」と問いかけてきたインタビューを振り返ったムービーを公開しています。 Since last yea</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2f262bd479bf8dafcea389901617827e413535bb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Friemann-hypothesis-mathematician%2F00_m.jpg" />
-    </item>
-    <item>
-      <title>定番の日本語フォント「M+ FONTS」に新しい一員、「M PLUS 3」がリリース／伝統的なゴシック体の形をモダンな手法でリデザイン、「SIL OFL」で無償利用可</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2158533.html</link>
-      <guid isPermaLink="false">urn:sha256:4ab092f8cafb054d6bbc7412917b2e71e2c5c605a0ff25c728e55f325dfb4a86</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>11ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b8974db2e6bc6819e7b356c844ac8d76d44bcc80/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F533%2Fimage_top.png" />
-    </item>
-    <item>
-      <title>女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める | ギズモード・ジャパン</title>
-      <link>https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/</link>
-      <guid isPermaLink="false">urn:sha256:fe8e72837022f310544aecf6fcdaec48faa8209e112a5bfb30552e2b12ea2cab</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>116ブックマーク / 海の底にゴミ箱。 ハンガリーの女子中学生、ラウラ・イヴァーンカさんが考えた「DIVE&amp;CLEAN」が「ストックホルム青少年水大賞2026」で、審査員特別賞を受けました。 本人のモデルによる試算では、マイクロプラスチックの96%を、生まれる前に食い止められるといいます。 ラウラさんは8歳からのダイバー。家族旅行で何度も潜ったマルタの海で、ゴミが海底にたまっていくのを見てきたそうです。 拾いたい。でも、水中には捨てる場所がない。 これ、街な</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6550c8873d7506e5f4391b81983bfdd3bc3c7078/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fmedia.loom-app.com%2Floom%2F2026%2F11%2F23%2Fedacd14e-76f4-43b4-b7ea-5bebe70c789c%2Foriginal.jpg%3Fw%3D1200%26h%3D630" />
-    </item>
-    <item>
-      <title>Chrome版「LINE」、2027年1月26日に終了</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2158838.html</link>
-      <guid isPermaLink="false">urn:sha256:c9cab807f64ef25706c5c25b2c1b250938261a760f4fc4c5a00bebd8fc729eaa</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>12ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5e48e0709ef7093e3cabb9d0e70a9bd1f29476a4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2158%2F838%2F01-1.jpg" />
-    </item>
-    <item>
-      <title>都営新宿線「岩本町駅」が急行停車駅に 秋葉原との乗換駅</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2158833.html</link>
-      <guid isPermaLink="false">urn:sha256:3072713bcd2cdd7333d7794ef48e91d7996c1cbbe6b8640c4ca384d3f384e107</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>17ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1321457c13a5b448df72bd8c3430e3785be74fea/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F833%2Ftokyo_01.jpg" />
-    </item>
-    <item>
-      <title>Museに後れを取るアップルとグーグル AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】</title>
-      <link>https://www.watch.impress.co.jp/docs/series/nishida/2158551.html</link>
-      <guid isPermaLink="false">urn:sha256:a10feadde03d101c27f5e4d69b6923fbcc797984bae625ce1fd6fd03fc097fb2</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>212ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fb6c33b06362c21473844abc383983a06e92d8e5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F551%2Fm08.jpg" />
-    </item>
-    <item>
-      <title>カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意のない裸の描写を禁止するルールに違反しています」とのこと…「ヌード」ルがダメらしい</title>
-      <link>https://togetter.com/li/2774298</link>
-      <guid isPermaLink="false">urn:sha256:0e9eb9ea6d72a5cb5c0a52320f8963f54d4436dfa75c77e6c309efd87b9b41fd</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>136ブックマーク / KATSU @disney_jack 昨日、カップ◯ードルミュージアムに行った報告をアップしたら、Xの運営から12時間ロックされました😢 『合意のない裸の描写を禁止するルールに違反しています』との事でした💦 日清のカップ麺の名称が該当するようです💦 情報共有させていただきます pic.x.com/TMuch98jop 2026-11-23 16:25:25 カップヌードルミュージアム 横浜 「カップヌードルミュージアム 横浜」は、インス</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7a7b486a01c3cddeebce74601743c8e7cec4f0c3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fd4b0698682a5d5f2b555206545fe5f42-1200x630.jpeg" />
-    </item>
-    <item>
-      <title>GitHub - minorun365/claude-code-japanese-guard: Claude Code の応答が英語に切り替わったら、日本語で書き直させる Stop hook</title>
-      <link>https://github.com/minorun365/claude-code-japanese-guard</link>
-      <guid isPermaLink="false">urn:sha256:7c8dbb4f687b57826cd457838a37612f75c7fcc053f35c8bc7049f57b9c77a77</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>22ブックマーク / Claude Code の応答が、いつの間にか英語に切り替わるのを止める Stop hook です。 日本語で指示していても、ツールを何度も呼ぶ長い作業のあとや、英語のツール出力を読んだ直後に、途中報告や最終報告が英語で返ってくることがあります。CLAUDE.md に「日本語で応答する」と書いても、この切り替わりは止まりませんでした。そこで、ターンの終わりに本文を機械で検査し、英語だったら日本語で書き直させる hook を作りました。 </description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/32b4824d65f80400ec7d658dd6fd9cc2e93f3f30/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fdab5e93a877b3473637b60b3dbf58347482e04ec0204b900ff3dec277c4ce19a%2Fminorun365%2Fclaude-code-japanese-guard" />
-    </item>
-    <item>
-      <title>エヌビディア株、31％急騰 時価総額151兆円増</title>
-      <link>https://www.cnn.co.jp/business/35255312.html</link>
-      <guid isPermaLink="false">urn:sha256:8764c1146e00f3cc966ec7a0589bf30c15eb002bdfd124815a51ba7dfe6719be</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>6ブックマーク / 23日、米半導体大手エヌビディアの株価が30％を超える値上がりを記録した/Spencer Platt/Getty Images （CNN） 米半導体大手エヌビディアの株価は23日、同社がジェンスン・フアン氏を最高経営責任者（CEO）兼社長に即日復帰させたと発表したことを受け、30％超急騰した。1日の上昇率としては過去3番目の大きさだった。 エヌビディア株は一時36.6％高となり、その後やや上げ幅を縮めて31.48％高で取引を終えた。上昇</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/14365d029623bf6313fefb1a59a4ec30dd0e4d56/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F24%2F167b45f1f2abd0c013b7c6ad40114d73%2Fgettyimages-2306506603.jpg" />
-    </item>
-    <item>
-      <title>あなたの「信用情報」をスマホで確認できるサービス、JICCが再開</title>
-      <link>https://japan.cnet.com/article/35255340/</link>
-      <guid isPermaLink="false">urn:sha256:604f92df8511ec5f65cfb0ee1a745dc7c38910744fe560cef0f8ab699876f720</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>28ブックマーク / 日本信用情報機構（JICC）は11月24日、利用者が自分の信用情報を取り寄せられるスマートフォンアプリのサービスを再開したと発表した。</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/006c9f3c0cc9d92ff168962499d8586fee19e44d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F24%2F04671e5947fc404d0c5fd24d0674fa85%2Flarge.jpg" />
-    </item>
-    <item>
-      <title>ソフトウェアファクトリーを前提に、サービス開発はどう変わるか｜すてぃお</title>
-      <link>https://note.com/suthio/n/n91e27ebb133d</link>
-      <guid isPermaLink="false">urn:sha256:bc9e893f332985510edb237bb33ad7b32a4330b3aaf1b637f309f0f74dbf3918</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>19ブックマーク / 前提DORAの2025年レポートは、AIはチームにもともとある強みと弱みを増幅すると報告しています。Faros AIの調査でも、AIの利用が進むチームでは、マージされるPRが増える一方、レビュー時間も長くなっていました。 DORAレポートの2025年版が出た。AIは増幅器であり、組織の能力を映す鏡。高パフォーマンス組織の強みを増幅し、より速く革新的にする。低パフォーマンス組織の機能不全を増幅し、さらなる混乱と不安定さを生み出す。AI導入</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3b0632ce8c2da98ae6857941d9acfaa20cc09787/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340045530%2Frectangle_large_type_2_cd8b8911ac99bc894615549fe11eb059.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
-    </item>
-    <item>
-      <title>月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003405/</link>
-      <guid isPermaLink="false">urn:sha256:98cfa4ff6bbba2e9952a09492eb6a8ac5f3484a9975a31c266e752fc937412f3</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>36ブックマーク / NTTドコモへの信頼が揺らぎつつある。11月5日、11日、16日と3回に渡って通信障害を発生させ、17日には藤井比早之総務相が「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾だ」と原因究明と再発防止を求めた。 3度の通信障害は、いずれも「5G SA」で起きた。5G SAとは「5G Standalone」の略称で、基地局に加えて交換機などのコア設備など、すべて5G専用の設備で構築されたシステムのこと</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0aa8f42af0748e1751f25daf14e0e037b9896dff/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F24%2F2000003405%2F10012806%2F2048" />
-    </item>
-    <item>
-      <title>パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2158698.html</link>
-      <guid isPermaLink="false">urn:sha256:2f3c475f5077f9203fa7f9d60a89ba3ddab0b974b26b440c483a29f27c7d3bb3</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>25ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82421bf1c22cc8aa6d4512bd7f5f085088e86519/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F698%2Fo01.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/480cd88b992008e1e34f2605ec07bf2be4a1f3b1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F07%2F01%2Fb95d57450e1a0a14633bad7058b56d76%2Fanthropic-claude-logo-gettyimages-2269811684__1_.jpg" />
     </item>
     <item>
       <title>ゲームボーイアドバンスエミュレータをRustで書いた</title>
       <link>https://bokuweb.github.io/undefined/articles/20261103.html</link>
       <guid isPermaLink="false">urn:sha256:6280a30d9dc7c58509889ccac779193bf571b460c3aced10c66f4c312b6e8ecf</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>8ブックマーク / ゲームボーイアドバンスエミュレータをRustで書いた #2026-11-24 ファミコン、ゲームボーイと書いてきたので次はゲームボーイアドバンス（以下GBA）だろうということで（コミットログを見るに）2018年頃書き始めた。途中何度も放置しつつ、気づけば8年くらい経ってしまったが、最後はAIの力も借りつつそこそこ動くようになったので公開することにした。 ファミコンとゲームボーイはCPUが8bitだったが、GBAは32bitのARM7TD</description>
+      <description>31ブックマーク / ゲームボーイアドバンスエミュレータをRustで書いた #2026-11-24 ファミコン、ゲームボーイと書いてきたので次はゲームボーイアドバンス（以下GBA）だろうということで（コミットログを見るに）2018年頃書き始めた。途中何度も放置しつつ、気づけば8年くらい経ってしまったが、最後はAIの力も借りつつそこそこ動くようになったので公開することにした。 ファミコンとゲームボーイはCPUが8bitだったが、GBAは32bitのARM7TD</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/37f9e3333b2beb4b5220d3822554bdd847adff5f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fbokuweb.github.io%2Fundefined%2F20261103.png" />
     </item>
     <item>
-      <title>JAXAのシステムに不正アクセス 一部アカウント名など漏えい | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261124de80645</link>
-      <guid isPermaLink="false">urn:sha256:d74a851f2d9a946d3bc27c5fb22cc856228d63b2159d07a08c644d0c194add2d</guid>
+      <title>Chrome版「LINE」、2027年1月26日に終了</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2158838.html</link>
+      <guid isPermaLink="false">urn:sha256:c9cab807f64ef25706c5c25b2c1b250938261a760f4fc4c5a00bebd8fc729eaa</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>16ブックマーク / JAXA＝宇宙航空研究開発機構は、人工衛星で取得したデータなどを公開するシステムが今月18日に外部から不正アクセスを受け、一部の利用者のアカウント名などが漏えいしたと発表しました。 JAXAにより…</description>
+      <description>26ブックマーク</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/46e1cae86b414b56c2af50c584b494e661263ef8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80645%2F20261124de80645_E0000204457_1_l.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5e48e0709ef7093e3cabb9d0e70a9bd1f29476a4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2158%2F838%2F01-1.jpg" />
     </item>
     <item>
-      <title>呼びかけると故人の写真を映すAI仏壇「コハコ」発売、49万5000円 10年後の家族に動画を届ける機能も | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/11/24/5803.html</link>
-      <guid isPermaLink="false">urn:sha256:39aa1f4b43f974bd6896eebccfff3883776b8526e91fd2c987aec4a4c545d652</guid>
+      <title>京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261124de80663</link>
+      <guid isPermaLink="false">urn:sha256:591326adbaa8db40908b8540274d4ff506f1085576bf1819883e4fc64e95cca7</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>16ブックマーク / 葬祭ブランド「さがみ典礼」を展開するアルファクラブ武蔵野は11月24日、AI仏壇「コハコ」を発売しました。価格は49万5000円（税込）で、公式サイトで販売します。 コハコは、故人を偲んで手を合わせるという仏壇の役割に、AIやセンサーを組み合わせた製品です。本体は幅180×奥行180×高さ251mm、重さ約4.5kgで、天然木を使用しています。 使い方は、まずスマートフォンから専用サイト「マイコハコ」に写真や動画を登録すると、Wi-Fi</description>
+      <description>97ブックマーク / 京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。 京王電鉄…</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a6c27f75488b32144dfea46ba2bcbd54ffd29cfb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35912.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ae775345676aa2f6a80e51073602cd3821dc17fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80663%2F20261124de80663_E0000003577_1_l.jpg" />
     </item>
     <item>
-      <title>DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/</link>
-      <guid isPermaLink="false">urn:sha256:367d6e19b800c6738e9af93c62a0b060ad50dcea326b8e4cd64815612cc86350</guid>
+      <title>ソフトバンク、「ITmedia」運営会社の売却検討 AI関連事業に集中 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/</link>
+      <guid isPermaLink="false">urn:sha256:836a54246b98f968398034d041f13272df786f47beb53a73a6dfda31c52ef049</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>13ブックマーク / ディー・エヌ・エー（以下、DeNA）は11月20日、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」（以下、AI社員）を提供すると発表した。トークン使用量を「勤務時間」として管理し、「残業時間の上限」を設けることで使い過ぎを防げるとしている。 AI社員は導入企業内で固有のアカウントを持ち、人間の従業員と同様、部署に配属されたメンバーとして主に「Slack」などのチャットツール上で稼働する。配</description>
+      <description>183ブックマーク / ソフトバンクがニュースサイト「ITmedia」などを運営するアイティメディアの売却を検討していることがわかった。ソフトバンクは通信から人工知能（AI）の会社へと転換を目指している。非中核事業を切り離しAI関連に経営資源を集中させる。ソフトバンクは完全子会社のSBメディアホールディングスを通じ、9月末時点でアイティメディア株式の52.98%を保有する。同社株の売却に向け、みずほ証券をアドバイザー</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cdcd7d384604becf6280732771b8b4e4ab86e986/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2Fogp%2F2611%2F24%2F2000003406%2F10012810%2F2048" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d498f3d6c589eac5bb46f49b3b3402198f5f334a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3926954024112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3De00dc39573c709d3f69170f346ca3f16" />
     </item>
     <item>
-      <title>月額1000円台のVPSで“自分専用AIテスト環境”を作れる！ さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]</title>
-      <link>https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html</link>
-      <guid isPermaLink="false">urn:sha256:f2666b7e8766308cadc705b5dee51b55673bb957c7e81a94f0a05997cacee10e</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>160ブックマーク</description>
+      <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
+      <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>142ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5e7440fe1880ae4ef53341bd558ad11722c5f1e0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2126%2F965%2Fstep06-01.png" />
-    </item>
-    <item>
-      <title>NECの「バザールでござーる」今日で引退。約35年の歴史に幕</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2158462.html</link>
-      <guid isPermaLink="false">urn:sha256:abd70bb4aa593ef01dcfbe9947641ac6ab9190485a358b1cf5e7c653b8f8f827</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>388ブックマーク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c711aebab0c28f4c23396dcf08cd950567e7b16c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F462%2F001.png" />
-    </item>
-    <item>
-      <title>【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース</title>
-      <link>https://hatenanews.com/articles/2026/11/24/093000</link>
-      <guid isPermaLink="false">urn:sha256:f0bdfc3101e96986bb05e917f6242549e61c5d4397df01417c2d49693bcf5377</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>103ブックマーク / ▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェントを巧みに操るためのネクストステップも ▶Skills・Subagents・Hooksまで、Claude Codeの</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcab2f94d8ef0d5be2b7eabf2e6901e0f3df1582/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F5e3933bf8f238d19cd8874447e7065bf14c30ba4%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fb%252Fblog-media%252F20261106%252F20261106164006.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
     </item>
     <item>
       <title>AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog</title>
       <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
       <guid isPermaLink="false">urn:sha256:db7043a388801a331b9c6c2682cd50c531e879dadf852875664801b977fbaeb4</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>11ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
+      <description>12ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cb88a55d05bc10675ff72d9aa6d23d2855daa453/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2f2abb86a7463f211b2b8b2500102187278211e3%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252FN%252FNTTCom%252F20261102%252F20261102204440.png" />
     </item>
     <item>
-      <title>バイブ形式手法のハマりどころ2選 - 若くない何かの悩み</title>
-      <link>https://blog.kuniwak.com/entry/vibe-fm</link>
-      <guid isPermaLink="false">urn:sha256:57055e36fb82f74a733b3d98e416b6ed70cbde8c6d953a1f5116cd84dc5df93d</guid>
+      <title>【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース</title>
+      <link>https://hatenanews.com/articles/2026/11/24/093000</link>
+      <guid isPermaLink="false">urn:sha256:f0bdfc3101e96986bb05e917f6242549e61c5d4397df01417c2d49693bcf5377</guid>
       <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>72ブックマーク / こんにちは。Kuniwak です。 最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TLA+ や Alloy、Z3 など）で検証できるようになりました。 このような方法を「バイブ形式手法」と呼ぶこととして、その危うさとうまく付き合うための手順と実験で確かめたその効果1を説明します。 その手順を大雑把にいうと、(1) オラクルの言語化、(2) 感度分析、(3) 忠実さ2の検査、の3つです。 この記事で</description>
+      <description>125ブックマーク / ▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェントを巧みに操るためのネクストステップも ▶Skills・Subagents・Hooksまで、Claude Codeの</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/28fc087d717c52f40b802e3953efef2a75aef230/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2d8fd0931664ec7c952d40b0178337fc05f699be%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn.user.blog.st-hatena.com%252Fdefault_entry_og_image%252F69020888%252F1637037505451613" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcab2f94d8ef0d5be2b7eabf2e6901e0f3df1582/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F5e3933bf8f238d19cd8874447e7065bf14c30ba4%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fb%252Fblog-media%252F20261106%252F20261106164006.jpg" />
+    </item>
+    <item>
+      <title>競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball</title>
+      <link>https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product</link>
+      <guid isPermaLink="false">urn:sha256:78ce01620cb4795e2c7313e7446d70513c8eab53e5a730737ee5ef24d37b1a55</guid>
+      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
+      <description>92ブックマーク / 秋のG1絶不調マンです, エリザベス女王杯しか取っていません. そんな話はさておき, 私はこの春から競馬予想AI Agent「ai-shugoro（仮）」を開発しPoC的な運用をしています. 競馬好き歴30年の自分が予想スタイルをAI Agentにオンボーディングした結果の話 競馬予想AI Agentは何をアウトカムとして残したか？春G1を振り返る 春先はStreamlitで作ってローカルで運用していたのですが. 競馬予想AI Agen</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de77137372f97924362393446a380e1b9e229402/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb55ef9069374963ebdc2ca8e3b97cef41fa6e991%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshinyorke%252F20261122%252F20261122165411.png" />
     </item>
   </channel>
 </rss>

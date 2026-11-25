@@ -7,11 +7,47 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
+      <link>https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424</link>
+      <guid isPermaLink="false">urn:sha256:673ca178ea8fa8dc6bac3eac81b2eb9fcc422bfc7849c5cc3c231150380a3c36</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>39ブックマーク / 要約 37signalsのコードが素晴らしいのは、同社のエンジニアリング戦略が他社と異なっているからです。「企業規模を無意味に拡大しない」「機能を容赦なく絞り込む」「優秀な人材の確保に注力する」という戦略です。 多くの企業は、「機能を増やす = 利益も増える」という先入観を捨てられないため、この戦略を採用できずにいます。 Rails Business Podcastの最近のエピソードは「理想のコードを目指すには（striving for</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/049c82d822154c8fd0a1b9b072715d647737f572/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftechracho.bpsinc.jp%2Fwp-content%2Fuploads%2F2026%2F11%2Frails_37signals_are_different_eyecatch-min.png" />
+    </item>
+    <item>
+      <title>アプリ高速化ツール「SpeedyFox」が約14年ぶりのメジャー更新 ～対応プログラム拡充／ゼロから書き直し、Windows/macOS版を共通化、対応プログラムは30種類に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158563.html</link>
+      <guid isPermaLink="false">urn:sha256:204fede4443fcb05be206bf3a27c60f715c363e45fa5aa06c51e6f666beb3298</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>10ブックマーク</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d209af757ba210e988bad57d5a48f393702353c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F563%2Fspeedyfox.jpg" />
+    </item>
+    <item>
+      <title>ソフトウェアファクトリーを前提に、サービス開発はどう変わるか｜すてぃお</title>
+      <link>https://note.com/suthio/n/n91e27ebb133d</link>
+      <guid isPermaLink="false">urn:sha256:bc9e893f332985510edb237bb33ad7b32a4330b3aaf1b637f309f0f74dbf3918</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>30ブックマーク / 前提DORAの2025年レポートは、AIはチームにもともとある強みと弱みを増幅すると報告しています。Faros AIの調査でも、AIの利用が進むチームでは、マージされるPRが増える一方、レビュー時間も長くなっていました。 DORAレポートの2025年版が出た。AIは増幅器であり、組織の能力を映す鏡。高パフォーマンス組織の強みを増幅し、より速く革新的にする。低パフォーマンス組織の機能不全を増幅し、さらなる混乱と不安定さを生み出す。AI導入</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3b0632ce8c2da98ae6857941d9acfaa20cc09787/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340045530%2Frectangle_large_type_2_cd8b8911ac99bc894615549fe11eb059.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>Claude Projectsを使って、複数のリポジトリにまたがるtextlintとルールのパフォーマンスを改善した</title>
+      <link>https://efcl.info/2026/11/24/textlint-performance/</link>
+      <guid isPermaLink="false">urn:sha256:4e585d3158259514d4f0d848554bad51ef16a34d45004a8ad7c0cd874a0106bf</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>25ブックマーク / この2週間で、textlintと、よく使われているルールやライブラリのパフォーマンスを改善し、実行時間は約1/10になりました。 グラフは、その日にnpm installしたtextlintとルールでの実行時間です。 そのため、設定やルールは変えずに、textlintとルールをアップデートするだけで改善できます。 npm install --save-dev textlint@latest npm update textlint v16</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8e5439b69c83b50834bd0c07600f1b23fd865e34/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fefcl.info%2Fpublic%2Ffavicon.png" />
+    </item>
+    <item>
       <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
       <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
       <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>126ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
+      <description>143ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
     </item>
@@ -20,27 +56,9 @@
       <link>https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/</link>
       <guid isPermaLink="false">urn:sha256:be163257d3b028d0539cb4709b66db3f9722ea9c2397e7794f41aebb60011d86</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>59ブックマーク / 仙台Ruby会議03 / 2026年11月</description>
+      <description>66ブックマーク / 仙台Ruby会議03 / 2026年11月</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ffa627861d8e0d55a2a7496fbcd1ada0eba04720/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.hsbt.org%2Fslide%2F20261121-SendaiRubyKaigi03.jpg" />
-    </item>
-    <item>
-      <title>Claude Projectsを使って、複数のリポジトリにまたがるtextlintとルールのパフォーマンスを改善した</title>
-      <link>https://efcl.info/2026/11/24/textlint-performance/</link>
-      <guid isPermaLink="false">urn:sha256:4e585d3158259514d4f0d848554bad51ef16a34d45004a8ad7c0cd874a0106bf</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>20ブックマーク / この2週間で、textlintと、よく使われているルールやライブラリのパフォーマンスを改善し、実行時間は約1/10になりました。 グラフは、その日にnpm installしたtextlintとルールでの実行時間です。 そのため、設定やルールは変えずに、textlintとルールをアップデートするだけで改善できます。 npm install --save-dev textlint@latest npm update textlint v16</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8e5439b69c83b50834bd0c07600f1b23fd865e34/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fefcl.info%2Fpublic%2Ffavicon.png" />
-    </item>
-    <item>
-      <title>Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
-      <link>https://japan.zdnet.com/article/35255314/</link>
-      <guid isPermaLink="false">urn:sha256:64052afa050ca52d3529719988500e4add8e0dc53e9696f5717f46c2bd3bc119</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>27ブックマーク / 多くの開発者が「Claude Code」やOpenAIの「Codex」といった人工知能（AI）ベースのコーディングツールを利用するようになった今でも、コードをプッシュする前に自分の目で確認したいと考える開発者はいる。だが、より大胆でエージェントを積極的に利用するタイプの開発者なら、コーディングの最終ステップをAIに任せることに抵抗がないかもしれない。Anthropicが発表した新機能は、そのような開発者のためのツールだ。 米国時間11月</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/65d91ba36e1d14cc1ae89801358d93eaeb566496/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.zdnet.com%2Fstorage%2F2026%2F11%2F24%2F5ac66f6e9f3a5daf87fe1a1799638af5%2FGettyImages-2271847888_1280.jpg" />
     </item>
     <item>
       <title>なぜ、AIコーディング時代にLeanが注目されるのか</title>
@@ -50,6 +68,15 @@
       <description>16ブックマーク / ヤバい！リーマン予想の証明のニュースは、数学界の出来事にとどまらずソフトウェアエンジニアにとっても大きな転換点なのでは！ 2026年11月20日、Anthropicの数学者レヴェント・アルポゲ（Levent Alpöge）氏が、AIの「Claude」と共同で167年来の未解決問題であるリーマン予想の証明を見つけたと発表しました。 ところが、その証明を文章に書き起こすと25万ページにもおよび、人間が読み解いて正しさを確かめるのは現実的では</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/44f10767a3a6e414e3e9f104a377f61120963e62/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--5ExpHZ0j--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E3%252580%252581AI%2525E3%252582%2525B3%2525E3%252583%2525BC%2525E3%252583%252587%2525E3%252582%2525A3%2525E3%252583%2525B3%2525E3%252582%2525B0%2525E6%252599%252582%2525E4%2525BB%2525A3%2525E3%252581%2525ABLean%2525E3%252581%25258C%2525E6%2525B3%2525A8%2525E7%25259B%2525AE%2525E3%252581%252595%2525E3%252582%25258C%2525E3%252582%25258B%2525E3%252581%2525AE%2525E3%252581%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
+      <title>Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
+      <link>https://japan.zdnet.com/article/35255314/</link>
+      <guid isPermaLink="false">urn:sha256:64052afa050ca52d3529719988500e4add8e0dc53e9696f5717f46c2bd3bc119</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>33ブックマーク / 多くの開発者が「Claude Code」やOpenAIの「Codex」といった人工知能（AI）ベースのコーディングツールを利用するようになった今でも、コードをプッシュする前に自分の目で確認したいと考える開発者はいる。だが、より大胆でエージェントを積極的に利用するタイプの開発者なら、コーディングの最終ステップをAIに任せることに抵抗がないかもしれない。Anthropicが発表した新機能は、そのような開発者のためのツールだ。 米国時間11月</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/65d91ba36e1d14cc1ae89801358d93eaeb566496/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.zdnet.com%2Fstorage%2F2026%2F11%2F24%2F5ac66f6e9f3a5daf87fe1a1799638af5%2FGettyImages-2271847888_1280.jpg" />
     </item>
     <item>
       <title>Introducing Claude Ship | Claude by Anthropic</title>
@@ -92,27 +119,9 @@
       <link>https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112</link>
       <guid isPermaLink="false">urn:sha256:41146aac9426dc2fd06f915df274ad31cbb6b7b0c0f026bf985b32fc4a9d0312</guid>
       <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
-      <description>148ブックマーク / ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AI</description>
+      <description>152ブックマーク / ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AI</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f68407c41ea8655ed5b5f0ea688e0f24dd2b481c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704591929884060267%2F14729835035342809218%2F1795424457" />
-    </item>
-    <item>
-      <title>なぜ今形式検証なのか</title>
-      <link>https://zenn.dev/ncdc/articles/dcec80b0c067b0</link>
-      <guid isPermaLink="false">urn:sha256:34e9241eb4cfbd5ab1cafc402e2b0e2ae50a57a9b8bfd012cd7f5a5e9d5bb75a</guid>
-      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
-      <description>143ブックマーク / 形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様を満たすことを証明します。 NIST「f</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3cb0b3ebb9d01107fb415f3d28b62eb7ef090527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--vq6GOiY1--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E4%2525BB%25258A%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%2525AA%2525E3%252581%2525AE%2525E3%252581%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Asenna%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANCDC%252520%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0Y2Q1YzNjZjEuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>Lean で手続き的プログラム の証明が書けるようになった</title>
-      <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
-      <guid isPermaLink="false">urn:sha256:0c5ef57f78b02846a2845447d51f1097c8f17e3c6c8b5ff7e00ec7c817f6c551</guid>
-      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
-      <description>140ブックマーク / Leanで、最近手続き的プログラムの形式検証がDafnyのようにできるようになりました。それについて軽く紹介します</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ef15e97684872d4186aa181a398345a5984171cc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fd12dc330389b46888c1f1657e3c87912%2Fslide_0.jpg%3F41387258" />
     </item>
     <item>
       <title>優秀な人が小さくまとまる現象 - pospomeのプログラミング日記</title>
@@ -124,22 +133,31 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/200c8ebd53bc639c9f3925014f9cdf97a2bb66b6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10328749687199202561%2F14729835035342785789%2F1795405836" />
     </item>
     <item>
+      <title>Lean で手続き的プログラム の証明が書けるようになった</title>
+      <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
+      <guid isPermaLink="false">urn:sha256:0c5ef57f78b02846a2845447d51f1097c8f17e3c6c8b5ff7e00ec7c817f6c551</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>141ブックマーク / Leanで、最近手続き的プログラムの形式検証がDafnyのようにできるようになりました。それについて軽く紹介します</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ef15e97684872d4186aa181a398345a5984171cc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fd12dc330389b46888c1f1657e3c87912%2Fslide_0.jpg%3F41387258" />
+    </item>
+    <item>
+      <title>なぜ今形式検証なのか</title>
+      <link>https://zenn.dev/ncdc/articles/dcec80b0c067b0</link>
+      <guid isPermaLink="false">urn:sha256:34e9241eb4cfbd5ab1cafc402e2b0e2ae50a57a9b8bfd012cd7f5a5e9d5bb75a</guid>
+      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
+      <description>144ブックマーク / 形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様を満たすことを証明します。 NIST「f</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3cb0b3ebb9d01107fb415f3d28b62eb7ef090527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--vq6GOiY1--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E4%2525BB%25258A%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%2525AA%2525E3%252581%2525AE%2525E3%252581%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Asenna%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANCDC%252520%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0Y2Q1YzNjZjEuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
       <title>数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～</title>
       <link>https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka</link>
       <guid isPermaLink="false">urn:sha256:7572a41ea86685ea5ff0c131568239de09692a1c698cb520d236428bd1e429b1</guid>
       <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>37ブックマーク / CloudNative Days Winter 2026の発表資料</description>
+      <description>38ブックマーク / CloudNative Days Winter 2026の発表資料</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e5f7e344adb391a38f0b65d3568682c68f0c6d51/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F317c279632f84d42add74b3019960415%2Fslide_0.jpg%3F41470249" />
-    </item>
-    <item>
-      <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
-      <link>https://note.com/yamac_/n/n198bdc344c64</link>
-      <guid isPermaLink="false">urn:sha256:193d1ecbff685d7109216078ea47c28c5b86dfd86bf514aaede9a31c9ba357f7</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>722ブックマーク / Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c82e50a801663a01d300248cc3772c656b9288ca/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339175432%2Frectangle_large_type_2_490a1a8344ed92ccfd09322236cc3e11.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
       <title>spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする</title>
@@ -160,11 +178,20 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f5e6b5397a3f14962b9db1847ae34b819a9345ed/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F34fdb086664c4af3b97c5694903700fa%2Fslide_0.jpg%3F41470359" />
     </item>
     <item>
+      <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
+      <link>https://note.com/yamac_/n/n198bdc344c64</link>
+      <guid isPermaLink="false">urn:sha256:193d1ecbff685d7109216078ea47c28c5b86dfd86bf514aaede9a31c9ba357f7</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
+      <description>724ブックマーク / Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c82e50a801663a01d300248cc3772c656b9288ca/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F339175432%2Frectangle_large_type_2_490a1a8344ed92ccfd09322236cc3e11.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
       <title>ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」</title>
       <link>https://posfie.com/@petaritape/p/tgzVdbL</link>
       <guid isPermaLink="false">urn:sha256:1240476f67e936ac6cf1d13fa470cc74c7dd2efb5a9c0b44e6ecf5e3a9a8ad8d</guid>
       <pubDate>Sun, 22 Nov 2026 23:37:16 +0000</pubDate>
-      <description>295ブックマーク / ちゅん🐤 @KotorinChunChun ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ… 2026-11-22 21:52:45 ちゅん🐤 @KotorinChunChun </description>
+      <description>298ブックマーク / ちゅん🐤 @KotorinChunChun ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ… 2026-11-22 21:52:45 ちゅん🐤 @KotorinChunChun </description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9a812c0a27d07304fd1caab37c068cd126551c38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F89dc9fd5e2df277b29ed80b9ef7f2967-1200x630.jpeg" />
     </item>
@@ -191,7 +218,7 @@
       <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
       <guid isPermaLink="false">urn:sha256:0d352d89279a5af3bfa582f809456762d3f25cb6c71417b7a8c004d45e7eae8d</guid>
       <pubDate>Sun, 22 Nov 2026 17:50:36 +0000</pubDate>
-      <description>89ブックマーク / JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
+      <description>90ブックマーク / JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/04fb8d0ccb4742a8e066ce2c506cc1476302c77e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F3d178a78a86d4a08a34f064673b6e1d2%2Fslide_0.jpg%3F41448932" />
     </item>
@@ -200,7 +227,7 @@
       <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
       <guid isPermaLink="false">urn:sha256:7b124e8c2b7adce7ad3677379b3e1aebac45d990e12ecdd28dd83420372eb96c</guid>
       <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>161ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
+      <description>162ブックマーク / 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テスト</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d401a3486d36e6c45be7b4edc8aa6c3bd2ebadcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--EstRBN16--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590TLA%25252B%2525E3%252580%252591AI%2525E3%252581%2525AB%2525E3%252583%252586%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%25258B%2525E3%252581%25259B%2525E3%252582%25258B%2525E3%252581%2525AA%2525E3%252580%252582%2525E3%252583%2525AB%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E6%25259B%2525B8%2525E3%252581%252591%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Akaramage%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
@@ -209,7 +236,7 @@
       <link>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</link>
       <guid isPermaLink="false">urn:sha256:e5c6f4a922ed59a7595847a1502f2090198c2147a348b1dc1d32265a35d1b92f</guid>
       <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
-      <description>189ブックマーク / AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
+      <description>190ブックマーク / AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/021598547eb5824f0152ba5288d9d32677c1cfa6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2Fb3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f%2F2026%2F11%2F20%2Fthumbnail_1600x800-1260x630.png" />
     </item>
@@ -220,14 +247,14 @@
       <pubDate>Sun, 22 Nov 2026 09:52:03 +0000</pubDate>
       <description>101ブックマーク / How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you hope you did not miss one. That manual p</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b0b8306c4c11054c6cd082f52d624ea8cc6aeba9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fbde54c4902a6e6863ac15cd847c7d52ee4d0020541ffbf5e81355817ae0e3167%2Fawslabs%2Fcodekb" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1454683f03bdde0d9697efe917ea142c8036bebe/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F2bff180efb08061967f960bcb13c3d7f8b4e3370a7e4ca24f951d1acc4338af7%2Fawslabs%2Fcodekb" />
     </item>
     <item>
       <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
       <link>https://gigazine.net/news/20261121-wyrmrss/</link>
       <guid isPermaLink="false">urn:sha256:06ca1cffd7e74160e4bbc3dddaa6925df3a8b7c18164bf90cc21bdb728d5cfa8</guid>
       <pubDate>Sun, 22 Nov 2026 02:14:43 +0000</pubDate>
-      <description>110ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
+      <description>111ブックマーク / ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-hosted RSS reader and aggregator for web a</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bed045e81676f6a4690970ebee5cec42c933f3fc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F21%2Fwyrmrss%2F00.png" />
     </item>
@@ -241,57 +268,31 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/58a756af777bb493b71d787368deace7bcf3b7aa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F338963061%2Frectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
-      <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
-      <link>https://zenn.dev/canly/articles/ca6875cd79539f</link>
-      <guid isPermaLink="false">urn:sha256:353abdcb5e5ee7f1dcd072c89c8f9a7e041d6c0ebc0d0c4f9361d0881835beda</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>576ブックマーク / カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した Cursor 公式スキル集 pstack</description>
+      <title>AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog</title>
+      <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
+      <guid isPermaLink="false">urn:sha256:db7043a388801a331b9c6c2682cd50c531e879dadf852875664801b977fbaeb4</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>12ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de2c4862678a200bdd3c2ebc1ee356d22c4a91d7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--7-tl12Sp--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E5%2525AF%25259D%2525E3%252581%2525A6%2525E3%252582%25258B%2525E9%252596%252593%2525E3%252581%2525AB%2525E8%252587%2525AA%2525E5%25258B%252595%2525E3%252581%2525A7%2525E5%25258B%252595%2525E3%252581%25258FAI%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B8%2525E3%252582%2525A7%2525E3%252583%2525B3%2525E3%252583%252588%2525E3%252582%252592%2525E8%2525AA%2525B0%2525E3%252581%2525A7%2525E3%252582%252582%2525E4%2525BD%25259C%2525E3%252582%25258C%2525E3%252582%25258B%2525EF%2525BC%25259A10%2525E5%252588%252586%2525E3%252581%2525A7%2525E3%252582%25258F%2525E3%252581%25258B%2525E3%252582%25258B%252520pstack%252520%2525E5%2525AE%25259F%2525E8%2525B7%2525B5%2525E3%252582%2525AC%2525E3%252582%2525A4%2525E3%252583%252589%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Ahaginota%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252582%2525AB%2525E3%252583%2525B3%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVJTSnhNaUN1QnROaU9oQ044VGE4OXdRb0YzendnTEw5cm9aZ3A5WHNLUDFCcDlIemU9czI1MC1j%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>将棋AI、先手勝率が高すぎて大会運営が困難に | やねうら王 公式サイトやねうら王 公式サイト</title>
-      <link>https://yaneuraou.yaneu.com/2026/11/21/shogi-ai-first-player-win-rate-crisis/</link>
-      <guid isPermaLink="false">urn:sha256:c3d0f69190475d8899e44077d3fd35452a82a53e1ffc096e5f1c548e06d89cff</guid>
-      <pubDate>Sat, 21 Nov 2026 20:32:12 +0000</pubDate>
-      <description>327ブックマーク / 11月14日・15日に第7回電竜戦本戦が開催された。(正式名称:文部科学大臣杯第7回世界将棋AI電竜戦本戦) 今回は、予選を抜けた上位10チームが戦う決勝日において、先手勝率80%超えとなった。 電竜戦、本戦決勝の先手勝率です。 先手の持ち時間を減らしてもなお、約8割に達しました。先手勝率が高くなると勝ち点に差がつきにくくなります。 今後の大会はどうなるのでしょうか・・・。 https://t.co/VXjPeAJ92V pic.twi</description>
-      <category>プログラミング</category>
-    </item>
-    <item>
-      <title>「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
-      <guid isPermaLink="false">urn:sha256:f032b54d41e7564d8fa648d34d9d16b4951d84b3aa8639e1ce6d9349ca9d6d92</guid>
-      <pubDate>Sat, 21 Nov 2026 02:58:59 +0000</pubDate>
-      <description>142ブックマーク</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/036c41c206b2e6a243d532aff82df96093d2bdcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F040%2Fmicrosoft_todo.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cb88a55d05bc10675ff72d9aa6d23d2855daa453/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2f2abb86a7463f211b2b8b2500102187278211e3%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252FN%252FNTTCom%252F20261102%252F20261102204440.png" />
     </item>
     <item>
       <title>【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース</title>
       <link>https://hatenanews.com/articles/2026/11/24/093000</link>
       <guid isPermaLink="false">urn:sha256:f0bdfc3101e96986bb05e917f6242549e61c5d4397df01417c2d49693bcf5377</guid>
       <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>103ブックマーク / ▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェントを巧みに操るためのネクストステップも ▶Skills・Subagents・Hooksまで、Claude Codeの</description>
+      <description>125ブックマーク / ▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェントを巧みに操るためのネクストステップも ▶Skills・Subagents・Hooksまで、Claude Codeの</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcab2f94d8ef0d5be2b7eabf2e6901e0f3df1582/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F5e3933bf8f238d19cd8874447e7065bf14c30ba4%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fb%252Fblog-media%252F20261106%252F20261106164006.jpg" />
     </item>
     <item>
-      <title>AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog</title>
-      <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
-      <guid isPermaLink="false">urn:sha256:db7043a388801a331b9c6c2682cd50c531e879dadf852875664801b977fbaeb4</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>11ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cb88a55d05bc10675ff72d9aa6d23d2855daa453/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2f2abb86a7463f211b2b8b2500102187278211e3%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252FN%252FNTTCom%252F20261102%252F20261102204440.png" />
-    </item>
-    <item>
-      <title>バイブ形式手法のハマりどころ2選 - 若くない何かの悩み</title>
-      <link>https://blog.kuniwak.com/entry/vibe-fm</link>
-      <guid isPermaLink="false">urn:sha256:57055e36fb82f74a733b3d98e416b6ed70cbde8c6d953a1f5116cd84dc5df93d</guid>
+      <title>競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball</title>
+      <link>https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product</link>
+      <guid isPermaLink="false">urn:sha256:78ce01620cb4795e2c7313e7446d70513c8eab53e5a730737ee5ef24d37b1a55</guid>
       <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>72ブックマーク / こんにちは。Kuniwak です。 最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TLA+ や Alloy、Z3 など）で検証できるようになりました。 このような方法を「バイブ形式手法」と呼ぶこととして、その危うさとうまく付き合うための手順と実験で確かめたその効果1を説明します。 その手順を大雑把にいうと、(1) オラクルの言語化、(2) 感度分析、(3) 忠実さ2の検査、の3つです。 この記事で</description>
+      <description>92ブックマーク / 秋のG1絶不調マンです, エリザベス女王杯しか取っていません. そんな話はさておき, 私はこの春から競馬予想AI Agent「ai-shugoro（仮）」を開発しPoC的な運用をしています. 競馬好き歴30年の自分が予想スタイルをAI Agentにオンボーディングした結果の話 競馬予想AI Agentは何をアウトカムとして残したか？春G1を振り返る 春先はStreamlitで作ってローカルで運用していたのですが. 競馬予想AI Agen</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/28fc087d717c52f40b802e3953efef2a75aef230/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2d8fd0931664ec7c952d40b0178337fc05f699be%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn.user.blog.st-hatena.com%252Fdefault_entry_og_image%252F69020888%252F1637037505451613" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de77137372f97924362393446a380e1b9e229402/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb55ef9069374963ebdc2ca8e3b97cef41fa6e991%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshinyorke%252F20261122%252F20261122165411.png" />
     </item>
   </channel>
 </rss>
