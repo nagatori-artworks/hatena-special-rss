@@ -7,291 +7,292 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
+      <title>AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi</title>
+      <link>https://note.com/shikimi_crypto/n/n35d0bb54e6fb</link>
+      <guid isPermaLink="false">urn:sha256:f4012bcadb1a4a4a7f753d9947165489bc393ff7504a2ddc16b8caf379992f6f</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>230ブックマーク / 見た中では圧倒的に説明がわかりやすい。頭の良い人が頭の良い説明をしとるな～という感じ。無料公開されている動画は高額商材への誘導的な位置づけではあるのですが全体像を掴むには十分。絶対に落ちたくなくて金に糸目も付けないならもう買っちゃったらという気も。2倍速で視聴。 【あこ課長の宅建講座】 網羅的に丁寧な解説がなされているのでゆーき大学で公開されていない部分の学習や、間違えた問題の復習のための辞書として使うことにしました。2.5～3倍速で視</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a1898e8db73ab2268a8680c397b99342b7ad4b44/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340455961%2Frectangle_large_type_2_d580c2f707caf23da84f0883715aca43.jpeg%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
+    </item>
+    <item>
+      <title>アンソロピックに無断販売された日本の書籍、絶版が複数含まれていたと判明…ＡＩ学習で大量スキャンか</title>
+      <link>https://www.yomiuri.co.jp/culture/20261125-GYT1T00293/</link>
+      <guid isPermaLink="false">urn:sha256:e540cf2eba9577b47ab45d9a905d1fce0361bcae9a01fae67242c8e87148308f</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>42ブックマーク / 【読売新聞】 出版取次大手「日販グループホールディングス」の子会社が米ＡＩ（人工知能）開発企業「アンソロピック」に日本の書籍を無断で販売していた問題で、これらの書籍に、絶版となった書籍が複数含まれていたことがわかった。取引はアンソロ</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8cc5d73b982a37519acb7507190c53016c46a074/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261125-GYT1I00297-1.jpg%3Ftype%3Dogp" />
+    </item>
+    <item>
+      <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+      <link>https://zenn.dev/henteko/articles/ed8d1458246d7a</link>
+      <guid isPermaLink="false">urn:sha256:aafa019874fb3a0782e8d728ab6b72df874922ac3296a28353fe5c8e37d8c3ac</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>62ブックマーク / 形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書かれていない shimeji / sleeping_pill</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/84a3d3af6a19224e4bcc24f849516954839e123b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--MWtX2TQ5--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252583%25259E%2525E3%252583%2525BC%2525E3%252583%252580%2525E3%252583%2525BC%2525E3%252583%25259F%2525E3%252582%2525B9%2525E3%252583%252586%2525E3%252583%2525AA%2525E3%252583%2525BC%2525E3%252581%2525AE%2525E3%252582%2525B7%2525E3%252583%25258A%2525E3%252583%2525AA%2525E3%252582%2525AA%2525E3%252582%252592%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%252589%25258B%2525E6%2525B3%252595%2525E3%252581%2525A7%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%252597%2525E3%252582%252588%2525E3%252581%252586%2525E3%252581%2525A8%2525E3%252581%252597%2525E3%252581%25259F%2525E3%252582%252589%2525E3%252580%252581%2525E3%252583%252590%2525E3%252582%2525B0%2525E3%252581%2525A8%2525E6%25259B%252596%2525E6%252598%2525A7%2525E3%252581%252595%2525E3%252581%25258C%2525E8%2525A6%25258B%2525E3%252581%2525A4%2525E3%252581%25258B%2525E3%252581%2525A3%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Ahenteko%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNTJkOWE4YjUuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
       <title>個人開発 with AI</title>
       <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
       <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>122ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
+      <description>547ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>AI時代の実践・形式検証入門</title>
-      <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</link>
-      <guid isPermaLink="false">urn:sha256:20e17f3578f9fbb91471daa4668495a05a712e2a2c131b3daf9491f0c7ddecb7</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>69ブックマーク / 開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a0f40cd7ed0f900c8d72ddc90b4b22bcb524bf70/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyIdkmYGgOwQlRaIP-dNDSyyieU3XGCbWlfkdmDx6iF2YqW41HHO9FPyC-faMnZF-ilw4iBJv9beS0H81Taw0scQhbKiXKN-iVTHi32A2oC-5__wC8xb%3Dw1200-h630-p" />
     </item>
     <item>
       <title>34年目の秀丸エディタと、AIの距離感 「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB</title>
       <link>https://levtech.jp/media/detail_973/</link>
       <guid isPermaLink="false">urn:sha256:ff31472ddea14a83fa026d6977bec38414b106ffcdb1344d1a2abc3ad0984267</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>31ブックマーク / 有限会社サイトー企画 代表 斉藤 秀夫 1993年に「秀丸エディタ」を開発・公開。以来、サイトー企画で秀丸シリーズの開発を続ける。現在は秀丸メールをはじめ、秀丸エディタ以外の大半のソフトを担当。ハンドルネームは「秀まるお」。趣味はゴルフ。 秀まるおのホームページ(サイトー企画) 有限会社サイトー企画 開発者 山本 孝 1995年ごろから秀丸エディタと関連ソフトウェアを、2010年の最初のバージョンから秀丸ファイラーClassicの開発を</description>
+      <description>293ブックマーク / 有限会社サイトー企画 代表 斉藤 秀夫 1993年に「秀丸エディタ」を開発・公開。以来、サイトー企画で秀丸シリーズの開発を続ける。現在は秀丸メールをはじめ、秀丸エディタ以外の大半のソフトを担当。ハンドルネームは「秀まるお」。趣味はゴルフ。 秀まるおのホームページ(サイトー企画) 有限会社サイトー企画 開発者 山本 孝 1995年ごろから秀丸エディタと関連ソフトウェアを、2010年の最初のバージョンから秀丸ファイラーClassicの開発を</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a4f7fe6a908dac1503a1ac564a4f1e93804030eb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F6b1b4a5802c616db1d44067cb0d1c3b68aaaedb7%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn.blog.st-hatena.com%252Ffiles%252F6802418398571665203%252F14729835035339182380" />
     </item>
     <item>
-      <title>三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20261124de80746</link>
-      <guid isPermaLink="false">urn:sha256:71f6008d8ee9d101c69f629dcd79d1b0f0f5c1bee327c2e05531ed98445ac415</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>20ブックマーク / 三重県内の小学校の元講師が、ことし8月実在する少女の写真をもとに生成AIでつくられた裸の画像を所持していたとして児童ポルノ禁止法違反の疑いで追送検されたことが捜査関係者への取材でわかりました。 追…</description>
+      <title>AI に文章を書かせるときは、ネストした箇条書きで取捨選択させる - id:onk のはてなブログ</title>
+      <link>https://onk.hatenablog.jp/entry/2026/11/25/022804</link>
+      <guid isPermaLink="false">urn:sha256:7c61db760d82b88b95f456b1b7f92bc2f2f52d761fd386bb09f1425c3688e4c7</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>162ブックマーク / コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要があるかを考えさせて、取捨選択した上で文章にする。 実際の例 Claude に gh-aw を更新してもらったときの話。 gh-aw を v0.</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/02c28c6609645d77489703ca05d4f68f3bbe5246/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80746%2F20261124de80746_E0000191924_1_l.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ce1c2aa5ed71d5611e25f555daf315d9d9632156/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F17391345971631172524%2F14729835035343576732%2F1795586547" />
     </item>
     <item>
-      <title>GoogleがAIの性能測定ツール「gBench」をオープンソース化</title>
-      <link>https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/</link>
-      <guid isPermaLink="false">urn:sha256:f0069bebf7aa4854a38de31ad0e9e4e6f114521df70dcc3ecdbb59e9f0a914fa</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>40ブックマーク / GoogleがAIモデルの性能を測定するためのベンチマークフレームワーク「gBench」をオープンソース化しました。 Meet gBench, our newly open-sourced benchmarking framework for evaluating Gemma and other open models. Out of the box, it has 86 evaluation suites, chat-template</description>
+      <title>AIハーネスは第3世代へ。自己改善するハーネスの全体像</title>
+      <link>https://zenn.dev/knowledgesense/articles/68128456fe7d28</link>
+      <guid isPermaLink="false">urn:sha256:4b5e413202b44048c14e725e583223c5a38d0ca997637b71685a9a30758cfa8d</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>142ブックマーク / 本記事では、AIエージェントの実行基盤である「ハーネス」の最新トレンドについて、ざっくり理解します。株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「自己改善するAIエージェントハーネス」の全体像を整理した論文[1]について、日本語で簡単にまとめたものです。この論文は、Googleの研究者らによって、2026年11月に発表されました。 </description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06b3e52e74dfe3876c2500d4545e8c775bb00b95/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Fgoogle-gbench-benchmarking-framework%2F00.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa22464450a1e87bea6100b5dfe0b0c01f0c3c87/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--bsJIh1fK--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAI%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AF%2525E7%2525AC%2525AC3%2525E4%2525B8%252596%2525E4%2525BB%2525A3%2525E3%252581%2525B8%2525E3%252580%252582%2525E8%252587%2525AA%2525E5%2525B7%2525B1%2525E6%252594%2525B9%2525E5%252596%252584%2525E3%252581%252599%2525E3%252582%25258B%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AE%2525E5%252585%2525A8%2525E4%2525BD%252593%2525E5%252583%25258F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3AAtsushi%252520Kadowaki%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252583%25258A%2525E3%252583%2525AC%2525E3%252583%252583%2525E3%252582%2525B8%2525E3%252582%2525BB%2525E3%252583%2525B3%2525E3%252582%2525B9%252520-%252520%2525E7%252594%25259F%2525E6%252588%252590AI%2525E3%252581%2525A8RAG%2525E3%252581%2525AE%2525E5%2525AE%25259F%2525E8%2525A3%252585...%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
-      <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
-      <link>https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424</link>
-      <guid isPermaLink="false">urn:sha256:673ca178ea8fa8dc6bac3eac81b2eb9fcc422bfc7849c5cc3c231150380a3c36</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>39ブックマーク / 要約 37signalsのコードが素晴らしいのは、同社のエンジニアリング戦略が他社と異なっているからです。「企業規模を無意味に拡大しない」「機能を容赦なく絞り込む」「優秀な人材の確保に注力する」という戦略です。 多くの企業は、「機能を増やす = 利益も増える」という先入観を捨てられないため、この戦略を採用できずにいます。 Rails Business Podcastの最近のエピソードは「理想のコードを目指すには（striving for</description>
+      <title>AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003421/</link>
+      <guid isPermaLink="false">urn:sha256:f3c2bd8fa9c68ef1e84b4dd38b4afc329be2f8200cb722ba071440968768e209</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>151ブックマーク / 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Hu</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/049c82d822154c8fd0a1b9b072715d647737f572/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ftechracho.bpsinc.jp%2Fwp-content%2Fuploads%2F2026%2F11%2Frails_37signals_are_different_eyecatch-min.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cc5eea86be9249e6e040aa731fb787223c0bc8a3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F25%2F2000003421%2F10012850%2F2048" />
+    </item>
+    <item>
+      <title>「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003431/</link>
+      <guid isPermaLink="false">urn:sha256:8b96c4ba2fcbf215c2093b4aa0db8a0bd07d512f4495c74d3ac990dfe89bd60e</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>127ブックマーク / 米Anthropicは11月24日（現地時間）、AIアシスタント「Claude」で作成した「アーティファクト」（Artifacts）を、macOSおよびWindows向けのデスクトップアプリとしてインストールできる機能「Install as app」を発表した。Mac／Windows向けのClaudeアプリで、全プランを対象にβ版として順次提供する。 アーティファクトは、Claudeとの対話の中で生成されるチャートやWebページなどの成</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/44ddde5a05392a2a99c0152d8b6f1ecd779711d1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F25%2F2000003431%2F10012879%2F2048" />
+    </item>
+    <item>
+      <title>中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに</title>
+      <link>https://gigazine.net/news/20261125-china-spy-nvidia-chips/</link>
+      <guid isPermaLink="false">urn:sha256:a3e5af8aca5c4c4caac913a04967ced595bd621a32de9a524a40e0294455cdba</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>16ブックマーク / 「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の調達支援や情報収集を進めているとのことです。 China’s Spies Set Sights on A.I. Chi</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/faa40d4072183d4a3355b4e3487ecbfb76186594/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F25%2Fchina-spy-nvidia-chips%2F00.jpg" />
+    </item>
+    <item>
+      <title>EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
+      <link>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</link>
+      <guid isPermaLink="false">urn:sha256:18760b2374124b1f020ed6f56de89a48f3262068e48b6d1fe7069ca522171327</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>7ブックマーク / EXT4メンテナがLinux 7.4-rc5向けに送った4万1197行のプルリクエスト。大半はAI生成のテストと修正で、トーバルズ氏はマージしたうえで「次は無視する」と警告した。 4万1197行のプルリクエストEXT4ファイルシステムのメンテナであるテッド・ツォ（Theodore Ts'o）氏が米国時間2026年11月24日、Linux 7.4-rc5向けのプルリクエストをカーネルメーリングリストに投稿した。68ファイルの変更で4万11</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/96af4e78774d31357c481c963bcb6d72b3753e65/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjoho-todai.com%2Fcontent%2Fimages%2Fsize%2Fw1200%2Fformat%2Fjpeg%2F2026%2F11%2F83c5df78f8c8984af4c9cb256.avif" />
+    </item>
+    <item>
+      <title>5.9GBでエージェント性能アップ！「Ternary Bonsai 2.5 27B」登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159034.html</link>
+      <guid isPermaLink="false">urn:sha256:a919f329656a45f451c312f9e22a635176b26f078415fb7205f043551778d8e0</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>17ブックマーク</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cbb69f7425a15d2b7e3563e795da993e954c4a02/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F034%2F1.jpg" />
+    </item>
+    <item>
+      <title>Rubyを安心して使い続けるために</title>
+      <link>https://www.ruby.or.jp/ja/news/20261125</link>
+      <guid isPermaLink="false">urn:sha256:2a427d625564046cf4940b9825df9896bfbfe10a89da4e0bde19d4d2c02a8202</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>67ブックマーク / Rubyを安心して使い続けるために AIの登場によりソフトウェアを取り巻く状況が変化しています。AIを使えば、ソフトウェアの脆弱性を見つけることも、見つけた脆弱性を攻撃に使うことも、これまでよりはるかに速くできるようになりました。かつては公表から悪用まで数週間から数か月の猶予がありましたが、いまでは数日、場合によっては数時間で攻撃が始まるようになりました。最近も広く使われているソフトウェアで深刻な脆弱性が見つかり、大きく報じられています</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/64fa3bf158068cb135abbc16e871c708e783b7df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.ruby.or.jp%2Fassets%2Fimages%2Fcommon%2Fra-logo3.png" />
+    </item>
+    <item>
+      <title>我々はもう少し、Googleに怒っていいと思う</title>
+      <link>https://blog.tinect.jp/?p=91593</link>
+      <guid isPermaLink="false">urn:sha256:2f6cc1c7aa164b854ca9d33f2d7bc4789fac1254b0c7264a8bfa5690fc62ad60</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>70ブックマーク / 覚えている方もいるだろう。かつて（2020年まで）インターネット上に、 「NAVERまとめ」というサイトが存在していた。 このサイトは「キュレーションプラットフォーム」と自称し、様々なwebサイトの「まとめ」を提供していた。 ご存じない方のために補足しておくと、キュレーションサイトにおける”まとめ”とは、次のような行為を指す。 特定のテーマを定めインターネット上の情報を収集し、集めた情報を分類、つなぎ合わせて、ひとつのページに掲載するこ</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bb3958c59fff7a4955b481add05ba03146de88ab/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fblog.tinect.jp%2Fwp-content%2Fuploads%2F2026%2F11%2F01df5ac91c6b839d4855ca9dea8ba744-1.jpg" />
+    </item>
+    <item>
+      <title>「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html</link>
+      <guid isPermaLink="false">urn:sha256:f9d9d4419a9e022299fe36d77c98bf8eca0567c84995c3c230b1496a91dea2ca</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>46ブックマーク / 世界の半導体産業は、AIデータセンターへの巨額投資によって歴史的な好況に沸いている。そのAIデータセンターは、半導体を際限なく吸い込む「ブラックホール」と化した。その結果、民生用メモリは後回しにされ、DRAMとNANDフラッシュメモリ（以下、NAND）が極端に不足し、価格が高騰している（図1）。WSTS（世界半導体市場統計）は、2026年のメモリ市場が前年比約250％増になると予測している。しかし、空前の好況に沸く半導体産業に、11月に</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6f3f1790aa518d0f812b9c9cf7f35da867bc91e3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fee%2Farticles%2F2611%2F25%2Fcover_news044.jpg" />
+    </item>
+    <item>
+      <title>Qwen3.8 27Bを5.9GBまで省メモリ化しつつエージェント性能を維持したAIモデル「Ternary Bonsai 2.5 27B」が公開される</title>
+      <link>https://gigazine.net/news/20261125-ternary-bonsai-2-5-27b/</link>
+      <guid isPermaLink="false">urn:sha256:8357bb4b9ce10e390603e465f7c67f2e5bc5436ce831fd0ba2642a2d7a73f1c8</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>34ブックマーク / AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/news/bonsai-2-5-27b </description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ad89dde2537a240134e21707b9661743f294ad64/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F25%2Fternary-bonsai-2-5-27b%2F00.png" />
+    </item>
+    <item>
+      <title>Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った</title>
+      <link>https://zenn.dev/nexta_/articles/a3ff76a9f98f1c</link>
+      <guid isPermaLink="false">urn:sha256:ef5aeb2523dda5c1d5d3afb6daf174e5ba629688a9489a868e59c4a3c35c8a66</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>34ブックマーク / Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。 一時期はメモ帳にパネルの並び順と同じ順で、それ</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bf6cb4ce7687df2b02b1d630cb8f112180d42855/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--_wUyUnb4--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AClaude%252520Code%252520%2525E3%252582%2525925%2525E3%252580%25259C8%2525E5%252580%25258B%2525E4%2525B8%2525A6%2525E3%252581%2525B9%2525E3%252581%2525A6%2525E3%252582%252582%2525E8%2525BF%2525B7%2525E3%252582%25258F%2525E3%252581%2525AA%2525E3%252581%252584%2525E3%252582%252588%2525E3%252581%252586%2525E3%252581%2525AB%2525E3%252580%252581%2525E8%252587%2525AA%2525E5%252588%252586%2525E7%252594%2525A8%2525E3%252581%2525AE%2525E3%252583%252580%2525E3%252583%252583%2525E3%252582%2525B7%2525E3%252583%2525A5%2525E3%252583%25259C%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252582%252592%2525E3%252583%252590%2525E3%252582%2525A4%2525E3%252583%252596%2525E3%252582%2525B3%2525E3%252583%2525BC%2525E3%252583%252587%2525E3%252582%2525A3%2525E3%252583%2525B3%2525E3%252582%2525B0%2525E3%252581%2525A7%2525E4%2525BD%25259C%2525E3%252581%2525A3%2525E3%252581%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Abik%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANexta%252520Tech%252520Blog%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E5NjU1MTIwMzUuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>国会図書館の軽量AI-OCR「NDLOCR-Lite」がv2.0に、読書バリアフリーを目指す機能強化／異体字包摂、表の構造化、「PyPI」経由でのインストールにも対応</title>
       <link>https://forest.watch.impress.co.jp/docs/news/2158877.html</link>
       <guid isPermaLink="false">urn:sha256:3257f57b14a45dc518930656e870ed7ff94cb824cc81ada6a92b0d5fdfd78b1a</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>6ブックマーク</description>
+      <description>78ブックマーク</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/afd7de091f814e71d09d466f97ab3cbc5a986088/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F877%2Fimage_top.png" />
     </item>
     <item>
-      <title>ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003427/</link>
-      <guid isPermaLink="false">urn:sha256:a060371bab1d4b421606dff7637c5379cb2169781bef0a8d52833e7b0b43f07e</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>152ブックマーク / ソフトバンクは11月24日、傘下のアイティメディア（東京都千代田区）の売却を検討しているとする日本経済新聞の報道について、ITmedia NEWSの取材に対し「当社が発表したものではないため、コメントを控える」と回答した。アイティメディア広報も「当社が発表したものではない」とした上で、「現時点で決定した事実はない」としている。 報道によると、ソフトバンクは株式の売却に向け、みずほ証券をアドバイザーに起用し、準備を進めているという。非中核</description>
+      <title>翻訳特化AI「Hy MT3」をテンセントが公開、日本語を含む102言語に対応しローカルで実行可能</title>
+      <link>https://gigazine.net/news/20261125-hy-mt3-tencent-translation-ai/</link>
+      <guid isPermaLink="false">urn:sha256:054492342b09fa494d276e41e6041e69491280b0d92586d4efdaccabf49b5ed4</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>7ブックマーク / 中国の大手テクノロジー企業であるTencentが翻訳特化AIモデル「Hy MT3」を2026年11月24日に公開しました。 GitHub - Tencent-Hunyuan/Hy-MT3 · GitHub https://github.com/Tencent-Hunyuan/Hy-MT3 🚀 Hy MT3 is here — third-generation open-source translation models. More ac</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8cbc255955af94d6dd4930cef4a541534b4631b4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F24%2F2000003427%2F10012865%2F2048" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ec594706e68b00a23b44cef6a82f656ae2535cbf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F25%2Fhy-mt3-tencent-translation-ai%2F00.png" />
     </item>
     <item>
-      <title>AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2158884.html</link>
-      <guid isPermaLink="false">urn:sha256:ea5d4b989c97e0a7798c719622958e761be728a530577084b6a7c4df154a0a69</guid>
+      <title>Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される</title>
+      <link>https://gigazine.net/news/20261125-anthropic-claude-install-as-app/</link>
+      <guid isPermaLink="false">urn:sha256:98cd8e71345c1889b8bd4aeed4dd8337163e894ae6baff8c4d9d4b3049acc939</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>9ブックマーク / AI企業のAnthropicが2026年11月24日、ClaudeのアーティファクトをMacやWindowsのデスクトップアプリとしてインストールできる新機能「Install as app(アプリとしてインストール)」のベータ版を公開しました。Claudeとの対話を通じて作成したアプリを独立したウィンドウで起動できるほか、PC内のファイルへのアクセスやシステム通知なども可能になります。 Turn artifacts into Mac a</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e82c9f7ba2b4baa2e68f50890ebd513a42b34c7a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F25%2Fanthropic-claude-install-as-app%2F00.png" />
+    </item>
+    <item>
+      <title>Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説</title>
+      <link>https://gigazine.net/news/20261125-ai-sandbox-escape-siren/</link>
+      <guid isPermaLink="false">urn:sha256:1eab83ec1f371e677703f2a9f9e4b2b43ba07737a3b3ff4d29bc30e9421b0ca1</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>13ブックマーク / AIエージェントをテストする際は、外部から隔離された「サンドボックス」という環境で稼働させることがあります。しかし、OpenAIのAIエージェントがHugging Faceをハッキングしてしまった件のように、サンドボックス自体に欠陥がありAIエージェントが密かに抜け出してしまう例も少なくありません。こうした欠陥のある状況でAIエージェントがどう行動するかを評価する手法「Siren」をAnthropicが考案し、その仕組みを解説しました。</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/43816f0e1d4963f54ad1915b76cddf900734ad76/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F25%2Fai-sandbox-escape-siren%2F00.jpg" />
+    </item>
+    <item>
+      <title>音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003433/</link>
+      <guid isPermaLink="false">urn:sha256:e0b7f90832b0db2a155a0996d9115f16e02dc4918646ab4cea6c230db6ea889e</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>14ブックマーク / 音楽ストリーミングサービスのTIDALは11月24日（現地時間）、生成AIのみで制作された楽曲の扱いを厳格化すると公式Xアカウントで発表した。12月9日から、完全AI生成と判断した楽曲は受け付けず、すでに配信されている楽曲も削除する。 TIDALは、スウェーデンのAspiroが2014年に北米と英国で始めた音楽ストリーミングサービスだ。2015年にラッパーのJAY-Z氏がAspiroを買収し、マドンナ氏やビヨンセ氏などの著名アーティスト</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/40860ca6d5031ec04b239ba840a38320effa6623/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F25%2F2000003433%2F10012888%2F2048" />
+    </item>
+    <item>
+      <title>Working with AI</title>
+      <link>https://www.anthropic.com/research/working-with-ai</link>
+      <guid isPermaLink="false">urn:sha256:36fb5b1c7a9ff4c850f964edd0162f1408c9ecdd1aa74ccb8f6a1549c82ca1ea</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>5ブックマーク / Nathan Wilmers, Maxim Massenkoff, Peter McCrory SummaryHow are businesses across the economy adopting AI? What bottlenecks and challenges have they faced? How can employers reorganize human expertise around increasingly </description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d811dc070dae43b559733b34efbff208f773183f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.claude.com%2Fcd30ce2e82eb423476801098073b39e025839018.jpg" />
+    </item>
+    <item>
+      <title>AI時代の実践・形式検証入門</title>
+      <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</link>
+      <guid isPermaLink="false">urn:sha256:20e17f3578f9fbb91471daa4668495a05a712e2a2c131b3daf9491f0c7ddecb7</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>4ブックマーク</description>
+      <description>149ブックマーク / 開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a8ba3b4f96700afe3bc8bb9fcfb6a40f8610c5e1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F884%2F1.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a0f40cd7ed0f900c8d72ddc90b4b22bcb524bf70/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyIdkmYGgOwQlRaIP-dNDSyyieU3XGCbWlfkdmDx6iF2YqW41HHO9FPyC-faMnZF-ilw4iBJv9beS0H81Taw0scQhbKiXKN-iVTHi32A2oC-5__wC8xb%3Dw1200-h630-p" />
     </item>
     <item>
-      <title>使わなくなったAndroidスマートフォンにPCのシステムステータスやAIエージェントの使用率など様々なウィジェットを表示させておくことができるAndroidアプリ「PhoneBox」がmacOSと日本語に対応。</title>
-      <link>https://applech2.com/archives/20261124-phonebox-for-android-support-mac.html</link>
-      <guid isPermaLink="false">urn:sha256:647fb94598672e3777dac45ab4d7d882c42beef708c65f954e75e28bc9755840</guid>
+      <title>“チャッピーに聞く”でも“ググる”でもない、エンジニアが選ぶ「知識が身に付く情報源」トップは？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news015.html</link>
+      <guid isPermaLink="false">urn:sha256:265b977456287b9c5dbb2e05f7bdaafc35fd53cc2f822d2d18a85a8d4b1cf0a6</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>18ブックマーク / 技術情報の収集手段は、検索エンジンや動画、SNS（ソーシャルネットワーキングサービス）など多様化している。“チャッピー”の愛称で呼ばれるOpenAIの「ChatGPT」など、生成AIへの質問も情報収集の手段として広く使われるようになった。一方で情報源が多様化するほど、どの情報源で何を追うかを判断する手間も増える。こうした中、エンジニアの間で“情報収集疲れ”が広がっている。 ITキャリア支援を手掛けるキッカケクリエイションは2026年6月</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcde90a1f5fea12e78319560e4f93542ea4d20a0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2611%2F24%2Fcover_news015.jpg" />
+    </item>
+    <item>
+      <title>日経平均株価、終値1633円安 フジクラ売り誘ったAI懸念 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL250PVTV21C26A1000000/</link>
+      <guid isPermaLink="false">urn:sha256:2d8178fccf9cc48553d499ecb7cdb188709c5b83bc8ef9f4d7031e9ebc5e6b44</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>10ブックマーク / 25日の東京株式市場で日経平均株価は大幅に反落し、終値は前日比1633円01銭（2.78%）安の5万7011円62銭だった。下げ幅は一時2100円を超えた。前日の米ハイテク株安を受け、人工知能（AI）・半導体株が再び売られた。巨額のAI投資を巡る持続可能性などへの懸念は晴れず、市場ではフジクラをはじめ最高値からの下落率が7割を超えた銘柄が続出した。米エヌビディア最高経営責任者（CEO）へのジ</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cc72cf17479232894e963e702e5b533419e45d95/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3931488025112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26upscale%3Dfalse%26w%3D1200%26s%3D82a533659d307fc84eeff9ba4f89b03f" />
+    </item>
+    <item>
+      <title>Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場</title>
+      <link>https://gigazine.net/news/20261124-inkling-2-mini/</link>
+      <guid isPermaLink="false">urn:sha256:3cf5958196d5da12c574f18fb57b4733240fa34103971771824558458348baf2</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>8ブックマーク / アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。 Introducing Inkling 2 Mini - Thinking Machines Lab https://thinkingmachines.ai/news/inkling-2-mini/ Thinking Machines La</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/53c5912021cc12d9cbf8641d5c3d9baa98ab0ca1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Finkling-2-mini%2F00.png" />
+    </item>
+    <item>
+      <title>三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261124de80746</link>
+      <guid isPermaLink="false">urn:sha256:71f6008d8ee9d101c69f629dcd79d1b0f0f5c1bee327c2e05531ed98445ac415</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>11ブックマーク / 使わなくなったAndroidスマートフォンにPCのシステムステータスやAIエージェントの使用率を表示させておくことができる「PhoneBox」がmacOSに対応しています。詳細は以下から。 PhoneBoxはトルコのErsin Koçさんが公開したAndroidアプリで、古くて使わなくなったAndroidスマートフォンをUSB/Wi-Fi接続でWindowsやLinux PCのシステムモニタパネルにする事ができますが、このPhoneBo</description>
+      <description>77ブックマーク / 三重県内の小学校の元講師が、ことし8月実在する少女の写真をもとに生成AIでつくられた裸の画像を所持していたとして児童ポルノ禁止法違反の疑いで追送検されたことが捜査関係者への取材でわかりました。 追…</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/02c28c6609645d77489703ca05d4f68f3bbe5246/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261124de80746%2F20261124de80746_E0000191924_1_l.jpg" />
     </item>
     <item>
-      <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
-      <link>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</link>
-      <guid isPermaLink="false">urn:sha256:5a6d140d69f99e32e50aabcf8a37d0f991f7db4d35fbc3037354ef5f82e6d83e</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>34ブックマーク / 2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約1年半にわたって数学者たちに「AIが人間には理解できないリーマン予想の証明を生み出したらどう感じるか？」と問いかけてきたインタビューを振り返ったムービーを公開しています。 Since last yea</description>
+      <title>Turn artifacts into Mac and Windows apps</title>
+      <link>https://claude.com/resources/articles/install-as-app</link>
+      <guid isPermaLink="false">urn:sha256:b3db646d86cce70fafc8b4dd1e9bdf3dec99882cc3fb01d42f24187a48909126</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>8ブックマーク / Starting today, you can use Claude artifacts to create, run, and share desktop apps. The "Install as app" feature is rolling out in beta in Claude for Mac and Windows. When an artifact is installed as a Mac or Windows ap</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2f262bd479bf8dafcea389901617827e413535bb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Friemann-hypothesis-mathematician%2F00_m.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6d4e223cdbb4617debff1a5c59617e5d0a2c3214/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fclaude.com%2Fresources%2Farticles%2Finstall-as-app%2Fopengraph-image%2Fog" />
     </item>
     <item>
-      <title>「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
-      <link>https://japan.cnet.com/article/35255329/</link>
-      <guid isPermaLink="false">urn:sha256:e887c3f748b49e86b620dc8794bb4fc0ab8f6e5eccefe3f5483f48932937640c</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>16ブックマーク / ソフトウェアの共同開発サービス「GitHub」で、コードの変更案をAIに点検・修正させ、チームのルールが認める場合は承認まで任せられるようになった。米Anthropicは11月23日、こうした機能をまとめた「Claude Ship」を発表した。ClaudeのTeamとEnterpriseプラン向けにベータ提供を始めた。</description>
+      <title>【2026年ベストバイ】エンジニアが買ってよかったガジェット8選 - stmn tech blog</title>
+      <link>https://tech.stmn.co.jp/entry/best-buy-2026</link>
+      <guid isPermaLink="false">urn:sha256:d543f069193793179e5f991db83113cc4144443873fc09f67be1fe9f326a1371</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>5ブックマーク / はじめに みなさん、こんにちは☀️プロダクト開発部のねぎちゃんです🌷 いよいよ年に一度のビッグセール、ブラックフライデーの季節がやってきましたね！ 「このタイミングで作業環境をアップデートしたい」「何か良いガジェットがないか探している」という方も多いのではないでしょうか。 そこで今回は、リモートワークと出社のハイブリッド環境で働くエンジニアやプロダクトデザイナーなど、職種やバックグラウンドの異なるスタメン社員に「2026年のベストバイ」</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/480cd88b992008e1e34f2605ec07bf2be4a1f3b1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F07%2F01%2Fb95d57450e1a0a14633bad7058b56d76%2Fanthropic-claude-logo-gettyimages-2269811684__1_.jpg" />
-    </item>
-    <item>
-      <title>ソフトバンク、「ITmedia」運営会社の売却検討 AI関連事業に集中 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/</link>
-      <guid isPermaLink="false">urn:sha256:836a54246b98f968398034d041f13272df786f47beb53a73a6dfda31c52ef049</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>183ブックマーク / ソフトバンクがニュースサイト「ITmedia」などを運営するアイティメディアの売却を検討していることがわかった。ソフトバンクは通信から人工知能（AI）の会社へと転換を目指している。非中核事業を切り離しAI関連に経営資源を集中させる。ソフトバンクは完全子会社のSBメディアホールディングスを通じ、9月末時点でアイティメディア株式の52.98%を保有する。同社株の売却に向け、みずほ証券をアドバイザー</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d498f3d6c589eac5bb46f49b3b3402198f5f334a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3926954024112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3De00dc39573c709d3f69170f346ca3f16" />
-    </item>
-    <item>
-      <title>エヌビディア株、31％急騰 時価総額151兆円増</title>
-      <link>https://www.cnn.co.jp/business/35255312.html</link>
-      <guid isPermaLink="false">urn:sha256:8764c1146e00f3cc966ec7a0589bf30c15eb002bdfd124815a51ba7dfe6719be</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>11ブックマーク / 23日、米半導体大手エヌビディアの株価が30％を超える値上がりを記録した/Spencer Platt/Getty Images （CNN） 米半導体大手エヌビディアの株価は23日、同社がジェンスン・フアン氏を最高経営責任者（CEO）兼社長に即日復帰させたと発表したことを受け、30％超急騰した。1日の上昇率としては過去3番目の大きさだった。 エヌビディア株は一時36.6％高となり、その後やや上げ幅を縮めて31.48％高で取引を終えた。上昇</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/14365d029623bf6313fefb1a59a4ec30dd0e4d56/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F24%2F167b45f1f2abd0c013b7c6ad40114d73%2Fgettyimages-2306506603.jpg" />
-    </item>
-    <item>
-      <title>DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/</link>
-      <guid isPermaLink="false">urn:sha256:367d6e19b800c6738e9af93c62a0b060ad50dcea326b8e4cd64815612cc86350</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>24ブックマーク / ディー・エヌ・エー（以下、DeNA）は11月20日、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」（以下、AI社員）を提供すると発表した。トークン使用量を「勤務時間」として管理し、「残業時間の上限」を設けることで使い過ぎを防げるとしている。 AI社員は導入企業内で固有のアカウントを持ち、人間の従業員と同様、部署に配属されたメンバーとして主に「Slack」などのチャットツール上で稼働する。配</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cdcd7d384604becf6280732771b8b4e4ab86e986/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2Fogp%2F2611%2F24%2F2000003406%2F10012810%2F2048" />
-    </item>
-    <item>
-      <title>ソフトウェアファクトリーを前提に、サービス開発はどう変わるか｜すてぃお</title>
-      <link>https://note.com/suthio/n/n91e27ebb133d</link>
-      <guid isPermaLink="false">urn:sha256:bc9e893f332985510edb237bb33ad7b32a4330b3aaf1b637f309f0f74dbf3918</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>30ブックマーク / 前提DORAの2025年レポートは、AIはチームにもともとある強みと弱みを増幅すると報告しています。Faros AIの調査でも、AIの利用が進むチームでは、マージされるPRが増える一方、レビュー時間も長くなっていました。 DORAレポートの2025年版が出た。AIは増幅器であり、組織の能力を映す鏡。高パフォーマンス組織の強みを増幅し、より速く革新的にする。低パフォーマンス組織の機能不全を増幅し、さらなる混乱と不安定さを生み出す。AI導入</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3b0632ce8c2da98ae6857941d9acfaa20cc09787/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340045530%2Frectangle_large_type_2_cd8b8911ac99bc894615549fe11eb059.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
-    </item>
-    <item>
-      <title>私用AIの業務利用拡大、管理職の半数近く 情報流出リスク高まる - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA1977Z0Z11C26A1000000/</link>
-      <guid isPermaLink="false">urn:sha256:ab91c40ee687e5b0ae6d044f97dd3860c7b663d6fe716055e2b448dfe8fee485</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>9ブックマーク / 会社が認めていない生成AI（人工知能）の業務利用が広がっている。管理職の半数近くが使っているとの民間調査もある。AIで業務効率を高めたい社員のニーズに会社の情報管理体制が追いつかず、情報流出のリスクが高まる。許可されていないAIツールを無断で利用する行為は「シャドーAI」と呼ばれる。RIZAPグループは9月、子会社の社員が個人で使っている生成AIサービスに疾患情報などを含む顧客情報を送出した</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/051f0b8472578dc0fbc58d46e9c7cb372fe22166/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXZQO3910875020112026000000-1.jpg%3Fauto%3Dcompress%26bg%3DFFFF%26crop%3Dfocalpoint%26fit%3Dcrop%26fm%3Djpg%26h%3D630%26w%3D1200%26s%3D10754eef8117613ba48910e58a7711dc" />
-    </item>
-    <item>
-      <title>OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表</title>
-      <link>https://gigazine.net/news/20261124-openai-shirudo/</link>
-      <guid isPermaLink="false">urn:sha256:dbb8b7e9cbe8c70e7c2120be44262e478d6239bacbf91366aef66128000f2ea4</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>22ブックマーク / OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてから修正パッチが適用されるまでの間もシステムを保護することが可能になるとのことです。 OpenAI and Cisco introduce Shirudo | OpenAI https://openai</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8d8c7bdb427b0520e28adec0421c56be8566b87b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F24%2Fopenai-shirudo%2F00.png" />
-    </item>
-    <item>
-      <title>パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2158698.html</link>
-      <guid isPermaLink="false">urn:sha256:2f3c475f5077f9203fa7f9d60a89ba3ddab0b974b26b440c483a29f27c7d3bb3</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>35ブックマーク</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82421bf1c22cc8aa6d4512bd7f5f085088e86519/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F698%2Fo01.jpg" />
-    </item>
-    <item>
-      <title>GitHub - minorun365/claude-code-japanese-guard: Claude Code の応答が英語に切り替わったら、日本語で書き直させる Stop hook</title>
-      <link>https://github.com/minorun365/claude-code-japanese-guard</link>
-      <guid isPermaLink="false">urn:sha256:7c8dbb4f687b57826cd457838a37612f75c7fcc053f35c8bc7049f57b9c77a77</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>30ブックマーク / Claude Code の応答が、いつの間にか英語に切り替わるのを止める Stop hook です。 日本語で指示していても、ツールを何度も呼ぶ長い作業のあとや、英語のツール出力を読んだ直後に、途中報告や最終報告が英語で返ってくることがあります。CLAUDE.md に「日本語で応答する」と書いても、この切り替わりは止まりませんでした。そこで、ターンの終わりに本文を機械で検査し、英語だったら日本語で書き直させる hook を作りました。 </description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/32b4824d65f80400ec7d658dd6fd9cc2e93f3f30/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fdab5e93a877b3473637b60b3dbf58347482e04ec0204b900ff3dec277c4ce19a%2Fminorun365%2Fclaude-code-japanese-guard" />
-    </item>
-    <item>
-      <title>OpenAIのアルトマンが「非常にまずい」と警告、AIエージェント時代に職場が整えるべき「6つの備え」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/108659</link>
-      <guid isPermaLink="false">urn:sha256:dc5f4862785ff0811e55e44b2e9a35dcceceaa474ed8abda910df763e15bdc18</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>31ブックマーク / 4年前、AIにメールを書かせたり、スプレッドシートを分析させたり、リンクトインに載せる投稿を作らせたりしたことのある人は、おそらくほとんどいなかったはずだ。 企業は現在、ますます複雑なタスクやワークフローをAIに任せている。雇用主はかつてない速さでAIを導入しようと競い合い、従業員は、これまで経験したことのない猛烈な速さで、それに適応するよう求められている。 ところが、どうやらそこまでは、まだ簡単なほうだったらしい。 OpenAIのアル</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8c198cc58fe9c293e757678d33ababa4e0fb75cb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.forbesjapan.com%2Fmedia%2Farticle%2F108659%2Fimages%2Fmain_image_805ffaf2ac880a3da249a253111e8eb1211f3a1a.jpeg" />
-    </item>
-    <item>
-      <title>OpenAIが蒸留対策を公開、AIの「思考過程」を抜き取る攻撃の成功率を54%から0.2%に | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/11/24/5794.html</link>
-      <guid isPermaLink="false">urn:sha256:3991fa5f8b75e45822d73c0dd690d8946e5bfdf6a529e78b9c83360ddd7f3b79</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>16ブックマーク / OpenAIは11月20日、自社のAIモデルの出力を無断で集めて別のモデルの学習に使う「敵対的蒸留」への対策を公開しました。新しいGPT-6.2 AstraとGPT-6.2 Solで防御を強め、モデルの内部の思考過程を抜き取る攻撃の成功率を、54.0%から0.2%に下げたとしています。 蒸留は、あるモデルの出力を別のモデルの学習データにする一般的な手法です。OpenAIが問題にしているのは、これを無断で行い、元のモデルにあった安全策を引</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1b8326fd59d60ef81246e7a3cab23c59ca71a2d6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35872.webp" />
-    </item>
-    <item>
-      <title>呼びかけると故人の写真を映すAI仏壇「コハコ」発売、49万5000円 10年後の家族に動画を届ける機能も | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/11/24/5803.html</link>
-      <guid isPermaLink="false">urn:sha256:39aa1f4b43f974bd6896eebccfff3883776b8526e91fd2c987aec4a4c545d652</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>18ブックマーク / 葬祭ブランド「さがみ典礼」を展開するアルファクラブ武蔵野は11月24日、AI仏壇「コハコ」を発売しました。価格は49万5000円（税込）で、公式サイトで販売します。 コハコは、故人を偲んで手を合わせるという仏壇の役割に、AIやセンサーを組み合わせた製品です。本体は幅180×奥行180×高さ251mm、重さ約4.5kgで、天然木を使用しています。 使い方は、まずスマートフォンから専用サイト「マイコハコ」に写真や動画を登録すると、Wi-Fi</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a6c27f75488b32144dfea46ba2bcbd54ffd29cfb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35912.jpg" />
-    </item>
-    <item>
-      <title>ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み</title>
-      <link>https://kai-you.net/article/97231</link>
-      <guid isPermaLink="false">urn:sha256:530d0fea4d899328e5f4c58e6472ab73b76d8bad7eb36e3175f4a9c22161ed89</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>76ブックマーク / AI創作プラットフォーム「PixAI」が、ずんだもんなど4キャラクターに対応した公式コラボLoRA「ずん子・ずんだもん達」を公開した。 東北ずん子・ずんだもんプロジェクトから公式素材の提供を受けて制作し、権利元による公式監修を経たAIプロジェクトとなる。 ずんだもん、東北ずん子、東北きりたん、東北イタコの4キャラクターに対応し、PixAI上で誰でもLoRAデータを利用できる。 東北ずん子・ずんだもんプロジェクトの小田恭央さんは、公式Lo</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/b0908c37f0884471ceaf6006132b868bd67b177a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimg.kai-you.net%2Fstorage%2F2026%2F11%2F828cb490-5e8a-47c6-8d56-057e1036be52%2Fjpg%2Fzundamon.jpg" />
-    </item>
-    <item>
-      <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
-      <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>143ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
-    </item>
-    <item>
-      <title>【西川和久の不定期コラム】 Blender初心者がAIエージェントとダンス動画を3D化、回り込みで撮り直してみた</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2158334.html</link>
-      <guid isPermaLink="false">urn:sha256:a3c2dba449bce60a26711121dec374ad125dc2cb66c194c6fe54d5e6e6236a62</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>6ブックマーク</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/81ab27ec041018b7d1f918d258c26a78b85b6406/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F334%2FC00.jpg" />
-    </item>
-    <item>
-      <title>ブラックフライデー先行セール！「Google AI Plus/Pro」最大50%引き</title>
-      <link>https://jetstream.blog/2026/11/23/google-ai-plus-pro-black-friday-early-sale-2026/</link>
-      <guid isPermaLink="false">urn:sha256:c58295c16bbc8a788eaac01b3927bd512ef5f24aba0204738aa2bd4e0b15cb04</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>13ブックマーク / 「Google One」において、「Google AI」プラン「Google AI Plus」「Google AI Pro」を対象とした「ブラックフライデー」セールが開始。既存の「Google AI Plus」「Google AI Pro」メンバーシップ対象の、先行セール的な「早期アクセス」として開始。2026 年 11 月 26 日（木）までの期間中、「Google AI Plus」もしくは「Google AI Pro」の年額制プラン</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0514071f448a6cb26296c6b9bd3cc3dd7e69b920/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjetstream.blog%2Fwp-content%2Fuploads%2F2026%2F11%2FGoogle-One-Google-AI.jpg" />
-    </item>
-    <item>
-      <title>1年以内に他社も「もうGitは限界」 1日3万マージに激増のAnthropicが明かす「AIエージェント規模」開発インフラ構築の裏側</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news020.html</link>
-      <guid isPermaLink="false">urn:sha256:d6b81e9ec4fcb17bfaababd98bef68aaee8cef96c520c81fa0d1cce1cf8c5636</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>15ブックマーク / Anthropicは2026年10月13日（米国時間）に公式ブログで、自社のモノレポを「Git」から独自のバージョン管理システム「Scion」に移行したことを報告した。Scionの構築を通じて得た知見を紹介するとともに、この経験を基に広範なエコシステムに貢献していく姿勢を示した。Scionは、AIエージェントによる大規模な開発に対応するために設計したシステムだ。 Anthropicによると、同社では、コーディングはもはやシステム構築や研</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e8c6c663fd33539a2fcacdd7c1adf14a145688f5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2611%2F24%2Fcover_news020.jpg" />
-    </item>
-    <item>
-      <title>CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003398/</link>
-      <guid isPermaLink="false">urn:sha256:5054a486ef234f31ce1368db5783c2919ea5479d10f5f0fd7113933eb99e25cc</guid>
-      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>22ブックマーク / 米CrowdStrikeは11月23日（現地時間）、米Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値を約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認した。取引完了はCrowdStrikeの2028会計年度（2027年2月～2028年1月）の後半になる見込み。 CrowdStrikeは、クラウドベースのセキュリティ基盤「Falcon」を提供している。Falco</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5ba5586d8d6e86642adb41cdacce1adc45412ac8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F24%2F2000003398%2F10012791%2F2048" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/506c9b887295a1359fdf3e8f11af4defcc7c656f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F11b01b4f36ba058b2ff915d284288e3cd87498fa%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fn%252Fnegichan_hate%252F20261124%252F20261124140551.png" />
     </item>
     <item>
       <title>AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog</title>
       <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
       <guid isPermaLink="false">urn:sha256:db7043a388801a331b9c6c2682cd50c531e879dadf852875664801b977fbaeb4</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>12ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
+      <description>15ブックマーク / こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持っている方へのご参考になれば幸いです。 なお本記事は、将来の脅威を理解し、防御策の検討やセキュリティ向上に役立てるための情報</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cb88a55d05bc10675ff72d9aa6d23d2855daa453/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2f2abb86a7463f211b2b8b2500102187278211e3%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252FN%252FNTTCom%252F20261102%252F20261102204440.png" />
     </item>
     <item>
-      <title>【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース</title>
-      <link>https://hatenanews.com/articles/2026/11/24/093000</link>
-      <guid isPermaLink="false">urn:sha256:f0bdfc3101e96986bb05e917f6242549e61c5d4397df01417c2d49693bcf5377</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>125ブックマーク / ▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェントを巧みに操るためのネクストステップも ▶Skills・Subagents・Hooksまで、Claude Codeの</description>
+      <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
+      <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
+      <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
+      <description>153ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcab2f94d8ef0d5be2b7eabf2e6901e0f3df1582/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F5e3933bf8f238d19cd8874447e7065bf14c30ba4%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fb%252Fblog-media%252F20261106%252F20261106164006.jpg" />
-    </item>
-    <item>
-      <title>競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball</title>
-      <link>https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product</link>
-      <guid isPermaLink="false">urn:sha256:78ce01620cb4795e2c7313e7446d70513c8eab53e5a730737ee5ef24d37b1a55</guid>
-      <pubDate>Tue, 24 Nov 2026 04:50:00 +0000</pubDate>
-      <description>92ブックマーク / 秋のG1絶不調マンです, エリザベス女王杯しか取っていません. そんな話はさておき, 私はこの春から競馬予想AI Agent「ai-shugoro（仮）」を開発しPoC的な運用をしています. 競馬好き歴30年の自分が予想スタイルをAI Agentにオンボーディングした結果の話 競馬予想AI Agentは何をアウトカムとして残したか？春G1を振り返る 春先はStreamlitで作ってローカルで運用していたのですが. 競馬予想AI Agen</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/de77137372f97924362393446a380e1b9e229402/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb55ef9069374963ebdc2ca8e3b97cef41fa6e991%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshinyorke%252F20261122%252F20261122165411.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
     </item>
   </channel>
 </rss>
