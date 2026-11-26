@@ -7,280 +7,289 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
-      <title>MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev</title>
-      <link>https://dev.sin5d.com/meta-muse-usage</link>
-      <guid isPermaLink="false">urn:sha256:5515b89efb620587cf609ec50a11c2385d13901ba1d2a8d011fc27e1b3d82030</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>322ブックマーク / XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況は今後変わる可能性がありますのでご了承ください。 Mu</description>
+      <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開</title>
+      <link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link>
+      <guid isPermaLink="false">urn:sha256:9fb05ca0de413c2c22d8a2cf0096f9e4f615f9fa8db756a4972949b3b50a08ad</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>124ブックマーク / 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description>
       <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9aa0810985e78c6dda91151d8c195198ab439b79/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ead06dfc087473a85642706e19f07fc%2Fslide_0.jpg%3F41530757" />
+    </item>
+    <item>
+      <title>Jev で実現する Generative UI</title>
+      <link>https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</link>
+      <guid isPermaLink="false">urn:sha256:54a79e3891d2a5cc82318039013d593aa820029ea333ab61be1a67c05077aab4</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>54ブックマーク / Genarative UI における Jev の活用事例について紹介します。</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/209705aa03179793367fe1bcf9ec21f6dd56606a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Ff68d3ba9bc69405cae90e2c28c42bd25%2Fslide_0.jpg%3F41523147" />
     </item>
     <item>
       <title>ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン</title>
       <link>https://bunshun.jp/articles/-/93682</link>
       <guid isPermaLink="false">urn:sha256:9e54414e57b85ca1158b6087851f3178c5a54152102aed5696fe430abe431fa6</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>128ブックマーク / ◆◆◆ 授業中にゲーム、ウィキペディアを組み合わせレポート提出…GPA0.9で落第寸前だった ――AIを使いこなす前の大塚さんは、どんな大学生活を送っていたのですか。 大塚あみさん（以下、大塚） 多分、びっくりするぐらい普通だと思います。朝10時半くらいに起きて、10時50分の授業のために小走りで学校に行って、授業に少し遅れて参加して。授業を受けるといっても、スマホを見たり、ゲームをやりながらですけど。 で、授業が終わったら学校でランチ</description>
+      <description>268ブックマーク / ◆◆◆ 授業中にゲーム、ウィキペディアを組み合わせレポート提出…GPA0.9で落第寸前だった ――AIを使いこなす前の大塚さんは、どんな大学生活を送っていたのですか。 大塚あみさん（以下、大塚） 多分、びっくりするぐらい普通だと思います。朝10時半くらいに起きて、10時50分の授業のために小走りで学校に行って、授業に少し遅れて参加して。授業を受けるといっても、スマホを見たり、ゲームをやりながらですけど。 で、授業が終わったら学校でランチ</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c081a72e837c64e086992294c3a874970bd130ea/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fbunshun.jp%2Fmwimgs%2F1%2F3%2F1200wm%2Fimg_13c229b39c7007f1a3c56ece3528e547153122.jpg" />
-    </item>
-    <item>
-      <title>理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード</title>
-      <link>https://note.com/assuredjp/n/n6ec5f6544e0c</link>
-      <guid isPermaLink="false">urn:sha256:272a52f90faae6949345f0076a56f85632189849cff2a912302ff2b0a769e00b</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>56ブックマーク / こんにちは。Assuredクラウド評価事業部でエンジニアリングマネージャーを務めている田所です。 この記事では、2026年11月26日に私がアーキテクチャカンファレンス2026に登壇させていただいた内容をご紹介します。 アーキテクチャカンファレンスとは、ソフトウェアアーキテクチャについての技術カンファレンスです。 今年は「事業を継続し進化するアーキテクチャの意思決定・技術・組織」をテーマに、各スピーカーの知見や事例の共有が行われました。</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/20488f93e9d18c40462a7ad0ff2f01c03654b2b3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340852931%2Frectangle_large_type_2_c4cdc581a4de1ba76cc6b27c59597522.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
       <title>CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる</title>
       <link>https://anond.hatelabo.jp/20261126144022</link>
       <guid isPermaLink="false">urn:sha256:b8356d4cf29d267faaeb1fad4efa140ba821d56dd682dbe90878bf4dc077f508</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>65ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
+      <description>177ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
     </item>
     <item>
-      <title>「AI検索に電話番号が……」鳴りやまぬコールセンター バッファローは壊れた「顧客導線」をどう改善した？</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/26/news015.html</link>
-      <guid isPermaLink="false">urn:sha256:c8c15d8926b789177184612fa2039c808b3b82beba886905e55b2d3f06cb8f17</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>162ブックマーク / 入電が「月に1400件急増」なぜ？ 理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったような感じでした」 バッファロー 品質保証部 FAQ課長の嶋田豊秋氏は、AI検索によって電話問い合わせが増加した当時の心境をこう振り返る。 同社が外部委託して運営するコンタクトセンターには、電話、メール、チャットを合わせて年間約39万件の問い合わせが寄せられる。最も多いのはWi-Fiなどのネットワーク製品に関連するも</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a7ecc990bb470267fee034b41eab6eeefc89e309/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fbusiness%2Farticles%2F2611%2F26%2Fcover_news015.jpg" />
-    </item>
-    <item>
-      <title>「知らない〝私〟が血を流し罵倒」中国AI短編ドラマで「顔盗用」急増 俳優は泣き寝入り</title>
-      <link>https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE/</link>
-      <guid isPermaLink="false">urn:sha256:34d7bc09151794d3498532ac91787b9c5e16e778113d7f4b5e5ec84768795812</guid>
+      <title>理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード</title>
+      <link>https://note.com/assuredjp/n/n6ec5f6544e0c</link>
+      <guid isPermaLink="false">urn:sha256:272a52f90faae6949345f0076a56f85632189849cff2a912302ff2b0a769e00b</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>12ブックマーク / インタビューに答えるモデルの七海さん。奥はモニターに映し出された自身の顔とうり二つのAI俳優＝8月、中国浙江省杭州市（共同）人工知能（AI）を活用した短編ドラマが急増する中国で、AIで作られた「俳優」に顔や声を盗用されたと実在の俳優が訴えるトラブルが多発している。短編ドラマは低コストと制作期間の短さが強みだが、規制が追い付かず不利益を被った側が泣き寝入りするケースも。対策を急ぐ中国政府は管理強化に乗り出す。 うり二つのAI俳優が「出演」</description>
+      <description>162ブックマーク / こんにちは。Assuredクラウド評価事業部でエンジニアリングマネージャーを務めている田所です。 この記事では、2026年11月26日に私がアーキテクチャカンファレンス2026に登壇させていただいた内容をご紹介します。 アーキテクチャカンファレンスとは、ソフトウェアアーキテクチャについての技術カンファレンスです。 今年は「事業を継続し進化するアーキテクチャの意思決定・技術・組織」をテーマに、各スピーカーの知見や事例の共有が行われました。</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f0c9a9367ff29550e0eebc889593d7f7a6c02bdf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.sankei.com%2Fresizer%2Fv2%2FMIAY7BTBBJJCFH27PN5L5KUU3Y.jpg%3Fauth%3Df7fd3fda2c2662add1efb10876540a7b3c1c501064120c890b8ec03e22d284e0%26quality%3D50%26focal%3D1409%252C1360%26width%3D1200%26height%3D675" />
-    </item>
-    <item>
-      <title>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
-      <link>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</link>
-      <guid isPermaLink="false">urn:sha256:ca8ff617744bf78ba6170e3f75360e95ae3974f4d77bd4a6db12de6cbeb9630e</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>138ブックマーク / MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供 AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、AIエージェントはMCP経由でMCPサーバからつねに最新のスキルを取得できるようになりま</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/78963be8123c88de01bfa567fc9d45d6e1e82d5b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fskills-over-mcp-beta.png" />
-    </item>
-    <item>
-      <title>Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape</title>
-      <link>https://www.keisuke69.net/entry/2026/11/26/085248</link>
-      <guid isPermaLink="false">urn:sha256:ab6141a8d3e0396c1e37076801a0bf822d9e518921a04e6790f3fa6617565b9e</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>96ブックマーク / 今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたいと思ったときは、LLMプロバイダが直接出しているAPIの方が使い勝手がいい。最新モデルをすぐ試せるし、ドキュメントもS</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82fba42bc0fbe0e9cadf6af1d6cb5d83f30d778a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12921228815714502489%2F14945776032073236520%2F1795650768" />
-    </item>
-    <item>
-      <title>飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003447/</link>
-      <guid isPermaLink="false">urn:sha256:71a1cc62315372023135b9e133830032c45cc11f0d8d619b33e3dbc42fc57e08</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>31ブックマーク / 生成AIを使えば、商品の撮影や画像制作にかかる手間を減らし、さまざまなイメージ画像を手軽に作成できます。一方で、こうした画像については、SNSなどで「実際の商品と違うのではないか」「景品表示法上、問題はないのか」といった疑問も見られます。 今回は、飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について、考えてみましょう。 前野孝太朗（まえの・こうたろう）弁護士（第二東京弁護士会）。シテ</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7b740ce6aa84a763ca4f27301471885ef4550181/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F26%2F2000003447%2F10012933%2F2048" />
-    </item>
-    <item>
-      <title>NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた</title>
-      <link>https://gigazine.net/news/20261126-nvidia-china-company/</link>
-      <guid isPermaLink="false">urn:sha256:412a7f2f13b001ae1bf5942ac4d9fa16d3545aca77f0423ec035925d29fd996d</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>11ブックマーク / NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, </description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4bfc0ad050454568a1beb4d72c2edade1c03e7b5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fnvidia-china-company%2F00.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/20488f93e9d18c40462a7ad0ff2f01c03654b2b3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340852931%2Frectangle_large_type_2_c4cdc581a4de1ba76cc6b27c59597522.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
     <item>
       <title>24KBの「LLM専用OS」が登場 全てアセンブリでLinuxを排し、llama.cppより最大54%高速 | テクノエッジ TechnoEdge</title>
       <link>https://www.techno-edge.net/article/2026/11/26/5824.html</link>
       <guid isPermaLink="false">urn:sha256:c6031c817be8002898622926ff0c34bb3b55d562fc5d0bfb2e4e4161070b71e0</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>10ブックマーク / 開発者のAlexey Fateev氏は11月26日（日本時間）、言語モデル「Qwen3-0.6B」を動かすためだけのOS「asm-llm-os.elf」をXで発表しました。PCや仮想マシンを起動すると、そのままチャット画面が立ち上がります。OS本体のサイズは2万4252バイト（約24KB）です。コードはGitHubで公開しており、ライセンスはMITです。 このOSは、LinuxもWindowsも使いません。Fateev氏はブートからドラ</description>
+      <description>83ブックマーク / 開発者のAlexey Fateev氏は11月26日（日本時間）、言語モデル「Qwen3-0.6B」を動かすためだけのOS「asm-llm-os.elf」をXで発表しました。PCや仮想マシンを起動すると、そのままチャット画面が立ち上がります。OS本体のサイズは2万4252バイト（約24KB）です。コードはGitHubで公開しており、ライセンスはMITです。 このOSは、LinuxもWindowsも使いません。Fateev氏はブートからドラ</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2b7349562ff7e6053317d408765e09c0ee499792/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35979.png" />
     </item>
     <item>
-      <title>観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI</title>
-      <link>https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai</link>
-      <guid isPermaLink="false">urn:sha256:11337735f2987d7b1dd34bf0d33f07eaa3fd3d568e3af8d8e24fdbb15c87f6b0</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>153ブックマーク / Modeling Forum 2026 におけるトークスライドです モデリングの前と後、そして実際のモデリングをコモディティ化しています イベント概要：https://umtp-japan.org/event-seminar/mf2026/78668 CQRS+ES実践ガイド：https://…</description>
+      <title>初調査の「性的いじめ」8000件超 AI悪用のディープフェイク背景、全国の学校で</title>
+      <link>https://www.sankei.com/article/20261126-BLDMVFSIK5NHVFJGMUO7X7Y4IQ/?outputType=asynd</link>
+      <guid isPermaLink="false">urn:sha256:83d7f348fc1b2b05b75d9796d28ce0a7026e105cd637b170bf406ea2272b4121</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>23ブックマーク / 文部科学省は26日、令和7年度の問題行動・不登校調査の結果を公表した。今回初めて調査した「性的いじめ」は全国の学校で8158件に上った。人工知能（AI）で加工したわいせつ画像が社会問題化する中、若年層でも拡散している実態が明らかになった。SNSでの誹謗（ひぼう）中傷など「ネットいじめ」は初めて3万件を超えた。 文科省は毎年度、全国の国公私立小中高・特別支援学校で認知したいじめの件数を集計している。7年度調査では、いじめの内容で「性的な嫌</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0bb175e67683017e8032181348c2c7968ef73669/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fc7d6bfd3d20047c484707eb001e51684%2Fslide_0.jpg%3F41507159" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fe151c50afbdf7290af8475d83bf9851489ef769/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.sankei.com%2Fresizer%2Fv2%2FSFGI3FHZQJEYFN3NNQ2WOFUUZU.jpg%3Fauth%3D51f5b6b8e8e679fd59158e186e0d2a91fd678e917c70c58a5a5918e3665e3df4%26quality%3D50%26focal%3D3209%252C1711%26width%3D1200%26height%3D675" />
     </item>
     <item>
-      <title>LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2159364.html</link>
-      <guid isPermaLink="false">urn:sha256:bcf1048e3bd080ebd1a5137b2dfa3a48e38d7ff07bd926868234060a0face136</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>49ブックマーク</description>
+      <title>ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告</title>
+      <link>https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/</link>
+      <guid isPermaLink="false">urn:sha256:643ea878fa2c59bbd0bdb76c166331b4f49070547e2ada9790084df2971ce7c5</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>28ブックマーク / アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。 The New York Times warns photographers not to update Photoshop over AI features | The Verge https://www.t</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2c942bc845a91aa19573ac5c28796b3ae9dc7a07/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F364%2F1.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e96085f5339b81d416eb130117aa8c50f4b4f5e3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fnyt-warns-not-update-photoshop-ai-features%2F00.jpg" />
     </item>
     <item>
-      <title>Actual curl rewrites in rust</title>
-      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
-      <guid isPermaLink="false">urn:sha256:b79ab85b81843d686af0aa8cf05dce1904e07df7d3697cd201fa8e071c32d6f2</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>6ブックマーク / For a long time we have received repeated requests for, or questions about, a curl rewrite in rust. Often as a joke, but also seriously. A joke from years ago In this modern world of AIs, we have only been waiting for so</description>
+      <title>GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定</title>
+      <link>https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/</link>
+      <guid isPermaLink="false">urn:sha256:17df584c1c666ac5f94d3f9079ade1914fae65b8c82cfb5b2ccdfaaf4460c3e5</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>36ブックマーク / OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2 Astra Solves a Historical Mystery https://generativehistory.substack.com/p/gpt-62-astra-solves-a-histor</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5c0150791bd03474a615f20635afca480ca1d0ea/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2023%2F09%2Fold-machine.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/975cee8d00e9c550dd88bf86b76f4e7b86ab5fa4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fgpt-62-astra-solves-a-historical-mystery%2F00_m.jpg" />
     </item>
     <item>
-      <title>旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/26/news033.html</link>
-      <guid isPermaLink="false">urn:sha256:1b866237d2792ed9b34362aa3c19a616751ac82fe1a9d20b8aa41c54fc0ad3e0</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>7ブックマーク / 生成AIがホテルの検索から予約、決済まで自律的にこなす「AIエージェント」の利用に注目が集まる今、旅行会社の存在意義が根本から問われている。 円安や燃油高で日本人の海外旅行がコロナ禍前の水準に戻りきらない中、価格競争や団体ツアーの時代は終わり、一人一人の好みに合わせた高付加価値な旅が求められている。 消費者は情報収集でAIを活用している。しかし、AIは当然ながら「おいしい」という感覚を持たず、顧客の言葉の裏にある本音までは読み取れない。</description>
+      <title>AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す</title>
+      <link>https://gigazine.net/news/20261126-frostbite-cpu/</link>
+      <guid isPermaLink="false">urn:sha256:9409f37f515c91ef0240fedc73f5b22b7e4c059813362dc0d840e674eb545299</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>21ブックマーク / 半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.59倍に達したとのこと。 Introducing Frostbite: A new</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6d5f3c605fa85bd1760686677faf7d59e37e71f7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fbusiness%2Farticles%2F2611%2F26%2Fcover_news033.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/be8de1fe8c443cd75124318bd5f1b2c3fb651894/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Ffrostbite-cpu%2F00.png" />
     </item>
     <item>
-      <title>AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開</title>
-      <link>https://gigazine.net/news/20261126-anthropic-claude-api-rust/</link>
-      <guid isPermaLink="false">urn:sha256:c84de85b053c869acc2ca58abb0f0378301607b8a8a625b9c0432b1d84cba749</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>31ブックマーク / AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9月にサービスを停止することなくRust版へ移行。リクエスト当たりのCPU使用量を約70％削減することに成功しています。 Migrating our Messages API to Rust \ Ant</description>
+      <title>SSDでGPUメモリをペタバイト級に拡張、キオクシアとNVIDIAがAI向けの実証</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159567.html</link>
+      <guid isPermaLink="false">urn:sha256:50a138c56c7ede1d24cd0569c328351762032161887b30975886a17acf71cae8</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>36ブックマーク</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e5b05a511d3dd98fc0b1a7679826f56a4623f254/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fanthropic-claude-api-rust%2F00.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf5314466a761b207525c916be4b42f45875aab/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F567%2F001.jpg" />
     </item>
     <item>
-      <title>日本ファクトチェックセンターが誤情報を掲載、AI（NotebookLM）が抽出した発言を確認せず掲載</title>
-      <link>https://japan.cnet.com/article/35255447/</link>
-      <guid isPermaLink="false">urn:sha256:22776141349e825c69efae1e1ce0df703a8cbfb539fa005eff8ea69262f1c4c2</guid>
+      <title>MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev</title>
+      <link>https://dev.sin5d.com/meta-muse-usage</link>
+      <guid isPermaLink="false">urn:sha256:5515b89efb620587cf609ec50a11c2385d13901ba1d2a8d011fc27e1b3d82030</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>5ブックマーク / 日本ファクトチェックセンター（JFC）は11月25日、記事の公開前に原則として編集者2人以上の承認を求める再発防止計画と、問題の経緯をまとめた報告書を公表した。衆院選の党首討論を検証した記事に、対象の動画にはない発言を掲載したことを受けた措置だ。</description>
+      <description>449ブックマーク / XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況は今後変わる可能性がありますのでご了承ください。 Mu</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5c16afe460df26f7179999e8774285c56ea1c50b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F26%2F28899d924c15eb7764b623b512ddc19b%2Flarge.jpg" />
     </item>
     <item>
-      <title>米国の小学校で今学期になって毎日AI生成された気持ち悪い歌が放送、クラスのみんなが嫌がっているので娘が先生に話したところ「聞かなくていいよ。耳を塞いで」と言われた</title>
-      <link>https://togetter.com/li/2775074</link>
-      <guid isPermaLink="false">urn:sha256:792b7909317ead9d962ec4a74168a30102c946deb7cfdb73370a53058a71ac28</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>29ブックマーク / maiya🕊️ @mhutam03 AIをできるだけ使わないようにと指導されているはずの小学校で、今学期になってから毎日AI生成された気持ち悪い歌が放送されていてクラスのみんなが嫌がってると娘が言うので、生徒会でそれ止めるように提言しなよと言ったところ、先生に直接話してきたらしい娘が 2026-11-25 12:48:21 maiya🕊️ @mhutam03 You don’t have to listen. Just plug you</description>
+      <title>MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道</title>
+      <link>https://gigazine.net/news/20261126-muse-amazon-discuss/</link>
+      <guid isPermaLink="false">urn:sha256:038fb964763e771dfae6e61b226d6e2dda566bdfdc0e55e77bbdcd074a939242</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>24ブックマーク / AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 Exclusive: Meta and Amazon discuss ending Muse blockade; ads, search emerge as key iss</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/47d0c4ea0cf6e927c47a2d869bc2cb90df73b3d2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F83b9dc7b773ce656523ee553ff91d54f-1200x630.jpeg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5c43dcabd2c84b6e0d2311f3621825c2bd890960/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fmuse-amazon-discuss%2F00.png" />
     </item>
     <item>
-      <title>日本人の“相づちと間”を再現した会話AI「Haru-4B」を国内ベンチャーが無償公開。Sidon活用。電話で会話できる（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/11/26/5819.html</link>
-      <guid isPermaLink="false">urn:sha256:596da8ee4ac3e6635a6a861ef925f1c13ef28115fd0c51f5e7425a305772a4c5</guid>
+      <title>NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた</title>
+      <link>https://gigazine.net/news/20261126-nvidia-china-company/</link>
+      <guid isPermaLink="false">urn:sha256:412a7f2f13b001ae1bf5942ac4d9fa16d3545aca77f0423ec035925d29fd996d</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>14ブックマーク / 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、相手の声を聞きながら同時に話すことができる全二重（full-duplex）方式のSpeech-to-Speechモデル「Haru-4B」を取り上げます。従来のターン制の対話とは異なり、人間同士の会話のように相づちや発話の重なりを含んだ自然なやり取りが可能</description>
+      <description>37ブックマーク / NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, </description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ae4b9b1c6a08dd5d38407202ea3d0d5311186ecd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35891.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4bfc0ad050454568a1beb4d72c2edade1c03e7b5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fnvidia-china-company%2F00.png" />
     </item>
     <item>
-      <title>Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/</link>
-      <guid isPermaLink="false">urn:sha256:dd16aa4ee4341ecb1f65ade480f8233a46c5608c09e119631f0ecd1d843a6f7d</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>14ブックマーク / マークダウンエディタ「Obsidian」の開発チームは11月26日（日本時間）、エージェント向けの「コネクタ」機能を発表した。Obsidianの「Vault」（ファイル保管庫の単位）内の操作方法やWebページからマークダウン形式のテキストを抽出する方法、ファイル形式などをエージェントに指示するスキル集としてオープンソースで公開されている。 このスキル集を使うことで、米OpenAIの「ChatGPT」や「dots」、米Anthropicの</description>
+      <title>蚊取り線香などでお馴染みのKINCHO本社にある「蚊」のAI疑惑を晴らすべく撮影→独特な背景について尋ねたらインターネット老人が咽び泣くやつが出てきた</title>
+      <link>https://togetter.com/li/2775249</link>
+      <guid isPermaLink="false">urn:sha256:f5e4cab025f7489f495ae3463f116affc84910125e782da01bddd3e21c84f2f4</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>24ブックマーク / KINCHO 大日本除虫菊株式会社【公式】 @KINCHO_jp 本社受付に鎮座する「蚊」の写真にAI疑惑があることから、疑惑を晴らすべく、大きさ比較のためキンチョール（防除用医薬部外品）を口吻のあたりに置いて撮影してみましたが、あまり意味がない気がしています。 この巨大な鉄のオブジェは、金属彫刻家の内山翔二郎さん（@UchiyamaShojiro）の作品です。 pic.x.com/iZ03pn17B6 2026-11-19 10:14</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c6f49ab8bd91ce141c355b4fae161de2eb78ca93/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2Fogp%2F2611%2F26%2F2000003470%2F10013003%2F2048" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1f81c23cc225a515048d104919693013b7216d1d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F1e047abb6894fab0931d16bb4174ccf5-1200x630.jpeg" />
     </item>
     <item>
-      <title>GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003460/</link>
-      <guid isPermaLink="false">urn:sha256:027c302c8816d44ddd18264adcb5cc7fec26d68e06cb242302e42f1778feeddb</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>22ブックマーク / 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表</description>
+      <title>海外の音楽配信サービス、AI生成楽曲の一律禁止を発表。約2700万曲を削除へ【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2159409.html</link>
+      <guid isPermaLink="false">urn:sha256:68702fadab4ff8253b0b444213654be3ea9aeac5558bf9b7a784d142e8d0d048</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>8ブックマーク</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/107051f09d35ba6ec14d3fa994bb0f89dcedefe3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F26%2F2000003460%2F10012959%2F2048" />
-    </item>
-    <item>
-      <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
-      <link>https://gigazine.net/news/20261126-cogentic-6-research-papers/</link>
-      <guid isPermaLink="false">urn:sha256:c006cbfd1da782a45912c4030b09426bca7329131cf2a3acc8a1ea9ea248215a</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>16ブックマーク / Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 google-research/cogentic_research_papers at master · google-research/google-research · GitHub http</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/77a4662778bbb5aaf8ce0eaf0c565ba86bf5c4f8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fcogentic-6-research-papers%2F00.jpg" />
-    </item>
-    <item>
-      <title>これぞAIのゲーム活用。音声でのみ指示できるドライブゲーム「妹に運転を教える」を遊んでみた／エンジンのかけ方も忘れている妹に、何と言えば安全運転できる？【レビュー】</title>
-      <link>https://forest.watch.impress.co.jp/docs/review/2158342.html</link>
-      <guid isPermaLink="false">urn:sha256:a42bdac4b9737b2d84248e59c6d6f6b735f0bceae382614e1519a04b3f40f092</guid>
-      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>4ブックマーク</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/81b76e86951f55f02a7a81245c1f69cd89d3ff89/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F342%2F04.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1ddc84bb9b9ac4ca39d8b51e43384dbf38d6c59b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2159%2F409%2Fyajiuma-watch_3.png" />
     </item>
     <item>
       <title>自律型AIエージェント「Claude Duet」、日本でも利用可能に</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2159488.html</link>
       <guid isPermaLink="false">urn:sha256:e33a198533c8ef6f8f6bc4492ce2655e12ce6727b314aba9228e8cdcf5767b02</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>13ブックマーク</description>
+      <description>35ブックマーク</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d5364a9d49462d4ecac406a04e032ff1c1d225de/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F488%2F1.png" />
     </item>
     <item>
-      <title>Skills - Model Context Protocol</title>
-      <link>https://modelcontextprotocol.io/extensions/skills/overview</link>
-      <guid isPermaLink="false">urn:sha256:d1e4ce0c9fafe71c7b6a50d591cd513656a808f3674edd03660460f5b73e6b57</guid>
+      <title>Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/</link>
+      <guid isPermaLink="false">urn:sha256:dd16aa4ee4341ecb1f65ade480f8233a46c5608c09e119631f0ecd1d843a6f7d</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>30ブックマーク / The ext-skills repository contains the published specification for the official Skills extension (io.modelcontextprotocol/skills). SEP-2640 is Final. The Skills Over MCP Working Group maintains the extension. SDK and hos</description>
+      <description>38ブックマーク / マークダウンエディタ「Obsidian」の開発チームは11月26日（日本時間）、エージェント向けの「コネクタ」機能を発表した。Obsidianの「Vault」（ファイル保管庫の単位）内の操作方法やWebページからマークダウン形式のテキストを抽出する方法、ファイル形式などをエージェントに指示するスキル集としてオープンソースで公開されている。 このスキル集を使うことで、米OpenAIの「ChatGPT」や「dots」、米Anthropicの</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/86bb28a5d2324499af7fb8f1be6e249fd807ad56/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fraw.githubusercontent.com%2Fmodelcontextprotocol%2Fdocs%2F2eb6171ddbfeefde349dc3b8d5e2b87414c26250%2Fimages%2Fog-image.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c6f49ab8bd91ce141c355b4fae161de2eb78ca93/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2Fogp%2F2611%2F26%2F2000003470%2F10013003%2F2048" />
     </item>
     <item>
-      <title>Googleがオープンモデル「Gemma 4」のファインチューニングに役立つ情報を網羅したページを公開、ファインチューニング用スキルもあり</title>
-      <link>https://gigazine.net/news/20261126-gemma-4-fine-tune/</link>
-      <guid isPermaLink="false">urn:sha256:19c50c657a41db7bcd2928b59a6811a799a71a8b7d26516b9f5b570ea8d23874</guid>
+      <title>ChatGPTで作ったWebサイト、公開し続けると追加料金も 2027年2月から課金開始</title>
+      <link>https://ascii.jp/elem/000/004/454/4454606/</link>
+      <guid isPermaLink="false">urn:sha256:7b51604f31b10218a0372a18c4df7b9fa48b0c56cd6b517b7d3dbf675e7ef165</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>20ブックマーク / OpenAIのサイト公開機能「Sites」を利用している人は、ホスティング料金に注意が必要だ。OpenAIの公式案内によると、ホスティングは2027年1月31日まで無料で、2月1日からPlus・Pro・Businessの月間利用枠を超えた分について課金が始まる予定だ。 Sitesは、ChatGPTやCodexに指示することで、Webサイトやアプリを作成・公開できる機能。ホスティングは公開したサイトへのアクセスやデータの保存などに費用がか</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2369383fa7808203fee8033f40f4d8f7f369ffb8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fascii.jp%2Fimg%2F2026%2F11%2F25%2F4556562%2Fxl%2Fa5a0f9c89c36e9ba.png%3F20200122" />
+    </item>
+    <item>
+      <title>旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/26/news033.html</link>
+      <guid isPermaLink="false">urn:sha256:1b866237d2792ed9b34362aa3c19a616751ac82fe1a9d20b8aa41c54fc0ad3e0</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>14ブックマーク / GoogleはオープンウェイトモデルのGemma 4シリーズを公開しており、誰でも無料でダウンロードしてローカルで実行したりファインチューニングを実行したりできます。新たに、Gemma 4シリーズのファインチューニング関連情報をまとめたページが公開されました。 Fine-tune Gemma 4 models - Gemma Docs https://gemma.ai/tuning/ Want to fine-tune Gemma 4 </description>
+      <description>18ブックマーク / 生成AIがホテルの検索から予約、決済まで自律的にこなす「AIエージェント」の利用に注目が集まる今、旅行会社の存在意義が根本から問われている。 円安や燃油高で日本人の海外旅行がコロナ禍前の水準に戻りきらない中、価格競争や団体ツアーの時代は終わり、一人一人の好みに合わせた高付加価値な旅が求められている。 消費者は情報収集でAIを活用している。しかし、AIは当然ながら「おいしい」という感覚を持たず、顧客の言葉の裏にある本音までは読み取れない。</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fafa315825ae5d77f6e18eed888131c0484ae057/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fgemma-4-fine-tune%2F00.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6d5f3c605fa85bd1760686677faf7d59e37e71f7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fbusiness%2Farticles%2F2611%2F26%2Fcover_news033.jpg" />
     </item>
     <item>
-      <title>「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース</title>
-      <link>https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</link>
-      <guid isPermaLink="false">urn:sha256:a2b47c78d79b4c879ede362c56598072454b56ab653e3f205d4ef9535d1a18ad</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>56ブックマーク / Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しました。 下記は、Alphabet傘下でGoogleのAI研究開発を行っているGoogle Deepmind所属のPhilipp Schmid氏のポストです。 Google Workspace MCP s</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/52e96f67d5920d49ab4803c559cf09de17a4cd43/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2FHX6RoD8WUAAqFeu.jpg" />
-    </item>
-    <item>
-      <title>ChordTube - YouTube の曲のコード進行・キー・BPM</title>
-      <link>https://chordtube.net/</link>
-      <guid isPermaLink="false">urn:sha256:537775c462773d7bdeb3c355627624f95b4ff2b47bbb05e5784551a4eab78003</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>116ブックマーク / コード・キー・拍は AI の自動推定と利用者の編集によるもので、正確とは限りません。動画は YouTube の埋め込みで再生しています。</description>
-      <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e22f20c462150344c1ada0b82e832283fc0dbfca/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fchordtube.net%2Fopengraph-image-35zd74%3Fc42920cf5755756a" />
-    </item>
-    <item>
-      <title>「Gemini Notebook」でノートや調査資料からインタラクティブなサイトを生成可能に／</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2159542.html</link>
-      <guid isPermaLink="false">urn:sha256:2dd4954a7adc7c77d6afd361f009171b3f0b75f388ee0482833523dab5bc9654</guid>
+      <title>飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003447/</link>
+      <guid isPermaLink="false">urn:sha256:71a1cc62315372023135b9e133830032c45cc11f0d8d619b33e3dbc42fc57e08</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>4ブックマーク</description>
+      <description>38ブックマーク / 生成AIを使えば、商品の撮影や画像制作にかかる手間を減らし、さまざまなイメージ画像を手軽に作成できます。一方で、こうした画像については、SNSなどで「実際の商品と違うのではないか」「景品表示法上、問題はないのか」といった疑問も見られます。 今回は、飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について、考えてみましょう。 前野孝太朗（まえの・こうたろう）弁護士（第二東京弁護士会）。シテ</description>
       <category>AI・機械学習</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/817a2651bcbb10adfd4cc2ad2f3afa0908d39336/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2159%2F542%2F01.jpg" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7b740ce6aa84a763ca4f27301471885ef4550181/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F26%2F2000003447%2F10012933%2F2048" />
+    </item>
+    <item>
+      <title>日本人の“相づちと間”を再現した会話AI「Haru-4B」を国内ベンチャーが無償公開。Sidon活用。電話で会話できる（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/26/5819.html</link>
+      <guid isPermaLink="false">urn:sha256:596da8ee4ac3e6635a6a861ef925f1c13ef28115fd0c51f5e7425a305772a4c5</guid>
+      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
+      <description>27ブックマーク / 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、相手の声を聞きながら同時に話すことができる全二重（full-duplex）方式のSpeech-to-Speechモデル「Haru-4B」を取り上げます。従来のターン制の対話とは異なり、人間同士の会話のように相づちや発話の重なりを含んだ自然なやり取りが可能</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ae4b9b1c6a08dd5d38407202ea3d0d5311186ecd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.techno-edge.net%2Fimgs%2Fogp_f%2F35891.jpg" />
+    </item>
+    <item>
+      <title>日本ファクトチェックセンターが誤情報、AI（NotebookLM）が抽出した発言を確認せず掲載</title>
+      <link>https://japan.cnet.com/article/35255447/</link>
+      <guid isPermaLink="false">urn:sha256:22776141349e825c69efae1e1ce0df703a8cbfb539fa005eff8ea69262f1c4c2</guid>
+      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
+      <description>12ブックマーク / 日本ファクトチェックセンター（JFC）は11月25日、記事の公開前に原則として編集者2人以上の承認を求める再発防止計画と、問題の経緯をまとめた報告書を公表した。衆院選の党首討論を検証した記事に、対象の動画にはない発言を掲載したことを受けた措置だ。</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5c16afe460df26f7179999e8774285c56ea1c50b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2026%2F11%2F26%2F28899d924c15eb7764b623b512ddc19b%2Flarge.jpg" />
+    </item>
+    <item>
+      <title>「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁金を科す」という法律がオーストラリアで成立</title>
+      <link>https://gigazine.net/news/20261126-digital-duty-of-care-australia/</link>
+      <guid isPermaLink="false">urn:sha256:c2ce41789864a77ca70adf07842546daf5176223d1c4eda07f428f6c5d6295e9</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>12ブックマーク / オーストラリア議会が「デジタル注意義務法(Digital Duty of Care Act)」を可決しました。ネット上で被害を受けた場合、これまで個人が対応するのは難しく行政による執行を待つことになっていましたが、デジタル注意義務法は個人が直接訴える権利を認めるもので、被害を受けた人はサービス運営企業をオーストラリアの裁判所に直接訴えることが可能になります。違反が認められた際の制裁金は最大で全世界売上高の5％となっています。 Digit</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ae30cb5d8695e49225490ebbf8a24034aa3a93f2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fdigital-duty-of-care-australia%2F00.jpg" />
+    </item>
+    <item>
+      <title>深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘</title>
+      <link>https://gigazine.net/news/20261126-nvidia-chip-china/</link>
+      <guid isPermaLink="false">urn:sha256:225d8f89ae593c8945cbc73d57caabc754d344b59185f380d0a5e8f9b67ff554</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>9ブックマーク / 中国・深センの電気街・華強北市場で、アメリカにより規制されているはずのNVIDIA製品が出回っているとワシントン・ポストの記者が報告しました。 Top Nvidia chips still for sale in China, despite U.S. ban - The Washington Post https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-ar</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/06c4d11db6d884b3ec5652f3bb5c6434590b0f21/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fnvidia-chip-china%2F00.jpg" />
+    </item>
+    <item>
+      <title>手書き文字やスケッチを生成できるAIモデル「PenGPT」</title>
+      <link>https://gigazine.net/news/20261126-pengpt/</link>
+      <guid isPermaLink="false">urn:sha256:dc72a9d0ec0ee15127fd984435a8d2612247c7a5c8c52e3b14bfac405cbfd149</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>11ブックマーク / テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。 PenGPT: A Generative Transformer for Handwriting and Sketches https://greydanus.github.io/2026/11/12/pengpt/ PenGPTは1255人の筆者による49万5590語の手書きデータおよび10の公開デー</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1474108884fda556307a382100606ffabb716857/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fpengpt%2F00.jpg" />
+    </item>
+    <item>
+      <title>Actual curl rewrites in rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <guid isPermaLink="false">urn:sha256:b79ab85b81843d686af0aa8cf05dce1904e07df7d3697cd201fa8e071c32d6f2</guid>
+      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
+      <description>11ブックマーク / For a long time we have received repeated requests for, or questions about, a curl rewrite in rust. Often as a joke, but also seriously. A joke from years ago In this modern world of AIs, we have only been waiting for so</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/5c0150791bd03474a615f20635afca480ca1d0ea/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fdaniel.haxx.se%2Fblog%2Fwp-content%2Fuploads%2F2023%2F09%2Fold-machine.jpg" />
+    </item>
+    <item>
+      <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
+      <link>https://gigazine.net/news/20261126-cogentic-6-research-papers/</link>
+      <guid isPermaLink="false">urn:sha256:c006cbfd1da782a45912c4030b09426bca7329131cf2a3acc8a1ea9ea248215a</guid>
+      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
+      <description>22ブックマーク / Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 google-research/cogentic_research_papers at master · google-research/google-research · GitHub http</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/77a4662778bbb5aaf8ce0eaf0c565ba86bf5c4f8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F26%2Fcogentic-6-research-papers%2F00.jpg" />
+    </item>
+    <item>
+      <title>GitHub - lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis</title>
+      <link>https://github.com/lsernau/grh-lean</link>
+      <guid isPermaLink="false">urn:sha256:d0f42301425834014aa9bd7d6aa49fe102bc795a087c488b2455cf08d99a303e</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>12ブックマーク / You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your se</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/24ac599251ff8abf5d63cc2785be3979f03c582a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2F4280692d8a81fb9bfe4be3fa2c9da8c456b0ae456d346b642e4aceaac8a5c48c%2Flsernau%2Fgrh-lean" />
     </item>
     <item>
       <title>1Passwordへの不正アクセスについてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/26/153937</link>
       <guid isPermaLink="false">urn:sha256:7b87a802b1b1a5b26345c8c6f819cdb1cf5210cba8e3498efdb36169a088f962</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>62ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
+      <description>152ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/48c570313a8d3bd2633006fa0b634377fc185e85/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035344322576%2F1795675177" />
+    </item>
+    <item>
+      <title>Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape</title>
+      <link>https://www.keisuke69.net/entry/2026/11/26/085248</link>
+      <guid isPermaLink="false">urn:sha256:ab6141a8d3e0396c1e37076801a0bf822d9e518921a04e6790f3fa6617565b9e</guid>
+      <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
+      <description>117ブックマーク / 今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたいと思ったときは、LLMプロバイダが直接出しているAPIの方が使い勝手がいい。最新モデルをすぐ試せるし、ドキュメントもS</description>
+      <category>AI・機械学習</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82fba42bc0fbe0e9cadf6af1d6cb5d83f30d778a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12921228815714502489%2F14945776032073236520%2F1795650768" />
     </item>
     <item>
       <title>自分用の PaaS アプリを作った - tricknotesのぼうけんのしょ</title>
       <link>https://tricknotes.hateblo.jp/entry/2026/11/26/000000</link>
       <guid isPermaLink="false">urn:sha256:a01ef3278e7edbd250b0559942c5e667eb19d5ef7dbfaefb1c013374af0319a0</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>17ブックマーク / これまでアイディアだけはある状態だったウェブアプリの開発が AI パワーで捗っているのですが、さすがにデプロイ環境に困ってきたので PaaS アプリを作りました。 1台の VPS に載せて、アプリの Docker Compose をベースに動かすというシンプルな作りにしています。 github.com 私と同じく、たくさんウェブアプリ作るけどデプロイのコストが、、、と悩んでいる奇特な方がいたら試して（あわよくば FB くれると）嬉しいで</description>
+      <description>21ブックマーク / これまでアイディアだけはある状態だったウェブアプリの開発が AI パワーで捗っているのですが、さすがにデプロイ環境に困ってきたので PaaS アプリを作りました。 1台の VPS に載せて、アプリの Docker Compose をベースに動かすというシンプルな作りにしています。 github.com 私と同じく、たくさんウェブアプリ作るけどデプロイのコストが、、、と悩んでいる奇特な方がいたら試して（あわよくば FB くれると）嬉しいで</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0d196a620dc1a11c954618614370ee448815881f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F04a5bc4d965d3f6b150a7f57a00f9721cdf76642%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ft%252Ftricknotes%252F20261126%252F20261126021937.png" />
     </item>
@@ -289,7 +298,7 @@
       <link>https://onk.hatenablog.jp/entry/2026/11/25/022804</link>
       <guid isPermaLink="false">urn:sha256:7c61db760d82b88b95f456b1b7f92bc2f2f52d761fd386bb09f1425c3688e4c7</guid>
       <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>208ブックマーク / コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要があるかを考えさせて、取捨選択した上で文章にする。 実際の例 Claude に gh-aw を更新してもらったときの話。 gh-aw を v0.</description>
+      <description>209ブックマーク / コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要があるかを考えさせて、取捨選択した上で文章にする。 実際の例 Claude に gh-aw を更新してもらったときの話。 gh-aw を v0.</description>
       <category>AI・機械学習</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ce1c2aa5ed71d5611e25f555daf315d9d9632156/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F17391345971631172524%2F14729835035343576732%2F1795586547" />
     </item>

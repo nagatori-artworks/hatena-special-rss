@@ -7,31 +7,40 @@
     <language>ja</language>
     <generator>PersonalHatenaRSS</generator>
     <item>
-      <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
-      <link>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</link>
-      <guid isPermaLink="false">urn:sha256:5487b002bc0fcc4bf1b6f927f7d2300b0006a3dc831a74cad8d829afe9ff8569</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
-      <description>398ブックマーク / text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。 1. text-autospace — 和欧間のスペース 「日本語とabcの間」に八分アキ（</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/aeef046d90ee926a47ca02489de1388bc60558b5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY5MjIxMSUyRmVkZjY0YmE1M2ViMjI0MzE2NzYzMTExNDE4MjUyZmJiZmIyYThlNjklMkZ4X2xhcmdlLnBuZyUzRjE3ODQzMjgyNzA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4MDFhMWVlOTEyOWNiYjBmZmFlMWVhYWM4MTA2MDU4%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253D762d93d6c73c3803ff6671065db5b342%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUE3JUU2JThDJTg3JUU1JUFFJTlBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJThBJUUzJTgxJThEJUUzJTgxJTlGJUUzJTgxJTg0Q1NTJTIwMjAyNiVFNSVCOSVCNCVFNyU4OSU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUwZWMwYzRlODQ5MTBkZWI3MzZiMjBkYjYxYzJjNWY2%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b2Z1X2Zyb250ZW5kJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmUzMTk2NDZiNDVmY2I3NGFiYjllNzkxMDY1YzE1NTY%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D664a09e032c9cdc10fa3537a0655b2bc" />
-    </item>
-    <item>
       <title>CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる</title>
       <link>https://anond.hatelabo.jp/20261126144022</link>
       <guid isPermaLink="false">urn:sha256:b8356d4cf29d267faaeb1fad4efa140ba821d56dd682dbe90878bf4dc077f508</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>65ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
+      <description>177ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
     </item>
     <item>
-      <title>適切な時に、適切な場所にいた──RPGの礎を築いた『Wizardry』の生みの親、ロバート・ウッドヘッドが振り返る45年の歳月</title>
-      <link>https://news.denfaminicogamer.jp/interview/261125w</link>
-      <guid isPermaLink="false">urn:sha256:fc671d0d3876f94f77db772bd51054fe8549e62372986c94a7157bb787b314ab</guid>
-      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>216ブックマーク / いま世界で親しまれているロールプレイングゲーム（RPG）は、元を辿れば一本の源流に行き着く。1981年、Apple II向けに初登場した『Wizardry』である。 ©Drecom Co.,Ltd. Wizardry™ is a trademark of Drecom Co.,Ltd.パーティを組み、ダンジョンに足を踏み入れ、モンスターと戦い、アイテムを入手し、キャラクターをレベルアップ──いまでは当たり前となったこれらの遊びは、このW</description>
+      <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
+      <link>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</link>
+      <guid isPermaLink="false">urn:sha256:5487b002bc0fcc4bf1b6f927f7d2300b0006a3dc831a74cad8d829afe9ff8569</guid>
+      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
+      <description>437ブックマーク / text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。 1. text-autospace — 和欧間のスペース 「日本語とabcの間」に八分アキ（</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/524ba6a98d6fd1c4bfabe0bb166de4da61846722/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnews.denfaminicogamer.jp%2Fwp-content%2Fuploads%2F2027%2F11%2F2d95e756ea30d2a29f3baf1499aff9fe-1-1024x576.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/aeef046d90ee926a47ca02489de1388bc60558b5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY5MjIxMSUyRmVkZjY0YmE1M2ViMjI0MzE2NzYzMTExNDE4MjUyZmJiZmIyYThlNjklMkZ4X2xhcmdlLnBuZyUzRjE3ODQzMjgyNzA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4MDFhMWVlOTEyOWNiYjBmZmFlMWVhYWM4MTA2MDU4%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253D762d93d6c73c3803ff6671065db5b342%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUE3JUU2JThDJTg3JUU1JUFFJTlBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJThBJUUzJTgxJThEJUUzJTgxJTlGJUUzJTgxJTg0Q1NTJTIwMjAyNiVFNSVCOSVCNCVFNyU4OSU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUwZWMwYzRlODQ5MTBkZWI3MzZiMjBkYjYxYzJjNWY2%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b2Z1X2Zyb250ZW5kJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmUzMTk2NDZiNDVmY2I3NGFiYjllNzkxMDY1YzE1NTY%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D664a09e032c9cdc10fa3537a0655b2bc" />
+    </item>
+    <item>
+      <title>Migrating our Messages API to Rust</title>
+      <link>https://www.anthropic.com/research/migrating-api-to-rust</link>
+      <guid isPermaLink="false">urn:sha256:69fbec9981f84b435a9deadb2f44143e2e52e655849d0255056557c8b934cbaf</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>37ブックマーク / Many problems have a generator–verifier gap: it’s often far easier to verify that a solution is correct than to come up with one. Sudoku is a classic example. It’s simple to check the solution (just count the numbers in </description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c7da7a2862e1766faf901686b6c37d915ccf539e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.claude.com%2Ffaac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" />
+    </item>
+    <item>
+      <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
+      <link>https://zenn.dev/codehex/articles/33bc6ee330b880</link>
+      <guid isPermaLink="false">urn:sha256:1ddd6dbfd46e1f2550c8a8a3a81ec081fde8d2e54d5478185862355728a82976</guid>
+      <pubDate>Thu, 26 Nov 2026 00:21:34 +0000</pubDate>
+      <description>60ブックマーク / Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそう...?） そして、これを見てください</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/e5d5fdb477d2eac650a023ab405ea55f1aff142c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--2zGwRczT--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252580%252590%2525E8%252587%2525AA%2525E5%25258B%252595%2525E5%25258C%252596%2525E3%252580%252591Muse%252520%2525E3%252581%2525AE%2525E3%252582%2525B5%2525E3%252582%2525A4%2525E3%252583%252589%2525E3%252583%252581%2525E3%252583%2525A3%2525E3%252583%252583%2525E3%252583%252588%2525E3%252581%2525B8%252520Webhook%252520%2525E3%252582%252592%2525E5%2525B1%25258A%2525E3%252581%252591%2525E3%252582%25258B%252520MuseKnock%252520%2525E3%252581%2525AE%2525E4%2525BB%252595%2525E7%2525B5%252584%2525E3%252581%2525BF%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Acodehex%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1ZWY0NmIwNWMuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される</title>
@@ -52,15 +61,6 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bcde90a1f5fea12e78319560e4f93542ea4d20a0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2611%2F24%2Fcover_news015.jpg" />
     </item>
     <item>
-      <title>C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrapbox</title>
-      <link>https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0</link>
-      <guid isPermaLink="false">urn:sha256:590a9f9c4f3eeb15fe04eb3f08f45467d5817f729ba023a0f5df4f59bd4b80f1</guid>
-      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>117ブックマーク / PHP、Nginx、Ruby、Node.jsなど、あらゆる場所でCriticalな脆弱性の報告が止まらない そしてその多くが、C言語に起因する、『メモリ破壊』系のバグである 「もうCとか使わなきゃいいのに」と、多くのプログラマがため息交じりに呆れている だが待ってほしい。それは思考停止ではないのか C＝悪と刷り込まれすぎて、本質を知らずにいないか なぜCが危険なのか、なぜメモリ破壊が起きるのか、なぜメモリが破壊されるとRCEが起きるのか</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c0a46f9f2a71b85afeef315d527e28f69a31a62d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fscrapbox.io%2Ffiles%2F6b05728a87cd2a4723eb3163.png%3Ftype%3Dthumbnail" />
-    </item>
-    <item>
       <title>@iwashi86 のポスト on X（2026-11-24 12:00） / X</title>
       <link>https://x.com/iwashi86/status/2125061867399680139</link>
       <guid isPermaLink="false">urn:sha256:a598b6fcd4d924e28aa1112fc505e18f75a3a38cd5f12c7a4eca1988d4ea7d70</guid>
@@ -69,13 +69,22 @@
       <category>プログラミング</category>
     </item>
     <item>
-      <title>AIハーネスは第3世代へ。自己改善するハーネスの全体像</title>
-      <link>https://zenn.dev/knowledgesense/articles/68128456fe7d28</link>
-      <guid isPermaLink="false">urn:sha256:4b5e413202b44048c14e725e583223c5a38d0ca997637b71685a9a30758cfa8d</guid>
+      <title>適切な時に、適切な場所にいた──RPGの礎を築いた『Wizardry』の生みの親、ロバート・ウッドヘッドが振り返る45年の歳月</title>
+      <link>https://news.denfaminicogamer.jp/interview/261125w</link>
+      <guid isPermaLink="false">urn:sha256:fc671d0d3876f94f77db772bd51054fe8549e62372986c94a7157bb787b314ab</guid>
       <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>206ブックマーク / 本記事では、AIエージェントの実行基盤である「ハーネス」の最新トレンドについて、ざっくり理解します。株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「自己改善するAIエージェントハーネス」の全体像を整理した論文[1]について、日本語で簡単にまとめたものです。この論文は、Googleの研究者らによって、2026年11月に発表されました。 </description>
+      <description>216ブックマーク / いま世界で親しまれているロールプレイングゲーム（RPG）は、元を辿れば一本の源流に行き着く。1981年、Apple II向けに初登場した『Wizardry』である。 ©Drecom Co.,Ltd. Wizardry™ is a trademark of Drecom Co.,Ltd.パーティを組み、ダンジョンに足を踏み入れ、モンスターと戦い、アイテムを入手し、キャラクターをレベルアップ──いまでは当たり前となったこれらの遊びは、このW</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa22464450a1e87bea6100b5dfe0b0c01f0c3c87/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--bsJIh1fK--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAI%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AF%2525E7%2525AC%2525AC3%2525E4%2525B8%252596%2525E4%2525BB%2525A3%2525E3%252581%2525B8%2525E3%252580%252582%2525E8%252587%2525AA%2525E5%2525B7%2525B1%2525E6%252594%2525B9%2525E5%252596%252584%2525E3%252581%252599%2525E3%252582%25258B%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AE%2525E5%252585%2525A8%2525E4%2525BD%252593%2525E5%252583%25258F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3AAtsushi%252520Kadowaki%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252583%25258A%2525E3%252583%2525AC%2525E3%252583%252583%2525E3%252582%2525B8%2525E3%252582%2525BB%2525E3%252583%2525B3%2525E3%252582%2525B9%252520-%252520%2525E7%252594%25259F%2525E6%252588%252590AI%2525E3%252581%2525A8RAG%2525E3%252581%2525AE%2525E5%2525AE%25259F%2525E8%2525A3%252585...%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/524ba6a98d6fd1c4bfabe0bb166de4da61846722/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnews.denfaminicogamer.jp%2Fwp-content%2Fuploads%2F2027%2F11%2F2d95e756ea30d2a29f3baf1499aff9fe-1-1024x576.png" />
+    </item>
+    <item>
+      <title>C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrapbox</title>
+      <link>https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0</link>
+      <guid isPermaLink="false">urn:sha256:590a9f9c4f3eeb15fe04eb3f08f45467d5817f729ba023a0f5df4f59bd4b80f1</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>120ブックマーク / PHP、Nginx、Ruby、Node.jsなど、あらゆる場所でCriticalな脆弱性の報告が止まらない そしてその多くが、C言語に起因する、『メモリ破壊』系のバグである 「もうCとか使わなきゃいいのに」と、多くのプログラマがため息交じりに呆れている だが待ってほしい。それは思考停止ではないのか C＝悪と刷り込まれすぎて、本質を知らずにいないか なぜCが危険なのか、なぜメモリ破壊が起きるのか、なぜメモリが破壊されるとRCEが起きるのか</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c0a46f9f2a71b85afeef315d527e28f69a31a62d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fscrapbox.io%2Ffiles%2F6b05728a87cd2a4723eb3163.png%3Ftype%3Dthumbnail" />
     </item>
     <item>
       <title>Deploying agents safely in your enterprise | Google Cloud Blog</title>
@@ -87,22 +96,22 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fab7420440433b238c3c1387f7746e30a43a828f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2FSecurity__Identity.max-2500x2500.jpg" />
     </item>
     <item>
-      <title>個人開発 with AI</title>
-      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
-      <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>602ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
       <title>「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
       <link>https://forest.watch.impress.co.jp/docs/news/2158479.html</link>
       <guid isPermaLink="false">urn:sha256:58dfe5bcdd22e63b4cd89526e45506c4ad30b6aa59bd7da6fdb45f0ad6db4d2d</guid>
       <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>14ブックマーク</description>
+      <description>15ブックマーク</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/28dca863a6f888d135b18b158a1b8dce79f9671b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F479%2Fphp.jpg" />
+    </item>
+    <item>
+      <title>AIハーネスは第3世代へ。自己改善するハーネスの全体像</title>
+      <link>https://zenn.dev/knowledgesense/articles/68128456fe7d28</link>
+      <guid isPermaLink="false">urn:sha256:4b5e413202b44048c14e725e583223c5a38d0ca997637b71685a9a30758cfa8d</guid>
+      <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
+      <description>209ブックマーク / 本記事では、AIエージェントの実行基盤である「ハーネス」の最新トレンドについて、ざっくり理解します。株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「自己改善するAIエージェントハーネス」の全体像を整理した論文[1]について、日本語で簡単にまとめたものです。この論文は、Googleの研究者らによって、2026年11月に発表されました。 </description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fa22464450a1e87bea6100b5dfe0b0c01f0c3c87/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--bsJIh1fK--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAI%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AF%2525E7%2525AC%2525AC3%2525E4%2525B8%252596%2525E4%2525BB%2525A3%2525E3%252581%2525B8%2525E3%252580%252582%2525E8%252587%2525AA%2525E5%2525B7%2525B1%2525E6%252594%2525B9%2525E5%252596%252584%2525E3%252581%252599%2525E3%252582%25258B%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E3%252581%2525AE%2525E5%252585%2525A8%2525E4%2525BD%252593%2525E5%252583%25258F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3AAtsushi%252520Kadowaki%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E3%252583%25258A%2525E3%252583%2525AC%2525E3%252583%252583%2525E3%252582%2525B8%2525E3%252582%2525BB%2525E3%252583%2525B3%2525E3%252582%2525B9%252520-%252520%2525E7%252594%25259F%2525E6%252588%252590AI%2525E3%252581%2525A8RAG%2525E3%252581%2525AE%2525E5%2525AE%25259F%2525E8%2525A3%252585...%252Cx_220%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>Rubyを安心して使い続けるために</title>
@@ -112,6 +121,15 @@
       <description>75ブックマーク / Rubyを安心して使い続けるために AIの登場によりソフトウェアを取り巻く状況が変化しています。AIを使えば、ソフトウェアの脆弱性を見つけることも、見つけた脆弱性を攻撃に使うことも、これまでよりはるかに速くできるようになりました。かつては公表から悪用まで数週間から数か月の猶予がありましたが、いまでは数日、場合によっては数時間で攻撃が始まるようになりました。最近も広く使われているソフトウェアで深刻な脆弱性が見つかり、大きく報じられています</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/64fa3bf158068cb135abbc16e871c708e783b7df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.ruby.or.jp%2Fassets%2Fimages%2Fcommon%2Fra-logo3.png" />
+    </item>
+    <item>
+      <title>個人開発 with AI</title>
+      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
+      <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>608ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
@@ -127,7 +145,7 @@
       <link>https://forest.watch.impress.co.jp/docs/news/2158563.html</link>
       <guid isPermaLink="false">urn:sha256:204fede4443fcb05be206bf3a27c60f715c363e45fa5aa06c51e6f666beb3298</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>20ブックマーク</description>
+      <description>21ブックマーク</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d209af757ba210e988bad57d5a48f393702353c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F563%2Fspeedyfox.jpg" />
     </item>
@@ -136,16 +154,16 @@
       <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</link>
       <guid isPermaLink="false">urn:sha256:20e17f3578f9fbb91471daa4668495a05a712e2a2c131b3daf9491f0c7ddecb7</guid>
       <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>155ブックマーク / 開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</description>
+      <description>156ブックマーク / 開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</description>
       <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bc0b8063961b97b7591a916f826039ee0f072243/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyJLEOvs2xUByYQygeTsSi83YNN2i8DlcTMhQwDdW5hiIx0tbv7v7Qvz-7YBaTz6GPgdzPoX0LSpol5EryEFBIyrU7DWtGVWLEs7QFVh_btsZl7jyMwI%3Dw1200-h630-p" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9f242558dda0080c03e75a6fe1996c7166d93a38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyJNkkJxjjb_MohWeRCvVYuX9W0nQo92dp8cvP45dx7a6M2EPnaQp1_N2SVRd-NsQcKQNc3dvnZ9_xlYsogecWQtkoJ0qr14ZgazYT08MLhQjkWKYYJf%3Dw1200-h630-p" />
     </item>
     <item>
       <title>ソフトウェアファクトリーを前提に、サービス開発はどう変わるか｜すてぃお</title>
       <link>https://note.com/suthio/n/n91e27ebb133d</link>
       <guid isPermaLink="false">urn:sha256:bc9e893f332985510edb237bb33ad7b32a4330b3aaf1b637f309f0f74dbf3918</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>36ブックマーク / 前提DORAの2025年レポートは、AIはチームにもともとある強みと弱みを増幅すると報告しています。Faros AIの調査でも、AIの利用が進むチームでは、マージされるPRが増える一方、レビュー時間も長くなっていました。 DORAレポートの2025年版が出た。AIは増幅器であり、組織の能力を映す鏡。高パフォーマンス組織の強みを増幅し、より速く革新的にする。低パフォーマンス組織の機能不全を増幅し、さらなる混乱と不安定さを生み出す。AI導入</description>
+      <description>38ブックマーク / 前提DORAの2025年レポートは、AIはチームにもともとある強みと弱みを増幅すると報告しています。Faros AIの調査でも、AIの利用が進むチームでは、マージされるPRが増える一方、レビュー時間も長くなっていました。 DORAレポートの2025年版が出た。AIは増幅器であり、組織の能力を映す鏡。高パフォーマンス組織の強みを増幅し、より速く革新的にする。低パフォーマンス組織の機能不全を増幅し、さらなる混乱と不安定さを生み出す。AI導入</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3b0632ce8c2da98ae6857941d9acfaa20cc09787/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F340045530%2Frectangle_large_type_2_cd8b8911ac99bc894615549fe11eb059.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" />
     </item>
@@ -190,7 +208,7 @@
       <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
       <guid isPermaLink="false">urn:sha256:2ec1ea251c5860cdccb8ab3d7ec61660e5b2b0e558e73edba95ce98080862bcc</guid>
       <pubDate>Tue, 24 Nov 2026 17:46:41 +0000</pubDate>
-      <description>159ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
+      <description>160ブックマーク / こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lea</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/651c79c2c088d552fe0e9ee4f1065286923d3be8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa5586fea0814f2bb0a1a03be828051a2f20608e9%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fm%252Fm3tech%252F20261124%252F20261124130234.jpg" />
     </item>
@@ -235,7 +253,7 @@
       <link>https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112</link>
       <guid isPermaLink="false">urn:sha256:41146aac9426dc2fd06f915df274ad31cbb6b7b0c0f026bf985b32fc4a9d0312</guid>
       <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
-      <description>154ブックマーク / ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AI</description>
+      <description>155ブックマーク / ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AI</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f68407c41ea8655ed5b5f0ea688e0f24dd2b481c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704591929884060267%2F14729835035342809218%2F1795424457" />
     </item>
@@ -249,29 +267,11 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ef15e97684872d4186aa181a398345a5984171cc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fd12dc330389b46888c1f1657e3c87912%2Fslide_0.jpg%3F41387258" />
     </item>
     <item>
-      <title>優秀な人が小さくまとまる現象 - pospomeのプログラミング日記</title>
-      <link>https://www.pospome.work/entry/2026/11/23/125036</link>
-      <guid isPermaLink="false">urn:sha256:c0564206e1c7a166c0f5078db3e8276aaf91eed5aba1f391befdb4d310f68138</guid>
-      <pubDate>Mon, 23 Nov 2026 07:40:06 +0000</pubDate>
-      <description>159ブックマーク / 株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) エンジニアに限らずですが、優秀な人ほど物事を進める際のリスクを認識できるようになります。経験を積むと「これをやるとこうなりそうだな」という予測が立つようになるので、それ自体はとても良いことです。 ただ、過度にリスクを避けた結果、できることしかやらない人になってしまうことがあります。失敗しないので一見優秀に見えるんですけど、失敗の経験を積めないので成長が限</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/200c8ebd53bc639c9f3925014f9cdf97a2bb66b6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10328749687199202561%2F14729835035342785789%2F1795405836" />
-    </item>
-    <item>
-      <title>なぜ今形式検証なのか</title>
-      <link>https://zenn.dev/ncdc/articles/dcec80b0c067b0</link>
-      <guid isPermaLink="false">urn:sha256:34e9241eb4cfbd5ab1cafc402e2b0e2ae50a57a9b8bfd012cd7f5a5e9d5bb75a</guid>
-      <pubDate>Mon, 23 Nov 2026 20:14:39 +0000</pubDate>
-      <description>149ブックマーク / 形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様を満たすことを証明します。 NIST「f</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/3cb0b3ebb9d01107fb415f3d28b62eb7ef090527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--vq6GOiY1--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E4%2525BB%25258A%2525E5%2525BD%2525A2%2525E5%2525BC%25258F%2525E6%2525A4%25259C%2525E8%2525A8%2525BC%2525E3%252581%2525AA%2525E3%252581%2525AE%2525E3%252581%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3Asenna%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3ANCDC%252520%2525E3%252583%252586%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%252596%2525E3%252583%2525AD%2525E3%252582%2525B0%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0Y2Q1YzNjZjEuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
       <title>1Passwordへの不正アクセスについてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/26/153937</link>
       <guid isPermaLink="false">urn:sha256:7b87a802b1b1a5b26345c8c6f819cdb1cf5210cba8e3498efdb36169a088f962</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>62ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
+      <description>152ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/48c570313a8d3bd2633006fa0b634377fc185e85/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035344322576%2F1795675177" />
     </item>
@@ -280,7 +280,7 @@
       <link>https://www.keisuke69.net/entry/2026/11/26/085248</link>
       <guid isPermaLink="false">urn:sha256:ab6141a8d3e0396c1e37076801a0bf822d9e518921a04e6790f3fa6617565b9e</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>96ブックマーク / 今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたいと思ったときは、LLMプロバイダが直接出しているAPIの方が使い勝手がいい。最新モデルをすぐ試せるし、ドキュメントもS</description>
+      <description>117ブックマーク / 今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたいと思ったときは、LLMプロバイダが直接出しているAPIの方が使い勝手がいい。最新モデルをすぐ試せるし、ドキュメントもS</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/82fba42bc0fbe0e9cadf6af1d6cb5d83f30d778a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12921228815714502489%2F14945776032073236520%2F1795650768" />
     </item>
@@ -289,7 +289,7 @@
       <link>https://tricknotes.hateblo.jp/entry/2026/11/26/000000</link>
       <guid isPermaLink="false">urn:sha256:a01ef3278e7edbd250b0559942c5e667eb19d5ef7dbfaefb1c013374af0319a0</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>17ブックマーク / これまでアイディアだけはある状態だったウェブアプリの開発が AI パワーで捗っているのですが、さすがにデプロイ環境に困ってきたので PaaS アプリを作りました。 1台の VPS に載せて、アプリの Docker Compose をベースに動かすというシンプルな作りにしています。 github.com 私と同じく、たくさんウェブアプリ作るけどデプロイのコストが、、、と悩んでいる奇特な方がいたら試して（あわよくば FB くれると）嬉しいで</description>
+      <description>21ブックマーク / これまでアイディアだけはある状態だったウェブアプリの開発が AI パワーで捗っているのですが、さすがにデプロイ環境に困ってきたので PaaS アプリを作りました。 1台の VPS に載せて、アプリの Docker Compose をベースに動かすというシンプルな作りにしています。 github.com 私と同じく、たくさんウェブアプリ作るけどデプロイのコストが、、、と悩んでいる奇特な方がいたら試して（あわよくば FB くれると）嬉しいで</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/0d196a620dc1a11c954618614370ee448815881f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F04a5bc4d965d3f6b150a7f57a00f9721cdf76642%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ft%252Ftricknotes%252F20261126%252F20261126021937.png" />
     </item>
@@ -298,7 +298,7 @@
       <link>https://onk.hatenablog.jp/entry/2026/11/25/022804</link>
       <guid isPermaLink="false">urn:sha256:7c61db760d82b88b95f456b1b7f92bc2f2f52d761fd386bb09f1425c3688e4c7</guid>
       <pubDate>Wed, 25 Nov 2026 14:23:54 +0000</pubDate>
-      <description>208ブックマーク / コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要があるかを考えさせて、取捨選択した上で文章にする。 実際の例 Claude に gh-aw を更新してもらったときの話。 gh-aw を v0.</description>
+      <description>209ブックマーク / コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要があるかを考えさせて、取捨選択した上で文章にする。 実際の例 Claude に gh-aw を更新してもらったときの話。 gh-aw を v0.</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ce1c2aa5ed71d5611e25f555daf315d9d9632156/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F17391345971631172524%2F14729835035343576732%2F1795586547" />
     </item>
