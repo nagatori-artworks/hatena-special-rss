@@ -1,17 +1,17 @@
 {
   "ai": {
-    "items": 30,
-    "last_success_jst": "2026-11-27",
+    "items": 31,
+    "last_success_jst": "2026-11-28",
     "ok": true
   },
   "it": {
     "items": 31,
-    "last_success_jst": "2026-11-27",
+    "last_success_jst": "2026-11-28",
     "ok": true
   },
   "programming": {
     "items": 33,
-    "last_success_jst": "2026-11-27",
+    "last_success_jst": "2026-11-28",
     "ok": true
   }
 }
