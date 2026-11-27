@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry_1.outputs.page_url || steps.deployment_retry_2.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -57,6 +57,129 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: site
-      - name: Deploy to GitHub Pages
+      - name: Wait 60s for uploaded artifact
+        run: sleep 60
+      - name: Deploy GitHub Pages (attempt 1)
         id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+      - name: Wait 60s and check deployment before retry 1
+        id: retry_check_1
+        if: ${{ !cancelled() && steps.deployment.outcome == 'failure' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PREVIOUS_PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        shell: bash
+        run: |
+          sleep 60
+          response=$(mktemp)
+          trap 'rm -f "$response"' EXIT
+          # deploy-pages v4 uses the workflow's commit SHA as the build version.
+          # Check that no deployment is still running before creating another.
+          if ! code=$(curl --silent --show-error --connect-timeout 10 --max-time 30 \
+            -o "$response" -w '%{http_code}' \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pages/deployments/$GITHUB_SHA"); then
+            echo "::warning::Cannot confirm deployment status; refusing a potentially duplicate deployment."
+            exit 1
+          fi
+          case "$code" in
+            404)
+              if [ -n "$PREVIOUS_PAGE_URL" ]; then
+                echo "::error::Deployment may already have started; not retrying."
+                exit 1
+              fi
+              echo "decision=retry" >> "$GITHUB_OUTPUT"
+              ;;
+            200)
+              status=$(jq -r '.status // ""' "$response")
+              echo "Current Pages deployment status: $status"
+              case "$status" in
+                succeed)
+                  echo "decision=success" >> "$GITHUB_OUTPUT"
+                  ;;
+                deployment_failed|deployment_cancelled|deployment_content_failed|deployment_perms_error)
+                  echo "decision=retry" >> "$GITHUB_OUTPUT"
+                  ;;
+                *)
+                  echo "::error::Deployment is active or its status is uncertain; not retrying."
+                  exit 1
+                  ;;
+              esac
+              ;;
+            *)
+              echo "::error::Pages deployment status check returned HTTP $code; not retrying."
+              exit 1
+              ;;
+          esac
+      - name: Deploy GitHub Pages (attempt 2)
+        id: deployment_retry_1
+        if: ${{ !cancelled() && steps.retry_check_1.outputs.decision == 'retry' }}
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Wait 120s and check deployment before retry 2
+        id: retry_check_2
+        if: ${{ !cancelled() && steps.deployment_retry_1.outcome == 'failure' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PREVIOUS_PAGE_URL: ${{ steps.deployment_retry_1.outputs.page_url }}
+        shell: bash
+        run: |
+          sleep 120
+          response=$(mktemp)
+          trap 'rm -f "$response"' EXIT
+          # deploy-pages v4 uses the workflow's commit SHA as the build version.
+          # Check that no deployment is still running before creating another.
+          if ! code=$(curl --silent --show-error --connect-timeout 10 --max-time 30 \
+            -o "$response" -w '%{http_code}' \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pages/deployments/$GITHUB_SHA"); then
+            echo "::warning::Cannot confirm deployment status; refusing a potentially duplicate deployment."
+            exit 1
+          fi
+          case "$code" in
+            404)
+              if [ -n "$PREVIOUS_PAGE_URL" ]; then
+                echo "::error::Deployment may already have started; not retrying."
+                exit 1
+              fi
+              echo "decision=retry" >> "$GITHUB_OUTPUT"
+              ;;
+            200)
+              status=$(jq -r '.status // ""' "$response")
+              echo "Current Pages deployment status: $status"
+              case "$status" in
+                succeed)
+                  echo "decision=success" >> "$GITHUB_OUTPUT"
+                  ;;
+                deployment_failed|deployment_cancelled|deployment_content_failed|deployment_perms_error)
+                  echo "decision=retry" >> "$GITHUB_OUTPUT"
+                  ;;
+                *)
+                  echo "::error::Deployment is active or its status is uncertain; not retrying."
+                  exit 1
+                  ;;
+              esac
+              ;;
+            *)
+              echo "::error::Pages deployment status check returned HTTP $code; not retrying."
+              exit 1
+              ;;
+          esac
+      - name: Deploy GitHub Pages (attempt 3)
+        id: deployment_retry_2
+        if: ${{ !cancelled() && steps.retry_check_2.outputs.decision == 'retry' }}
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Verify Pages deployment result
+        if: ${{ !cancelled() }}
+        env:
+          DEPLOYED: ${{ steps.deployment.outcome == 'success' || steps.deployment_retry_1.outcome == 'success' || steps.deployment_retry_2.outcome == 'success' || steps.retry_check_1.outputs.decision == 'success' || steps.retry_check_2.outputs.decision == 'success' }}
+        run: |
+          if [ "$DEPLOYED" != "true" ]; then
+            echo "::error::GitHub Pages publication did not succeed."
+            exit 1
+          fi
+          echo "GitHub Pages publication succeeded."
