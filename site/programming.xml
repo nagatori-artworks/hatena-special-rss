@@ -11,7 +11,7 @@
       <link>https://qiita.com/reipandada/items/17496db6ac5f64a5e61a</link>
       <guid isPermaLink="false">urn:sha256:1d3e95b8fe99830e24c3c65a104394873acc39529257532bc013c2639cfb0762</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>126ブックマーク / 世紀の大発明 QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。 そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？ 隠す角によって正しい向きが変わるため、読み取る値も変わります。1枚に4通りの値を持たせられるので情報量が4倍になるのではないでしょうか。賢いですね。 作り方 やることはどの角を隠してもQRとして読めるような白黒の塗り方を計算で探すだけ。 隠した角は白</description>
+      <description>144ブックマーク / 世紀の大発明 QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。 そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？ 隠す角によって正しい向きが変わるため、読み取る値も変わります。1枚に4通りの値を持たせられるので情報量が4倍になるのではないでしょうか。賢いですね。 作り方 やることはどの角を隠してもQRとして読めるような白黒の塗り方を計算で探すだけ。 隠した角は白</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/346eb3796d5147db35b56de09bb18a2ec9556d74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjEyMTc5OTU1MiUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02MWI1YzdlZDU3Nzc4ODBiZDE5MDJjMmY1MWU2OGJkMg%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253De205d9df38903d1dcd4e63873ac5ccd6%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTgzJTg1JUU1JUEwJUIxJUU5JTg3JThGJUUzJTgxJThDNCVFNSU4MCU4RCVFMyU4MSVBRVFSJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThEJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTFhODJlNGM0MWYyN2IyYTIyZmY1NzllZDAwOWQ4MDc%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByZWlwYW5kYWRhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZTJiNjYxZmZjMWYxN2M5YmFiMjYzNWU1ODgzM2I4NDM%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D191d9ef4371126c9921387bf850e25e4" />
     </item>
@@ -20,7 +20,7 @@
       <link>https://speakerdeck.com/littlehands/umtp-suraido-20261125</link>
       <guid isPermaLink="false">urn:sha256:4f191db4c0dac74756c206f211d016af154d9031b0cdde4b16fc50dfad77949c</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>48ブックマーク / UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…</description>
+      <description>66ブックマーク / UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4fd774d24443b65a25b9ece668d77a2ff5ea38a3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fcc2d10c25b46460d81edae537df1bcc9%2Fslide_0.jpg%3F41512814" />
     </item>
@@ -29,7 +29,7 @@
       <link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link>
       <guid isPermaLink="false">urn:sha256:9fb05ca0de413c2c22d8a2cf0096f9e4f615f9fa8db756a4972949b3b50a08ad</guid>
       <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
-      <description>338ブックマーク / 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description>
+      <description>347ブックマーク / 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9aa0810985e78c6dda91151d8c195198ab439b79/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ead06dfc087473a85642706e19f07fc%2Fslide_0.jpg%3F41530757" />
     </item>
@@ -47,7 +47,7 @@
       <link>https://anond.hatelabo.jp/20261126144022</link>
       <guid isPermaLink="false">urn:sha256:b8356d4cf29d267faaeb1fad4efa140ba821d56dd682dbe90878bf4dc077f508</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>201ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
+      <description>203ブックマーク / ~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこ</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/38578e6dc5f6cd90f048513aa029b01995f10a11/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fanond.hatelabo.jp%2Fassets%2Fimages%2Fog-image-1500.gif" />
     </item>
@@ -177,6 +177,15 @@
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/64fa3bf158068cb135abbc16e871c708e783b7df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.ruby.or.jp%2Fassets%2Fimages%2Fcommon%2Fra-logo3.png" />
     </item>
     <item>
+      <title>個人開発 with AI</title>
+      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
+      <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
+      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
+      <description>615ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
+      <category>プログラミング</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
+    </item>
+    <item>
       <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
       <link>https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424</link>
       <guid isPermaLink="false">urn:sha256:673ca178ea8fa8dc6bac3eac81b2eb9fcc422bfc7849c5cc3c231150380a3c36</guid>
@@ -193,15 +202,6 @@
       <description>21ブックマーク</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d209af757ba210e988bad57d5a48f393702353c9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F563%2Fspeedyfox.jpg" />
-    </item>
-    <item>
-      <title>個人開発 with AI</title>
-      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
-      <guid isPermaLink="false">urn:sha256:0745fbdf0583a62df436e4a92580d0e4dc945f6da67b1f59a2431b018c7abb58</guid>
-      <pubDate>Wed, 25 Nov 2026 02:30:52 +0000</pubDate>
-      <description>611ブックマーク / ## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業では、全工程を番号つきで並べ、各行に「済み / 進行中 / 未着手」と担当（あなた / Claude）を付け、今の工程に印</description>
-      <category>プログラミング</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f740b46e21c449d5ff390afffaba501056ef0bf0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--JeYOsAud--%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_36%3AHolyGrail%2525E3%252581%2525AE%2525E3%252582%2525B9%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252583%252583%2525E3%252583%252597%252Cw_700%252Cx_202%252Cy_103%2Fc_fill%252Cg_north_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MTA4MTMwZmQuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_84%252Cy_76%2Fc_fit%252Cco_rgb%3A000000%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_56%3A%2525E5%252580%25258B%2525E4%2525BA%2525BA%2525E9%252596%25258B%2525E7%252599%2525BA%252520with%252520AI%252Cw_1032%252Cx_84%252Cy_218%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
     </item>
     <item>
       <title>AI時代の実践・形式検証入門</title>
@@ -271,7 +271,7 @@
       <link>https://tech.connehito.com/entry/2026/11/26/100507</link>
       <guid isPermaLink="false">urn:sha256:37c8d33c3e515b3f719769f4a1232a8834bcc63e3d096cf1d75526c11c052787</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>50ブックマーク / エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり こんにちは、コネヒト株式会社で働く北島と申します。社内ではしょうぽんと呼ばれています。 2026年10月、ママリの新規事業として「ママリレシートエール」を本格リリースしました。2月の立ち上げから約8ヶ月、営業・企画・デザイン・開発が横断して取り組んだプロジェクトです。 開発はコアメンバーのエンジニア2名で担当し、設計から実装・テスト・レビュー・デプロイまで、A</description>
+      <description>57ブックマーク / エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり こんにちは、コネヒト株式会社で働く北島と申します。社内ではしょうぽんと呼ばれています。 2026年10月、ママリの新規事業として「ママリレシートエール」を本格リリースしました。2月の立ち上げから約8ヶ月、営業・企画・デザイン・開発が横断して取り組んだプロジェクトです。 開発はコアメンバーのエンジニア2名で担当し、設計から実装・テスト・レビュー・デプロイまで、A</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c58626eaaca1ffb12035eacee0741ac7ad7577b9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2be80d4908b2c607056b506b6b532b4f4ced6d1f%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshoki8823%252F20261117%252F20261117180150.png" />
     </item>
@@ -280,7 +280,7 @@
       <link>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</link>
       <guid isPermaLink="false">urn:sha256:1b14e02e49b2d8dcd89e2f2e7178f50c3d297c1b9c526eb51b214a7eee75523e</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>6ブックマーク / ごーとんカップとは なぜ今年は AI 禁止にしたのか 出した問題の紹介 GitHub Actions のシークレット問題 WAF ログ × プロンプトインジェクション問題 その他 当日の様子 結果 参加者の声 終わったあとに起きたこと 最後に カミナシでセキュリティエンジニアをしているいちび (@itiB_S144) です。 みなさん、最後に AI なしでコードやコマンドを書いたのはいつでしょうか。ここ数年の AI ツールの成長は凄まじ</description>
+      <description>12ブックマーク / ごーとんカップとは なぜ今年は AI 禁止にしたのか 出した問題の紹介 GitHub Actions のシークレット問題 WAF ログ × プロンプトインジェクション問題 その他 当日の様子 結果 参加者の声 終わったあとに起きたこと 最後に カミナシでセキュリティエンジニアをしているいちび (@itiB_S144) です。 みなさん、最後に AI なしでコードやコマンドを書いたのはいつでしょうか。ここ数年の AI ツールの成長は凄まじ</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c57c1e24079c9997f361e81cdeb683ed4b272407/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb25370fe6a978e3a307576c9d892d37758759e93%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fk%252Fkaminashi-developer%252F20261127%252F20261127124329.png" />
     </item>
@@ -289,7 +289,7 @@
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/26/153937</link>
       <guid isPermaLink="false">urn:sha256:7b87a802b1b1a5b26345c8c6f819cdb1cf5210cba8e3498efdb36169a088f962</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>172ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
+      <description>173ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
       <category>プログラミング</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/48c570313a8d3bd2633006fa0b634377fc185e85/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035344322576%2F1795675177" />
     </item>

@@ -11,34 +11,34 @@
       <link>https://qiita.com/reipandada/items/17496db6ac5f64a5e61a</link>
       <guid isPermaLink="false">urn:sha256:1d3e95b8fe99830e24c3c65a104394873acc39529257532bc013c2639cfb0762</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>126ブックマーク / 世紀の大発明 QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。 そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？ 隠す角によって正しい向きが変わるため、読み取る値も変わります。1枚に4通りの値を持たせられるので情報量が4倍になるのではないでしょうか。賢いですね。 作り方 やることはどの角を隠してもQRとして読めるような白黒の塗り方を計算で探すだけ。 隠した角は白</description>
+      <description>144ブックマーク / 世紀の大発明 QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。 そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？ 隠す角によって正しい向きが変わるため、読み取る値も変わります。1枚に4通りの値を持たせられるので情報量が4倍になるのではないでしょうか。賢いですね。 作り方 やることはどの角を隠してもQRとして読めるような白黒の塗り方を計算で探すだけ。 隠した角は白</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/346eb3796d5147db35b56de09bb18a2ec9556d74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.1.1%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjEyMTc5OTU1MiUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02MWI1YzdlZDU3Nzc4ODBiZDE5MDJjMmY1MWU2OGJkMg%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253De205d9df38903d1dcd4e63873ac5ccd6%3Fixlib%3Drb-4.1.1%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTgzJTg1JUU1JUEwJUIxJUU5JTg3JThGJUUzJTgxJThDNCVFNSU4MCU4RCVFMyU4MSVBRVFSJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThEJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTFhODJlNGM0MWYyN2IyYTIyZmY1NzllZDAwOWQ4MDc%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByZWlwYW5kYWRhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZTJiNjYxZmZjMWYxN2M5YmFiMjYzNWU1ODgzM2I4NDM%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D191d9ef4371126c9921387bf850e25e4" />
-    </item>
-    <item>
-      <title>さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定</title>
-      <link>https://www.publickey1.jp/blog/26/aiai_1.html</link>
-      <guid isPermaLink="false">urn:sha256:f71f24617547e7bcc68e7d77d59556cc7f3129b014e722957a087d456e9b6b02</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>88ブックマーク / さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供するマネージドサービス「さくらのAI Engine」を提供しています。 さくらのAI Engineは従量課金制</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/44bfbd2469d25018040caff6b09ff0f218e36ccf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fsakura-simpleai-ann01.png" />
     </item>
     <item>
       <title>米、スペースXに衛星100万基の配備承認 宇宙にAIデータセンター構築へ</title>
       <link>https://www.cnn.co.jp/usa/35255487.html</link>
       <guid isPermaLink="false">urn:sha256:ba75b4140318b426947ba4aae438ee636f3589ba80d9bf1771cf265a22229e60</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>63ブックマーク / フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「ファルコンヘビー」が打ち上げられる様子＝2024年6月25日/Miguel J. Rodriguez Carrillo/AFP/Getty Images （CNN） 米連邦通信委員会（FCC）は、イーロン・マスク氏率いる米宇宙企業スペースXに対し、人工知能（AI）を支えるデータセンターを構築するため、宇宙空間に100万基の衛星を配備することを承認し</description>
+      <description>85ブックマーク / フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「ファルコンヘビー」が打ち上げられる様子＝2024年6月25日/Miguel J. Rodriguez Carrillo/AFP/Getty Images （CNN） 米連邦通信委員会（FCC）は、イーロン・マスク氏率いる米宇宙企業スペースXに対し、人工知能（AI）を支えるデータセンターを構築するため、宇宙空間に100万基の衛星を配備することを承認し</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6e08910c8ae009310ce2e5d5d858b1fb613d7b78/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F11%2F27%2Ffb305d2fd48c401b962cdc228b013f98%2Fgettyimages-2158701295-20261126101911165.jpg" />
+    </item>
+    <item>
+      <title>さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定</title>
+      <link>https://www.publickey1.jp/blog/26/aiai_1.html</link>
+      <guid isPermaLink="false">urn:sha256:f71f24617547e7bcc68e7d77d59556cc7f3129b014e722957a087d456e9b6b02</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>101ブックマーク / さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供するマネージドサービス「さくらのAI Engine」を提供しています。 さくらのAI Engineは従量課金制</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/44bfbd2469d25018040caff6b09ff0f218e36ccf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fsakura-simpleai-ann01.png" />
     </item>
     <item>
       <title>AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ</title>
       <link>https://speakerdeck.com/littlehands/umtp-suraido-20261125</link>
       <guid isPermaLink="false">urn:sha256:4f191db4c0dac74756c206f211d016af154d9031b0cdde4b16fc50dfad77949c</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>48ブックマーク / UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…</description>
+      <description>66ブックマーク / UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/4fd774d24443b65a25b9ece668d77a2ff5ea38a3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fcc2d10c25b46460d81edae537df1bcc9%2Fslide_0.jpg%3F41512814" />
     </item>
@@ -47,7 +47,7 @@
       <link>https://ashunar0.dev/posts/skills-over-mcp/</link>
       <guid isPermaLink="false">urn:sha256:c61a3e657ab4c8a138abb2b3d4ac40c8d36e83e6ea8dbb5b8141e8630bddcd66</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>52ブックマーク / はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発表されました。 MCP servers can now ship skills, run tasks, and more with Claude Skills over MCP is in public beta in Claude, so MCP servers can ship skills alongside their tools. Tas</description>
+      <description>64ブックマーク / はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発表されました。 MCP servers can now ship skills, run tasks, and more with Claude Skills over MCP is in public beta in Claude, so MCP servers can ship skills alongside their tools. Tas</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9bbd93cec9c3be7ba1b5cd2461e1d64941345d6f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fashunar0.dev%2Fog%2Fskills-over-mcp.png" />
     </item>
@@ -56,61 +56,70 @@
       <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html</link>
       <guid isPermaLink="false">urn:sha256:4ec8629987cc2931b6f4f756d76cde9151a65f1778908766a799137bf26dc9a0</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>55ブックマーク</description>
+      <description>62ブックマーク</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a3bd921ab58ab0bc59e23fc933b29ebaf3b88deb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F706%2F01.jpg" />
     </item>
     <item>
-      <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX</title>
-      <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
-      <guid isPermaLink="false">urn:sha256:a8d29399c43256b5be09bb6fb633377670aba7885e04d0fb63547d1c4776b907</guid>
+      <title>Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる</title>
+      <link>https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/</link>
+      <guid isPermaLink="false">urn:sha256:477392aee008617cceb72de8fc48e15750f619b4ad0b29eae7155ae4a8fb3d36</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>77ブックマーク / 2029-11-26 に開催された『アーキテクチャカンファレンス 2026』での登壇資料です。 https://conference.findy-code.io/conferences/architecture-con-2026/40/sessions/862</description>
+      <description>38ブックマーク / GoogleはEUのデジタルサービス法(DSA)に対応するため、2027年からAndroidアプリ開発者に電話番号と住所の公開を求めると発表しました。「個人開発者の間でプライバシーへの懸念が広がっている」とテクノロジーメディアのThe Vergeは報じています。 Trader status declaration - Play Console Help https://support.google.com/googleplay/andr</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ec725c34c20cde73d0cbc3e1cdd5e519833c64d4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F72b3e5bd7a574c0da040e0c67ebf7f86%2Fslide_0.jpg%3F41532266" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2c3d8f21985bf1f553beae3475795fde45129c9e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F27%2Fandroid-app-developers-have-to-share-address-publicly%2F00_m.jpg" />
     </item>
     <item>
       <title>Aniwaffle | Expressive, lovable AI voices for your characters</title>
       <link>https://aniwaffle.com/</link>
       <guid isPermaLink="false">urn:sha256:9c1cf4b0d3c6e141fd24317960fb5a55c7e70539583ec89a672f06223364ca28</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>64ブックマーク / Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it yourself.</description>
+      <description>73ブックマーク / Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it yourself.</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/a0bbd5ac5640c0f938787b5e6c220a4e9201fc37/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Faniwaffle.com%2Fsocial%2Faniwaffle-1116.jpg" />
+    </item>
+    <item>
+      <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX</title>
+      <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
+      <guid isPermaLink="false">urn:sha256:a8d29399c43256b5be09bb6fb633377670aba7885e04d0fb63547d1c4776b907</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>82ブックマーク / 2029-11-26 に開催された『アーキテクチャカンファレンス 2026』での登壇資料です。 https://conference.findy-code.io/conferences/architecture-con-2026/40/sessions/862</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ec725c34c20cde73d0cbc3e1cdd5e519833c64d4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F72b3e5bd7a574c0da040e0c67ebf7f86%2Fslide_0.jpg%3F41532266" />
     </item>
     <item>
       <title>デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース</title>
       <link>https://digital-agency-news.digital.go.jp/articles/2026-11-26</link>
       <guid isPermaLink="false">urn:sha256:5630ac692f2195ec6111c8a0a5a325937d419808356b829d94e761c1f624bd4f</guid>
       <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
-      <description>100ブックマーク / ホームニュース一覧デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る 2026年8月6日に開催した事業者向けの勉強会で、デジタル庁デザインシステムをローカルデザインシステムとして使う方法を紹介しました。この記事では、その内容を再掲します。 ＜目次＞ デジタル庁デザインシステムとは事業者向け勉強会の開催勉強会</description>
+      <description>109ブックマーク / ホームニュース一覧デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る 2026年8月6日に開催した事業者向けの勉強会で、デジタル庁デザインシステムをローカルデザインシステムとして使う方法を紹介しました。この記事では、その内容を再掲します。 ＜目次＞ デジタル庁デザインシステムとは事業者向け勉強会の開催勉強会</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/137cda884bec43c1ff0b610b64ee060d43fd828e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fdigital-agency-news.digital.go.jp%2Fassets%2Fcontents%2Fnode%2Finformation%2Ffield_thumbnail_image%2Fc1c480e1-a3be-4d1a-9b6f-e9312f69eacb%2F894f2baa%2F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E5%25BA%2581%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B5%25E3%2583%25A0%25E3%2583%258D%25E3%2582%25A4%25E3%2583%25AB%2520%25281%2529.png" />
-    </item>
-    <item>
-      <title>SSH is a GUI framework | ssh zydra.sh</title>
-      <link>https://zydra.sh/articles/ssh-is-a-gui-framework/</link>
-      <guid isPermaLink="false">urn:sha256:b7e58cf576a4ea431e2d2e62d735ff1e403005a9202b62aedab639d6bf9ecfc4</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>60ブックマーク / We end up using a similar fallback for many things. Clipboard sharing: OSC 52 handles bidirectional clipboard sharing, and Kitty's OSC 5522 adds image and arbitrary MIME-type transfers on top of that.Mouse support: CSI ?</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ca1a68457157cf8383cf40bf0b683201df3812ac/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fzydra.sh%2Fog-image.png" />
     </item>
     <item>
       <title>AIが書いたコードを、「わかる」コードに変える | gihyo.jp</title>
       <link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-05</link>
       <guid isPermaLink="false">urn:sha256:f7d83a1ff66a2b3020f42b84fc1f6e86ce21f6a76e3170ae436d02fa3ae3fa56</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>44ブックマーク / よくある失敗パターン 実装した機能にバグが見つかったが、処理の流れを理解しておらず、どこから調べればいいか見当がつかなかった コードレビューで「ここの処理はなぜ必要なの？」と聞かれ「AIが生成したコードなので…」としか答えられなかった 仕様変更の工数を聞かれたとき、どこをどれだけ変えればいいか見当もつかず、自分で実装したはずなのにコードを調べ直すことになった これらは、「⁠動いた」という結果だけで思考を止めてしまった典型的な例です。とり</description>
+      <description>52ブックマーク / よくある失敗パターン 実装した機能にバグが見つかったが、処理の流れを理解しておらず、どこから調べればいいか見当がつかなかった コードレビューで「ここの処理はなぜ必要なの？」と聞かれ「AIが生成したコードなので…」としか答えられなかった 仕様変更の工数を聞かれたとき、どこをどれだけ変えればいいか見当もつかず、自分で実装したはずなのにコードを調べ直すことになった これらは、「⁠動いた」という結果だけで思考を止めてしまった典型的な例です。とり</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/037c1ac67ef60b5ae115fdab9dc76ff765b68c0b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fgihyo.jp%2Fassets%2Fimages%2Farticle%2F2026%2F10%2Fengineer-ai-sounding-board-05%2Fengineer-ai-sounding-board-05.png" />
+    </item>
+    <item>
+      <title>SSH is a GUI framework | ssh zydra.sh</title>
+      <link>https://zydra.sh/articles/ssh-is-a-gui-framework/</link>
+      <guid isPermaLink="false">urn:sha256:b7e58cf576a4ea431e2d2e62d735ff1e403005a9202b62aedab639d6bf9ecfc4</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>64ブックマーク / We end up using a similar fallback for many things. Clipboard sharing: OSC 52 handles bidirectional clipboard sharing, and Kitty's OSC 5522 adds image and arbitrary MIME-type transfers on top of that.Mouse support: CSI ?</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ca1a68457157cf8383cf40bf0b683201df3812ac/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fzydra.sh%2Fog-image.png" />
     </item>
     <item>
       <title>エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり - コネヒト開発者ブログ</title>
       <link>https://tech.connehito.com/entry/2026/11/26/100507</link>
       <guid isPermaLink="false">urn:sha256:37c8d33c3e515b3f719769f4a1232a8834bcc63e3d096cf1d75526c11c052787</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>51ブックマーク / エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり こんにちは、コネヒト株式会社で働く北島と申します。社内ではしょうぽんと呼ばれています。 2026年10月、ママリの新規事業として「ママリレシートエール」を本格リリースしました。2月の立ち上げから約8ヶ月、営業・企画・デザイン・開発が横断して取り組んだプロジェクトです。 開発はコアメンバーのエンジニア2名で担当し、設計から実装・テスト・レビュー・デプロイまで、A</description>
+      <description>57ブックマーク / エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり こんにちは、コネヒト株式会社で働く北島と申します。社内ではしょうぽんと呼ばれています。 2026年10月、ママリの新規事業として「ママリレシートエール」を本格リリースしました。2月の立ち上げから約8ヶ月、営業・企画・デザイン・開発が横断して取り組んだプロジェクトです。 開発はコアメンバーのエンジニア2名で担当し、設計から実装・テスト・レビュー・デプロイまで、A</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c58626eaaca1ffb12035eacee0741ac7ad7577b9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2F2be80d4908b2c607056b506b6b532b4f4ced6d1f%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fs%252Fshoki8823%252F20261117%252F20261117180150.png" />
     </item>
@@ -119,70 +128,70 @@
       <link>https://aresluna.org/ui-style-guides/</link>
       <guid isPermaLink="false">urn:sha256:8d6011ef6480cc59e88f77b7e91401c886bee5e0b13511b2119ad0ac11030ea9</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>42ブックマーク / This is a collection of preserved UI style guides a.k.a. interface guidelines from various companies, starting from the early 1980s and continuing to today. Amiga (Commodore) Amiga was a multimedia personal computer part</description>
+      <description>45ブックマーク / This is a collection of preserved UI style guides a.k.a. interface guidelines from various companies, starting from the early 1980s and continuing to today. Amiga (Commodore) Amiga was a multimedia personal computer part</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/6f518a06dc376642cedcf5dd95cc21da7c967257/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Faresluna.org%2Fimages%2Fui-style-guides%2Fogimage.png" />
-    </item>
-    <item>
-      <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開</title>
-      <link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link>
-      <guid isPermaLink="false">urn:sha256:9fb05ca0de413c2c22d8a2cf0096f9e4f615f9fa8db756a4972949b3b50a08ad</guid>
-      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
-      <description>338ブックマーク / 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9aa0810985e78c6dda91151d8c195198ab439b79/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ead06dfc087473a85642706e19f07fc%2Fslide_0.jpg%3F41530757" />
-    </item>
-    <item>
-      <title>Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる</title>
-      <link>https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/</link>
-      <guid isPermaLink="false">urn:sha256:477392aee008617cceb72de8fc48e15750f619b4ad0b29eae7155ae4a8fb3d36</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>26ブックマーク / GoogleはEUのデジタルサービス法(DSA)に対応するため、2027年からAndroidアプリ開発者に電話番号と住所の公開を求めると発表しました。「個人開発者の間でプライバシーへの懸念が広がっている」とテクノロジーメディアのThe Vergeは報じています。 Trader status declaration - Play Console Help https://support.google.com/googleplay/andr</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2c3d8f21985bf1f553beae3475795fde45129c9e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2026%2F11%2F27%2Fandroid-app-developers-have-to-share-address-publicly%2F00_m.jpg" />
-    </item>
-    <item>
-      <title>GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era</title>
-      <link>https://github.com/datadog-labs/ephyra</link>
-      <guid isPermaLink="false">urn:sha256:436aed6357db2605fc57bd37d3383c432a52af1f48bcd91c713e732718704588</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>24ブックマーク / Ephyra is a new property-based testing library we are developing at Datadog Systems Research, designed from scratch for agentic property-based testing. Briefly, Ephyra brings autoresearch style hill-climbing optimization</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2d47a7ad5c728d428d0e83c4a30fb5b41187badc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fda52b2b1a31987286029ee6ad183de9323cc93fad264bba65b5fd89a1ca92ab2%2Fdatadog-labs%2Fephyra" />
     </item>
     <item>
       <title>Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp</title>
       <link>https://gihyo.jp/article/2026/11/skills-over-mcp</link>
       <guid isPermaLink="false">urn:sha256:42b21899c5e0876d9fa772deb5ec947e2f1474dd0f8ed25baaf89a19081e3dd8</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>46ブックマーク / Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skills, ru</description>
+      <description>53ブックマーク / Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skills, ru</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/ba3a0ca0ece84208c31689c1b9fc2d278b85b229/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fgihyo.jp%2Fassets%2Fimages%2FICON%2F2026%2F3163_skills-over-mcp.png" />
+    </item>
+    <item>
+      <title>GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era</title>
+      <link>https://github.com/datadog-labs/ephyra</link>
+      <guid isPermaLink="false">urn:sha256:436aed6357db2605fc57bd37d3383c432a52af1f48bcd91c713e732718704588</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>27ブックマーク / Ephyra is a new property-based testing library we are developing at Datadog Systems Research, designed from scratch for agentic property-based testing. Briefly, Ephyra brings autoresearch style hill-climbing optimization</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2d47a7ad5c728d428d0e83c4a30fb5b41187badc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fopengraph.githubassets.com%2Fda52b2b1a31987286029ee6ad183de9323cc93fad264bba65b5fd89a1ca92ab2%2Fdatadog-labs%2Fephyra" />
     </item>
     <item>
       <title>航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい 契約終了後も削除されず残存</title>
       <link>https://www.itmedia.co.jp/news/article/2611/27/2000003509/</link>
       <guid isPermaLink="false">urn:sha256:51056a4cfed76fb26e6070f7e50990cc261e1f523568891f4aa1c77543cd8bd3</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>15ブックマーク / 格安航空会社のPeach Aviationは11月26日、既に契約を終えていたプレイドのマーケティングサービス「KARTE」に、本来削除済みのはずの顧客情報が残っており、プレイドへの不正アクセスにより、外部に漏えいしたと発表した。対象は氏名や住所などで、最大約944万件（のべ件数）。 Peachは2019年8月1日から2025年8月31日までKARTEを利用しており、契約終了後、利用規約に則り顧客情報は削除されるべきだったが、「プレイド</description>
+      <description>19ブックマーク / 格安航空会社のPeach Aviationは11月26日、既に契約を終えていたプレイドのマーケティングサービス「KARTE」に、本来削除済みのはずの顧客情報が残っており、プレイドへの不正アクセスにより、外部に漏えいしたと発表した。対象は氏名や住所などで、最大約944万件（のべ件数）。 Peachは2019年8月1日から2025年8月31日までKARTEを利用しており、契約終了後、利用規約に則り顧客情報は削除されるべきだったが、「プレイド</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/f0ec39213da239e84d12cb54cea08eaa7d2754cb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F27%2F2000003509%2F10013111%2F2048" />
+    </item>
+    <item>
+      <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開</title>
+      <link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link>
+      <guid isPermaLink="false">urn:sha256:9fb05ca0de413c2c22d8a2cf0096f9e4f615f9fa8db756a4972949b3b50a08ad</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:19 +0000</pubDate>
+      <description>347ブックマーク / 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/9aa0810985e78c6dda91151d8c195198ab439b79/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2F4ead06dfc087473a85642706e19f07fc%2Fslide_0.jpg%3F41530757" />
     </item>
     <item>
       <title>gh-ostで2,500万行のテーブル変更をクエリ待ち1.31秒で通した話：Aurora MySQLへの導入と本番クローンでの検証 - Findy Tech Blog</title>
       <link>https://tech.findy.co.jp/entry/2026/11/27/070000</link>
       <guid isPermaLink="false">urn:sha256:ddeaa998b7534bbc4fd7cca0ddd4976114162a574f44ece2eea7cf449ea0f5fe</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>20ブックマーク / こんにちは、ファインディでFindy Team+の開発をしているrobinです。 Findy Team+のバックエンドには数千万〜数億行を持つ巨大テーブルが複数あります。これらのテーブルを変更する手段はオンラインDDLしかなく、変更中の負荷をコントロールできませんでした。そこでGitHub製OSSのgh-ostを導入したところ、2,500万行のテーブルを、クエリの待ち時間1.31秒・エラー0件に抑えて変更できました。 この記事では巨大テ</description>
+      <description>22ブックマーク / こんにちは、ファインディでFindy Team+の開発をしているrobinです。 Findy Team+のバックエンドには数千万〜数億行を持つ巨大テーブルが複数あります。これらのテーブルを変更する手段はオンラインDDLしかなく、変更中の負荷をコントロールできませんでした。そこでGitHub製OSSのgh-ostを導入したところ、2,500万行のテーブルを、クエリの待ち時間1.31秒・エラー0件に抑えて変更できました。 この記事では巨大テ</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/239256504bba69c574594e2c01e799e77cbe799f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fd5558db490e666aeb0cf40db19405b99dae5cdc4%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Ff%252Ffindy_robin%252F20261124%252F20261124125951.png" />
+    </item>
+    <item>
+      <title>AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</link>
+      <guid isPermaLink="false">urn:sha256:1b14e02e49b2d8dcd89e2f2e7178f50c3d297c1b9c526eb51b214a7eee75523e</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>12ブックマーク / ごーとんカップとは なぜ今年は AI 禁止にしたのか 出した問題の紹介 GitHub Actions のシークレット問題 WAF ログ × プロンプトインジェクション問題 その他 当日の様子 結果 参加者の声 終わったあとに起きたこと 最後に カミナシでセキュリティエンジニアをしているいちび (@itiB_S144) です。 みなさん、最後に AI なしでコードやコマンドを書いたのはいつでしょうか。ここ数年の AI ツールの成長は凄まじ</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c57c1e24079c9997f361e81cdeb683ed4b272407/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb25370fe6a978e3a307576c9d892d37758759e93%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fk%252Fkaminashi-developer%252F20261127%252F20261127124329.png" />
     </item>
     <item>
       <title>集英社 販売サイト会員の生年月日など70万件余漏えい | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261126de82087</link>
       <guid isPermaLink="false">urn:sha256:30bb84182819ca3c99d58132e4fc305d9a6c0d57a6c5f915cad80d7a61d4f700</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>21ブックマーク / 集英社は、メールの配信やアプリの一部に使っていた、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報が漏えいしたと発表しました。 漏えいしたのは、キャラクターグッズを販売しているサイ…</description>
+      <description>24ブックマーク / 集英社は、メールの配信やアプリの一部に使っていた、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報が漏えいしたと発表しました。 漏えいしたのは、キャラクターグッズを販売しているサイ…</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/fab4fc282a01109d337ebd85a47420713af8a8e7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261126de82087%2F20261126de82087_E0000214478_1_l.jpg" />
     </item>
@@ -191,7 +200,7 @@
       <link>https://www.asahi.com/articles/ASVCV3G3XVCVULOB01DM.html</link>
       <guid isPermaLink="false">urn:sha256:42707f1976094b1435f0b18b57aeca294d2d40cd687c85cff7774b5bc86d721f</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>13ブックマーク / 鎌倉市は26日、22日に市の警備室で受け付けた婚姻届などの個人情報が流出した、と発表した。開庁時間外の届け出書類は委託した警備会社が庁舎警備室で受け取っているが、市議が無断撮影し、個人情報を判別でき…</description>
+      <description>14ブックマーク / 鎌倉市は26日、22日に市の警備室で受け付けた婚姻届などの個人情報が流出した、と発表した。開庁時間外の届け出書類は委託した警備会社が庁舎警備室で受け取っているが、市議が無断撮影し、個人情報を判別でき…</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/7d5ea5ea1da652d4a8e8fa618909094ff000044c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgopt.asahi.com%2Fogp%2FAS20261126003956_comm.jpg" />
     </item>
@@ -200,79 +209,70 @@
       <link>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</link>
       <guid isPermaLink="false">urn:sha256:5dc09b126d192553ea85f215e25347be80f2aea536429b1473ae6c67c14b051f</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>12ブックマーク / Try out Artifacts created by Claude users</description>
+      <description>14ブックマーク / Try out Artifacts created by Claude users</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/d74eb8efc1e68479b7194fa9b1a923ec1b358d6a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fclaude.ai%2Fimages%2Fclaude_ogimage.png" />
-    </item>
-    <item>
-      <title>さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表</title>
-      <link>https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html</link>
-      <guid isPermaLink="false">urn:sha256:bdcf027d8abd1af9ea6992651c9c3ff4e2c790206ce8e24fd22c65147cbce1ad</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>24ブックマーク / さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表 さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）を発表しました。 Object Storage Sui</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/79ff5a7ff4a1bfdd8e1c2ce6584cf875789c3d20/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fsakura-os2ann01.png" />
-    </item>
-    <item>
-      <title>AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』 - カミナシ エンジニアブログ</title>
-      <link>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</link>
-      <guid isPermaLink="false">urn:sha256:1b14e02e49b2d8dcd89e2f2e7178f50c3d297c1b9c526eb51b214a7eee75523e</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>6ブックマーク / ごーとんカップとは なぜ今年は AI 禁止にしたのか 出した問題の紹介 GitHub Actions のシークレット問題 WAF ログ × プロンプトインジェクション問題 その他 当日の様子 結果 参加者の声 終わったあとに起きたこと 最後に カミナシでセキュリティエンジニアをしているいちび (@itiB_S144) です。 みなさん、最後に AI なしでコードやコマンドを書いたのはいつでしょうか。ここ数年の AI ツールの成長は凄まじ</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c57c1e24079c9997f361e81cdeb683ed4b272407/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fb25370fe6a978e3a307576c9d892d37758759e93%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fk%252Fkaminashi-developer%252F20261127%252F20261127124329.png" />
-    </item>
-    <item>
-      <title>AWS セキュリティ成熟度モデル v3 と PCI DSS 版・AI 版の変更点と評価ツールを確認する</title>
-      <link>https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model</link>
-      <guid isPermaLink="false">urn:sha256:d846d41989e46b5997ca7deb05bb31b019ecbe56f3c8902a1a60423ef748b12b</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>8ブックマーク / こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！ 皆さんは AWS のセキュリティ運用にセキュリティ成熟度モデルを使用していますか？ AWS 環境のセキュリティ運用で「次に何をやるか」を決めるとき、AWS セキュリティ成熟度モデル（AWS Security Maturity Model）を指針として使うケースが多くありました。これまでは v2 が主流で、v2 への更新はク</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/c57a8b51f89f52d31b2096a16582217569ad212b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--OojT71KN--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAWS%252520%2525E3%252582%2525BB%2525E3%252582%2525AD%2525E3%252583%2525A5%2525E3%252583%2525AA%2525E3%252583%252586%2525E3%252582%2525A3%2525E6%252588%252590%2525E7%252586%25259F%2525E5%2525BA%2525A6%2525E3%252583%2525A2%2525E3%252583%252587%2525E3%252583%2525AB%252520v3%252520%2525E3%252581%2525A8%252520PCI%252520DSS%252520%2525E7%252589%252588%2525E3%252583%2525BBAI%252520%2525E7%252589%252588%2525E3%252581%2525AE%2525E5%2525A4%252589%2525E6%25259B%2525B4%2525E7%252582%2525B9%2525E3%252581%2525A8%2525E8%2525A9%252595%2525E4%2525BE%2525A1%2525E3%252583%252584%2525E3%252583%2525BC%2525E3%252583%2525AB%2525E3%252582%252592%2525E7%2525A2%2525BA%2525E8%2525AA%25258D%2525E3%252581%252599%2525E3%252582%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_34%3A%2525E5%2525B9%2525B3%2525E6%25259C%2525A8%252520%2525E4%2525BD%2525B3%2525E4%2525BB%25258B%252Cx_220%252Cy_108%2Fbo_3px_solid_rgb%3Ad6e3ed%252Cg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw%3D%3D%252Cr_20%252Cw_90%252Cx_92%252Cy_102%2Fg_south_west%252Ch_34%252Cl_default%3Aog-publication-pro-mark-xcosax%252Cw_34%252Cx_217%252Cy_158%2Fco_rgb%3A6e7b85%252Cg_south_west%252Cl_text%3Anotosansjp-medium.otf_30%3A%2525E6%2525A0%2525AA%2525E5%2525BC%25258F%2525E4%2525BC%25259A%2525E7%2525A4%2525BE%2525E3%252582%2525B5%2525E3%252582%2525A4%2525E3%252583%252590%2525E3%252583%2525BC%2525E3%252582%2525BB%2525E3%252582%2525AD%2525E3%252583%2525A5%2525E3%252583%2525AA%2525E3%252583%252586%2525E3%252582%2525A3%2525E3%252582%2525AF%2525E3%252583%2525A9%2525E3%252582%2525A6%2525E3%252583%252589%2525E3%252580%252580%2525E3%252583%252586...%252Cx_255%252Cy_160%2Fbo_4px_solid_white%252Cg_south_west%252Ch_50%252Cl_fetch%3AaHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjZDVjMGY0MTIuanBlZw%3D%3D%252Cr_max%252Cw_50%252Cx_139%252Cy_84%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACMTiAE" />
-    </item>
-    <item>
-      <title>サイバー攻撃深刻化、「ひとり情シス」は危機管理上リスク…デジタル人材不足はＤＸの障壁に</title>
-      <link>https://www.yomiuri.co.jp/economy/20261127-GYT1T00002/</link>
-      <guid isPermaLink="false">urn:sha256:b6d0e2e83b5bdfe7ffa4055ec8f4a0a3a36ff96b1a1e8618771f39d1a26ed31b</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>18ブックマーク / 【読売新聞】 愛媛県内のある町役場。情報システムの保守管理業務などを担当する男性職員（４５）は、「自分がいなくなったらサイバー攻撃対策などの業務はどうなるのだろうか」という不安を抱えている。 男性は２０１０年度に民間企業から役場に転</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/138010d1647ebd45e4d8489a9f5718140c0e7eb8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261127-GYT1I00003-1.jpg%3Ftype%3Dogp" />
-    </item>
-    <item>
-      <title>X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/27/2000003506/</link>
-      <guid isPermaLink="false">urn:sha256:4b777a817049cb2a7276ddadb1fbc0698798023714583a3a1f21a26ae6ed5f54</guid>
-      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>5ブックマーク / 米Xは11月25日（現地時間）、13～17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始したと発表した。保護者は、10代の子どものX利用時間や表示されるコンテンツ、フォロワーやDMの相手などを管理できる。アカウントは子ども本人のものであり続け、保護者が設定を変更するとすべて記録され、子ども本人もそれを確認できる。日本でも利用可能だ。 機能を有効にすると、保護者は子どもの過去7日間の利用時間を確認し、1日の利用上限を</description>
-      <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2e8fdd75ccb8620019c21d913e963703bd376328/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F27%2F2000003506%2F10013101%2F2048" />
     </item>
     <item>
       <title>「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜</title>
       <link>https://speakerdeck.com/tatsuroro/20261126-nikkei-teck-talk-51-design</link>
       <guid isPermaLink="false">urn:sha256:ea9a08aaacde69484adafb87f77414cb9c71d586dc4bee3565b635fb3b202984</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>17ブックマーク / 2026/11/26 NIKKEI Tech Talk #51「デザインと開発を、もっと近くに〜チームで育てるUX/UI〜」で話したスライドです。 https://nikkei.connpass.com/event/412181/ ■テーマ ・AIで開発が速くなり、良し悪しの判断がデザイナーに…</description>
+      <description>21ブックマーク / 2026/11/26 NIKKEI Tech Talk #51「デザインと開発を、もっと近くに〜チームで育てるUX/UI〜」で話したスライドです。 https://nikkei.connpass.com/event/412181/ ■テーマ ・AIで開発が速くなり、良し悪しの判断がデザイナーに…</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/cb466c7f699ed41c256c7913c295985157ada4a7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Ffiles.speakerdeck.com%2Fpresentations%2Fc057f910d7d14d3f85e892040bacb4a4%2Fslide_0.jpg%3F41524436" />
     </item>
     <item>
-      <title>さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表</title>
-      <link>https://www.publickey1.jp/blog/26/post_310.html</link>
-      <guid isPermaLink="false">urn:sha256:f3c1f548eac99929996c9e431d448b8cdacf3c345184b23dfe9b88f64ac38897</guid>
+      <title>X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/27/2000003506/</link>
+      <guid isPermaLink="false">urn:sha256:4b777a817049cb2a7276ddadb1fbc0698798023714583a3a1f21a26ae6ed5f54</guid>
       <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
-      <description>8ブックマーク / さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表 さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催し、さくらのクラウドに関して東京リージョンの第三ゾーン、新ネットワーク基盤や新データベースサービスの投入などを発表しました。 東京リージョンに第三ゾーンを新設 さくらのクラウドは現在、北海道の石</description>
+      <description>7ブックマーク / 米Xは11月25日（現地時間）、13～17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始したと発表した。保護者は、10代の子どものX利用時間や表示されるコンテンツ、フォロワーやDMの相手などを管理できる。アカウントは子ども本人のものであり続け、保護者が設定を変更するとすべて記録され、子ども本人もそれを確認できる。日本でも利用可能だ。 機能を有効にすると、保護者は子どもの過去7日間の利用時間を確認し、1日の利用上限を</description>
       <category>IT</category>
-      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/1babc7e4bfb164bf92a9b668772981fa28c082cc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fsakura-dekiru-cloud02.png" />
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/2e8fdd75ccb8620019c21d913e963703bd376328/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2Fogp%2F2611%2F27%2F2000003506%2F10013101%2F2048" />
+    </item>
+    <item>
+      <title>「プレステの父」がXboxを誕生させた？ 久夛良木健氏が明かしたマイクロソフトとの駆け引き（多根清史） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/f6b89482633cedb0ff3e4939d53b1bfdead8a8ca</link>
+      <guid isPermaLink="false">urn:sha256:18e14eb8b9a545cfaad6dadc6aae02889aaf79cfc04b4ab798ec4cc16510e855</guid>
+      <pubDate>Fri, 27 Nov 2026 05:22:25 +0000</pubDate>
+      <description>4ブックマーク / PlayStationの父として知られる久夛良木健氏は、もしかするとXboxの父でもあるのかもしれません。同氏は米ゲームメディアThe Game Businessの取材で、あえてマイクロソフトを誘導して自社製のゲーム機を作らせた、という趣旨のことを語っています。 久夛良木氏はかつて、マイクロソフトのトップと一対一で面会する機会があったそうです。具体的な時期は明かされていませんが、インタビューの流れからすると、司会が「ではPS2の話へ移り</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/bd74a897da4aa68ffa947b141b4678e8b322ebd8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Fiwiz-yn%2Frpr%2Ftanekiyoshi%2F02774993%2Ftitle-1795677135241.jpeg%3Fexp%3D10800" />
+    </item>
+    <item>
+      <title>さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表</title>
+      <link>https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html</link>
+      <guid isPermaLink="false">urn:sha256:bdcf027d8abd1af9ea6992651c9c3ff4e2c790206ce8e24fd22c65147cbce1ad</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>25ブックマーク / さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表 さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）を発表しました。 Object Storage Sui</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/79ff5a7ff4a1bfdd8e1c2ce6584cf875789c3d20/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.publickey1.jp%2F2026%2Fsakura-os2ann01.png" />
+    </item>
+    <item>
+      <title>サイバー攻撃深刻化、「ひとり情シス」は危機管理上リスク…デジタル人材不足はＤＸの障壁に</title>
+      <link>https://www.yomiuri.co.jp/economy/20261127-GYT1T00002/</link>
+      <guid isPermaLink="false">urn:sha256:b6d0e2e83b5bdfe7ffa4055ec8f4a0a3a36ff96b1a1e8618771f39d1a26ed31b</guid>
+      <pubDate>Fri, 27 Nov 2026 04:16:17 +0000</pubDate>
+      <description>19ブックマーク / 【読売新聞】 愛媛県内のある町役場。情報システムの保守管理業務などを担当する男性職員（４５）は、「自分がいなくなったらサイバー攻撃対策などの業務はどうなるのだろうか」という不安を抱えている。 男性は２０１０年度に民間企業から役場に転</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/138010d1647ebd45e4d8489a9f5718140c0e7eb8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.yomiuri.co.jp%2Fmedia%2F2026%2F11%2F20261127-GYT1I00003-1.jpg%3Ftype%3Dogp" />
+    </item>
+    <item>
+      <title>AI法改正案の概要 “事業者に安全確保義務 罰則適用も” | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261126de81752</link>
+      <guid isPermaLink="false">urn:sha256:0b77228e797e45993052173009489ae26b06235badb9a01ec27fe3ea58feb223</guid>
+      <pubDate>Fri, 27 Nov 2026 05:22:25 +0000</pubDate>
+      <description>7ブックマーク / 高性能なAIの悪用や暴走への懸念が高まる中、政府は、対策強化に向けたAI法の改正案の概要をまとめました。 AIを提供する事業者を規制の対象として指定し、安全性を確保するための措置を講じるよう義務づけ…</description>
+      <category>IT</category>
+      <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/8ecbe3ead6da60236a9b034244d126d3bc2e7857/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fnd%2Fkiji%2F20261126de81752%2F20261126de81752_E0000212375_1_l.jpg" />
     </item>
     <item>
       <title>1Passwordへの不正アクセスについてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/11/26/153937</link>
       <guid isPermaLink="false">urn:sha256:7b87a802b1b1a5b26345c8c6f819cdb1cf5210cba8e3498efdb36169a088f962</guid>
       <pubDate>Thu, 26 Nov 2026 10:54:47 +0000</pubDate>
-      <description>172ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
+      <description>173ブックマーク / 2026年11月25日、1Passwordは従業員のGitHubアカウントへの不正アクセスにより、バックエンドのシステムから一部の顧客のアカウント情報が取得されたと公表しました。ここでは関連する情報をまとめます。 公表後も顧客への通知を継続 1Passwordは11月19日、従業員の業務用GitHubアカウントに攻撃者がアクセスした兆候を受け、調査を開始。6日後の11月25日(現地時間)、ブログと公式Xで公表(出典: 1, 2)。運営会</description>
       <category>IT</category>
       <media:thumbnail url="https://cdn-ak-scissors.b.st-hatena.com/image/square/48c570313a8d3bd2633006fa0b634377fc185e85/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14729835035344322576%2F1795675177" />
     </item>
